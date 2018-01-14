@@ -1,0 +1,66 @@
+WARNING: no script file beep-fixed.ded
+WARNING: no script file names.ded
+
+Dictionary Usage Statistics
+---------------------------
+  Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
+  beep-fixed      2118       1127       2118       1127
+       names         2          2          2          2
+        dict      1129       1129       1129       1129
+
+1129 words required, 0 missing
+
+New Phone Usage Counts
+---------------------
+  1. aa    :   524
+  2. ch    :    57
+  3. r     :   359
+  4. y     :   162
+  5. a     :  1418
+  6. sp    :  1127
+  7. d     :   143
+  8. m     :   195
+  9. ii    :   179
+ 10. dh    :    48
+ 11. u     :   158
+ 12. n     :   266
+ 13. i     :   309
+ 14. k     :   222
+ 15. g     :    99
+ 16. h     :   138
+ 17. j     :    93
+ 18. l     :   130
+ 19. sh    :    72
+ 20. shh   :    53
+ 21. nd~   :    35
+ 22. t     :   234
+ 23. kh    :    48
+ 24. oo    :   102
+ 25. p     :   157
+ 26. ei    :   185
+ 27. s     :   239
+ 28. bh    :    59
+ 29. th    :    28
+ 30. v     :   157
+ 31. b     :    80
+ 32. n:    :   120
+ 33. chh   :    10
+ 34. ai    :    26
+ 35. ph    :    10
+ 36. tra   :    14
+ 37. h:    :     5
+ 38. au    :    17
+ 39. d:h   :     4
+ 40. uu    :    46
+ 41. t:h   :    12
+ 42. ng~   :     1
+ 43. rx    :    29
+ 44. t:    :    36
+ 45. d:    :    17
+ 46. gh    :     6
+ 47. jh    :     5
+ 48. nj~   :     4
+ 49. o~    :     6
+ 50. sil   :     2
+
+Dictionary dict created

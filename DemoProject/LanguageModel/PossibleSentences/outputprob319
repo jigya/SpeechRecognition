@@ -1,0 +1,10 @@
+aba shrii raama kathaa pati paavani
+1 sentences, 6 words, 0 OOVs
+0 zeroprobs, logprob= -19.4025 ppl= 591.268 ppl1= 1712.96
+
+aba shriiraama kathaa pati paavani
+1 sentences, 5 words, 0 OOVs
+0 zeroprobs, logprob= -13.142 ppl= 155.002 ppl1= 425.014
+
+file ./PossibleSentences/output319: 2 sentences, 11 words, 0 OOVs
+0 zeroprobs, logprob= -32.5445 ppl= 318.731 ppl1= 909.058

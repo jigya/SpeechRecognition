@@ -1,0 +1,10 @@
+jaba kii kuraana mei aisaa kuchha na hii hai
+1 sentences, 9 words, 0 OOVs
+0 zeroprobs, logprob= -22.5563 ppl= 180.149 ppl1= 320.818
+
+jaba kii kuraana mei aisaa kuchha nahii hai
+1 sentences, 8 words, 0 OOVs
+0 zeroprobs, logprob= -20.1396 ppl= 172.876 ppl1= 329.195
+
+file ./PossibleSentences/output460: 2 sentences, 17 words, 0 OOVs
+0 zeroprobs, logprob= -42.696 ppl= 176.667 ppl1= 324.733

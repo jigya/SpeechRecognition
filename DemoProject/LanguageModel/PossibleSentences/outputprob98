@@ -1,0 +1,14 @@
+isei saa va na kei mahinei mei gaaya jaataa hai
+1 sentences, 10 words, 0 OOVs
+0 zeroprobs, logprob= -27.9304 ppl= 346.043 ppl1= 620.93
+
+isei saa vana kei mahinei mei gaaya jaataa hai
+1 sentences, 9 words, 0 OOVs
+0 zeroprobs, logprob= -25.7724 ppl= 377.783 ppl1= 730.471
+
+isei saavana kei mahinei mei gaaya jaataa hai
+1 sentences, 8 words, 0 OOVs
+0 zeroprobs, logprob= -18.8302 ppl= 123.665 ppl1= 225.828
+
+file ./PossibleSentences/output98: 3 sentences, 27 words, 0 OOVs
+0 zeroprobs, logprob= -72.5331 ppl= 261.679 ppl1= 485.747

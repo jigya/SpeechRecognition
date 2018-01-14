@@ -1,0 +1,10 @@
+gaan:va kei loogoo nei aaga deikhi too kariiba aa yei
+1 sentences, 10 words, 0 OOVs
+0 zeroprobs, logprob= -26.072 ppl= 234.523 ppl1= 404.766
+
+gaan:va kei loogoo nei aaga deikhi too kariiba aayei
+1 sentences, 9 words, 0 OOVs
+0 zeroprobs, logprob= -22.9213 ppl= 195.944 ppl1= 352.22
+
+file ./PossibleSentences/output448: 2 sentences, 19 words, 0 OOVs
+0 zeroprobs, logprob= -48.9934 ppl= 215.287 ppl1= 378.964

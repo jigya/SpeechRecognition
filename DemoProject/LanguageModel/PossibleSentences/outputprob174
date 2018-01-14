@@ -1,0 +1,10 @@
+san:yukta aaja ameirikaa aura o~st:reiliyaa kei aneika paryat:ana kshheitra isa kaa hoo dhaarand~aa hain:
+1 sentences, 14 words, 0 OOVs
+0 zeroprobs, logprob= -34.4811 ppl= 198.948 ppl1= 290.359
+
+san:yukta aaja ameirikaa aura o~st:reiliyaa kei aneika paryat:ana kshheitra isakaa hoo dhaarand~aa hain:
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -31.5627 ppl= 179.67 ppl1= 267.853
+
+file ./PossibleSentences/output174: 2 sentences, 27 words, 0 OOVs
+0 zeroprobs, logprob= -66.0437 ppl= 189.396 ppl1= 279.296

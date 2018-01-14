@@ -1,0 +1,10 @@
+phraan:sisii raashht:ra pati chunaava kei liei khoojein:
+1 sentences, 7 words, 0 OOVs
+0 zeroprobs, logprob= -16.8667 ppl= 128.334 ppl1= 256.763
+
+phraan:sisii raashht:rapati chunaava kei liei khoojein:
+1 sentences, 6 words, 0 OOVs
+0 zeroprobs, logprob= -7.01093 ppl= 10.036 ppl1= 14.7397
+
+file ./PossibleSentences/output815: 2 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -23.8777 ppl= 39.07 ppl1= 68.6662

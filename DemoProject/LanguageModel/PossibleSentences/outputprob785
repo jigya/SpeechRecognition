@@ -1,0 +1,10 @@
+doonoo vibhaajana kei baada bhaarata aa gei thei jaa hoo aapa raajaa nirmaataa bana kei
+1 sentences, 15 words, 0 OOVs
+0 zeroprobs, logprob= -36.5966 ppl= 193.77 ppl1= 275.279
+
+doonoo vibhaajana kei baada bhaarata aagei thei jaa hoo aapa raajaa nirmaataa bana kei
+1 sentences, 14 words, 0 OOVs
+0 zeroprobs, logprob= -38.8628 ppl= 389.813 ppl1= 596.922
+
+file ./PossibleSentences/output785: 2 sentences, 29 words, 0 OOVs
+0 zeroprobs, logprob= -75.4594 ppl= 271.754 ppl1= 399.991

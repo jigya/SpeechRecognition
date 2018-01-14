@@ -1,0 +1,10 @@
+kei looga isei hindii kaa eika ruupa maana tei hain:
+1 sentences, 10 words, 0 OOVs
+0 zeroprobs, logprob= -23.6956 ppl= 142.61 ppl1= 234.188
+
+kei looga isei hindii kaa eika ruupa maanatei hain:
+1 sentences, 9 words, 0 OOVs
+0 zeroprobs, logprob= -16.3464 ppl= 43.1161 ppl1= 65.5037
+
+file ./PossibleSentences/output231: 2 sentences, 19 words, 0 OOVs
+0 zeroprobs, logprob= -40.042 ppl= 80.6796 ppl1= 128.078

@@ -1,0 +1,10 @@
+kaa paa san:deisha paa kara achchhaa lagaa
+1 sentences, 7 words, 0 OOVs
+0 zeroprobs, logprob= -19.4391 ppl= 269.085 ppl1= 598.435
+
+kaa paa san:deisha paakara achchhaa lagaa
+1 sentences, 6 words, 0 OOVs
+0 zeroprobs, logprob= -13.8545 ppl= 95.3278 ppl1= 203.746
+
+file ./PossibleSentences/output798: 2 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -33.2937 ppl= 165.797 ppl1= 363.957

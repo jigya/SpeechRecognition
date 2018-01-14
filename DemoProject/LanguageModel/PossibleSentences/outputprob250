@@ -1,0 +1,10 @@
+kyaa mujhei surakshhita kara nei kaa adhikaara mila sakataa hai
+1 sentences, 10 words, 0 OOVs
+0 zeroprobs, logprob= -18.7277 ppl= 50.4104 ppl1= 74.6057
+
+kyaa mujhei surakshhita karanei kaa adhikaara mila sakataa hai
+1 sentences, 9 words, 0 OOVs
+0 zeroprobs, logprob= -13.5629 ppl= 22.7139 ppl1= 32.136
+
+file ./PossibleSentences/output250: 2 sentences, 19 words, 0 OOVs
+0 zeroprobs, logprob= -32.2906 ppl= 34.4866 ppl1= 50.0619

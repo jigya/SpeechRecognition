@@ -1,0 +1,18 @@
+arei huaa mai nei dhyaana diyaa hai aapa kei kaarya para
+1 sentences, 11 words, 0 OOVs
+0 zeroprobs, logprob= -30.1102 ppl= 322.989 ppl1= 546.129
+
+arei huaa mainei dhyaana diyaa hai aapa kei kaarya para
+1 sentences, 10 words, 0 OOVs
+0 zeroprobs, logprob= -25.9521 ppl= 228.709 ppl1= 393.743
+
+arei huaa mai nei dhyaana diyaa hai aapakei kaarya para
+1 sentences, 10 words, 0 OOVs
+0 zeroprobs, logprob= -27.712 ppl= 330.58 ppl1= 590.478
+
+arei huaa mainei dhyaana diyaa hai aapakei kaarya para
+1 sentences, 9 words, 0 OOVs
+0 zeroprobs, logprob= -23.5539 ppl= 226.669 ppl1= 414.097
+
+file ./PossibleSentences/output710: 4 sentences, 40 words, 0 OOVs
+0 zeroprobs, logprob= -107.328 ppl= 274.967 ppl1= 482.179

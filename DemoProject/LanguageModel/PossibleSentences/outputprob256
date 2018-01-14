@@ -1,0 +1,10 @@
+mukhyatah: vei jooga kii man:dira kei pradhaana deivataa sei sambandhita hoo tei hain:
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -32.4931 ppl= 209.381 ppl1= 315.843
+
+mukhyatah: vei jooga kii man:dira kei pradhaana deivataa sei sambandhita hootei hain:
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -25.6463 ppl= 93.9274 ppl1= 137.149
+
+file ./PossibleSentences/output256: 2 sentences, 25 words, 0 OOVs
+0 zeroprobs, logprob= -58.1394 ppl= 142.335 ppl1= 211.63

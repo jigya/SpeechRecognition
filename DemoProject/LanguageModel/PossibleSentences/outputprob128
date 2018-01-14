@@ -1,0 +1,10 @@
+bahu rasa raanii kaa arei hai aapa kaa
+1 sentences, 8 words, 0 OOVs
+0 zeroprobs, logprob= -26.4296 ppl= 864.224 ppl1= 2012.35
+
+bahu rasa raanii kaa arei hai aapakaa
+1 sentences, 7 words, 0 OOVs
+0 zeroprobs, logprob= -23.5752 ppl= 884.922 ppl1= 2332.88
+
+file ./PossibleSentences/output128: 2 sentences, 15 words, 0 OOVs
+0 zeroprobs, logprob= -50.0049 ppl= 873.903 ppl1= 2156.05

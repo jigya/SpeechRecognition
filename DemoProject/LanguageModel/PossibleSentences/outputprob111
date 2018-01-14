@@ -1,0 +1,10 @@
+kaalidaasa naama kaa shaabdika artha hain: kaa lii kaa seivaka
+1 sentences, 10 words, 0 OOVs
+0 zeroprobs, logprob= -25.3731 ppl= 202.604 ppl1= 344.597
+
+kaalidaasa naama kaa shaabdika artha hain: kaalii kaa seivaka
+1 sentences, 9 words, 0 OOVs
+0 zeroprobs, logprob= -22.6767 ppl= 185.213 ppl1= 330.852
+
+file ./PossibleSentences/output111: 2 sentences, 19 words, 0 OOVs
+0 zeroprobs, logprob= -48.0498 ppl= 194.127 ppl1= 338.017

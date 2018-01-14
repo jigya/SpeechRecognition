@@ -1,0 +1,18 @@
+isa artha mei yaha pahun:cha mahatva kaa yooga daana hoo gaa
+1 sentences, 11 words, 0 OOVs
+0 zeroprobs, logprob= -33.5635 ppl= 626.555 ppl1= 1125.2
+
+isa artha mei yaha pahun:cha mahatva kaa yoogadaana hoo gaa
+1 sentences, 10 words, 0 OOVs
+0 zeroprobs, logprob= -28.1439 ppl= 361.859 ppl1= 652.219
+
+isa artha mei yaha pahun:cha mahatva kaa yooga daana hoogaa
+1 sentences, 10 words, 0 OOVs
+0 zeroprobs, logprob= -29.6536 ppl= 496.346 ppl1= 923.344
+
+isa artha mei yaha pahun:cha mahatva kaa yoogadaana hoogaa
+1 sentences, 9 words, 0 OOVs
+0 zeroprobs, logprob= -22.4671 ppl= 176.484 ppl1= 313.573
+
+file ./PossibleSentences/output818: 4 sentences, 40 words, 0 OOVs
+0 zeroprobs, logprob= -113.828 ppl= 386.37 ppl1= 700.976

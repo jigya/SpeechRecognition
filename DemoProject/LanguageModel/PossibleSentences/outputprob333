@@ -1,0 +1,10 @@
+ud:iisaa kii raaja niiti kei liei khoojein:
+1 sentences, 7 words, 0 OOVs
+0 zeroprobs, logprob= -14.6819 ppl= 68.4283 ppl1= 125.145
+
+ud:iisaa kii raajaniiti kei liei khoojein:
+1 sentences, 6 words, 0 OOVs
+0 zeroprobs, logprob= -8.15163 ppl= 14.6056 ppl1= 22.8352
+
+file ./PossibleSentences/output333: 2 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -22.8335 ppl= 33.2839 ppl1= 57.0722

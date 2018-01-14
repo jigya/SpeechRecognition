@@ -1,0 +1,10 @@
+dhara oon: padaartha kii eika avasthaa hain: jaba ki dravya svayan: padaartha
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -30.8254 ppl= 235.065 ppl1= 370.499
+
+dhara oon: padaartha kii eika avasthaa hain: jabaki dravya svayan: padaartha
+1 sentences, 11 words, 0 OOVs
+0 zeroprobs, logprob= -27.1083 ppl= 181.562 ppl1= 291.334
+
+file ./PossibleSentences/output167: 2 sentences, 23 words, 0 OOVs
+0 zeroprobs, logprob= -57.9337 ppl= 207.658 ppl1= 330.262

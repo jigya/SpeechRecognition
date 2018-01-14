@@ -1,0 +1,10 @@
+yaha leikha mukhyatah: an:greijii mein: hai usa kaa sudhaara kaa naa hai
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -26.7551 ppl= 114.31 ppl1= 169.664
+
+yaha leikha mukhyatah: an:greijii mein: hai usakaa sudhaara kaa naa hai
+1 sentences, 11 words, 0 OOVs
+0 zeroprobs, logprob= -22.6309 ppl= 76.8963 ppl1= 114.117
+
+file ./PossibleSentences/output523: 2 sentences, 23 words, 0 OOVs
+0 zeroprobs, logprob= -49.3859 ppl= 94.5013 ppl1= 140.351

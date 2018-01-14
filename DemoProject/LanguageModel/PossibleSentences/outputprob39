@@ -1,0 +1,10 @@
+lagaa va kaa artha hootaa hai mooha voo
+1 sentences, 8 words, 0 OOVs
+0 zeroprobs, logprob= -16.7184 ppl= 72.0449 ppl1= 122.971
+
+lagaava kaa artha hootaa hai mooha voo
+1 sentences, 7 words, 0 OOVs
+0 zeroprobs, logprob= -12.891 ppl= 40.8677 ppl1= 69.4349
+
+file ./PossibleSentences/output39: 2 sentences, 15 words, 0 OOVs
+0 zeroprobs, logprob= -29.6095 ppl= 55.1739 ppl1= 94.1813

@@ -1,0 +1,18 @@
+pad:hnei kii laga na shukla jii va ei bachapana sei hii thii
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -31.5349 ppl= 266.537 ppl1= 424.526
+
+pad:hnei kii lagana shukla jii va ei bachapana sei hii thii
+1 sentences, 11 words, 0 OOVs
+0 zeroprobs, logprob= -25.1124 ppl= 123.794 ppl1= 191.843
+
+pad:hnei kii laga na shukla jiiva ei bachapana sei hii thii
+1 sentences, 11 words, 0 OOVs
+0 zeroprobs, logprob= -31.1342 ppl= 393.11 ppl1= 676.674
+
+pad:hnei kii lagana shukla jiiva ei bachapana sei hii thii
+1 sentences, 10 words, 0 OOVs
+0 zeroprobs, logprob= -24.7117 ppl= 176.408 ppl1= 295.918
+
+file ./PossibleSentences/output767: 4 sentences, 44 words, 0 OOVs
+0 zeroprobs, logprob= -112.493 ppl= 220.601 ppl1= 360.298

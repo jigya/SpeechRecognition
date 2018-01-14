@@ -1,0 +1,18 @@
+man:tra paa kara usa kaa hari maana tau oora bhii bad:h gayaa
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -36.2562 ppl= 615.09 ppl1= 1050.39
+
+man:tra paakara usa kaa hari maana tau oora bhii bad:h gayaa
+1 sentences, 11 words, 0 OOVs
+0 zeroprobs, logprob= -35.2196 ppl= 860.922 ppl1= 1591.4
+
+man:tra paa kara usakaa hari maana tau oora bhii bad:h gayaa
+1 sentences, 11 words, 0 OOVs
+0 zeroprobs, logprob= -34.6306 ppl= 768.918 ppl1= 1406.8
+
+man:tra paakara usakaa hari maana tau oora bhii bad:h gayaa
+1 sentences, 10 words, 0 OOVs
+0 zeroprobs, logprob= -31.2447 ppl= 692.518 ppl1= 1331.91
+
+file ./PossibleSentences/output397: 4 sentences, 44 words, 0 OOVs
+0 zeroprobs, logprob= -137.351 ppl= 726.91 ppl1= 1323.17

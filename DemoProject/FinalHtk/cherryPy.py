@@ -1,0 +1,75 @@
+from flask import Flask, request, redirect, url_for, render_template
+from werkzeug import secure_filename
+import os
+import subprocess
+import codecs
+
+app = Flask(__name__)
+wavFile = "./audio/output2.wav"
+mfccFile = "./testMfcc/output2.mfc"
+engToHindiMap = {}
+with codecs.open('mapEngToHindi', encoding='utf-8') as f:
+    hindiStrings = f.readlines()
+    for hindiString in hindiStrings:
+        hindiString = hindiString[:-1]
+        hindiStringParts = hindiString.split(' ')
+        engToHindiMap[hindiStringParts[0]] = hindiStringParts[1]
+
+@app.route("/sendWav")
+def sendWavFile():
+    return render_template("form.html")
+
+@app.route("/", methods=['POST'])
+def index():
+    if request.method == 'POST':
+        fileReceived = request.files['file']
+        fileName = "testFile"
+        fileExtAmr = ".amr"
+        fileNameAmr = fileName + fileExtAmr
+        fileExtWav = ".wav"
+        fileNameWav = fileName + fileExtWav
+        fileDirWav = "testing/"
+        fileExtMfc = ".mfc"
+        fileNameMfc = fileName + fileExtMfc
+        fileDirMfc = "testMfcc/"
+        fileReceived.save(os.path.join(fileDirWav,fileNameAmr))
+        amrFile = fileDirWav + fileNameAmr
+        wavFile = fileDirWav + fileNameWav
+        mfccFile = fileDirMfc + fileNameMfc
+    with open("codetester.scp","w") as myFile:
+        myFile.write(wavFile + " " + mfccFile)
+    with open("tester.scp","w") as myFile:
+        myFile.write(mfccFile)
+    cmdLine = "ffmpeg -y -i " + amrFile + " -af 'volume=2.0' -ar 16000 " + wavFile
+    args = cmdLine.split()
+    print args
+    popen = subprocess.call(cmdLine, stdout=subprocess.PIPE, shell = True)
+    cmdLine = "HCopy -T 1 -C configTest -S codetester.scp"
+    args = cmdLine.split()
+    popen = subprocess.call(args, stdout=subprocess.PIPE)
+    cmdLine = "HVite -T 1 -C configHtk -H hmm45/macros -H hmm45/hmmdefs -S tester.scp -l '*' -i recout.mlf -w wdnet -p -25.0 -s 2.5 dict monophones1"
+    args = cmdLine.split()
+    popen = subprocess.call(args, stdout=subprocess.PIPE)
+    recoutFile = open("recout.mlf","r")
+    recoutFileLines = recoutFile.readlines()
+    retString = ""
+    for i in xrange(len(recoutFileLines)-4):
+        line = recoutFileLines[i+3]
+        line = line[:-1]
+        lineParts = line.split(' ')
+        if lineParts[2] != "sent-end":
+            retString += " "
+            retString += lineParts[2]
+    retStringParts = retString.split(' ')
+    retHindiString = ''
+    for retStringPart in retStringParts:
+        if retStringPart != '':
+            retHindiString += " "
+            try:
+                retHindiString += engToHindiMap[retStringPart]
+            except KeyError:
+                retHindiString += retStringPart
+    return retHindiString
+
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=80, debug = True)

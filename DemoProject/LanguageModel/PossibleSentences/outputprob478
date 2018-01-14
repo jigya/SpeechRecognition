@@ -1,0 +1,10 @@
+isa lai kei anya leikhakoon: kei baarei mei bhii jaanakaarii dein: too achchhaa hoo gaa
+1 sentences, 15 words, 0 OOVs
+0 zeroprobs, logprob= -32.4213 ppl= 106.251 ppl1= 145.018
+
+isa lai kei anya leikhakoon: kei baarei mei bhii jaanakaarii dein: too achchhaa hoogaa
+1 sentences, 14 words, 0 OOVs
+0 zeroprobs, logprob= -26.7495 ppl= 60.7159 ppl1= 81.4106
+
+file ./PossibleSentences/output478: 2 sentences, 29 words, 0 OOVs
+0 zeroprobs, logprob= -59.1709 ppl= 81.0472 ppl1= 109.743

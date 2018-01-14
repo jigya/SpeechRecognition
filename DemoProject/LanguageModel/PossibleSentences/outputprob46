@@ -1,0 +1,10 @@
+anuvaada kei lei aa kaa kyaa kei hana aa aapa kuchha vii kei hein: aapa kii kshhamataa atula hai
+1 sentences, 19 words, 0 OOVs
+0 zeroprobs, logprob= -51.3756 ppl= 370.493 ppl1= 505.799
+
+anuvaada kei lei aa kaa kyaa kei hana aa aapa kuchha vii kei hein: aapakii kshhamataa atula hai
+1 sentences, 18 words, 0 OOVs
+0 zeroprobs, logprob= -47.5188 ppl= 316.95 ppl1= 436.451
+
+file ./PossibleSentences/output46: 2 sentences, 37 words, 0 OOVs
+0 zeroprobs, logprob= -98.8944 ppl= 343.364 ppl1= 470.785

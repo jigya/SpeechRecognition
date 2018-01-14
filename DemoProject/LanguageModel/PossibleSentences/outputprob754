@@ -1,0 +1,10 @@
+ina kaa janma koolakaataa mein: huaa
+1 sentences, 6 words, 0 OOVs
+0 zeroprobs, logprob= -10.7558 ppl= 34.3992 ppl1= 62.0354
+
+inakaa janma koolakaataa mein: huaa
+1 sentences, 5 words, 0 OOVs
+0 zeroprobs, logprob= -8.3232 ppl= 24.3893 ppl1= 46.1997
+
+file ./PossibleSentences/output754: 2 sentences, 11 words, 0 OOVs
+0 zeroprobs, logprob= -19.079 ppl= 29.3507 ppl1= 54.2573

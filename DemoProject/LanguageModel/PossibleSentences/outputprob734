@@ -1,0 +1,10 @@
+pyaaraa saa ban:dhana rakshhaa ban:dhana
+1 sentences, 5 words, 0 OOVs
+0 zeroprobs, logprob= -14.011 ppl= 216.356 ppl1= 634.165
+
+pyaaraa saa ban:dhana rakshhaaban:dhana
+1 sentences, 4 words, 0 OOVs
+0 zeroprobs, logprob= -7.1128 ppl= 26.4581 ppl1= 60.0066
+
+file ./PossibleSentences/output734: 2 sentences, 9 words, 0 OOVs
+0 zeroprobs, logprob= -21.1238 ppl= 83.2427 ppl1= 222.377

@@ -1,0 +1,18 @@
+an:greijii tathaa aa nei pashchimii bhaashhaa oon: mei ki nei griika kahaa jaataa hai
+1 sentences, 14 words, 0 OOVs
+0 zeroprobs, logprob= -35.0847 ppl= 218.263 ppl1= 320.663
+
+an:greijii tathaa aanei pashchimii bhaashhaa oon: mei ki nei griika kahaa jaataa hai
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -32.2233 ppl= 200.292 ppl1= 301.103
+
+an:greijii tathaa aa nei pashchimii bhaashhaaoon: mei ki nei griika kahaa jaataa hai
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -29.6997 ppl= 132.254 ppl1= 192.572
+
+an:greijii tathaa aanei pashchimii bhaashhaaoon: mei ki nei griika kahaa jaataa hai
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -26.8383 ppl= 116.007 ppl1= 172.396
+
+file ./PossibleSentences/output438: 4 sentences, 52 words, 0 OOVs
+0 zeroprobs, logprob= -123.846 ppl= 162.756 ppl1= 240.799

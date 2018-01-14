@@ -1,0 +1,10 @@
+tuma oon: vaha jaa kara usei praapta karoo
+1 sentences, 8 words, 0 OOVs
+0 zeroprobs, logprob= -19.8799 ppl= 161.764 ppl1= 305.487
+
+tuma oon: vaha jaakara usei praapta karoo
+1 sentences, 7 words, 0 OOVs
+0 zeroprobs, logprob= -20.1685 ppl= 331.938 ppl1= 760.691
+
+file ./PossibleSentences/output524: 2 sentences, 15 words, 0 OOVs
+0 zeroprobs, logprob= -40.0484 ppl= 226.876 ppl1= 467.621

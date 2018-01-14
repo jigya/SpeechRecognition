@@ -1,0 +1,2654 @@
+HVite -A -D -T 1 -l * -o SWT -b sent-end -C configHtk -H hmm7/macros -H hmm7/hmmdefs -i aligned.mlf -m -t 250.0 150.0 1000.0 -y lab -a -I words.mlf -S train.scp dict monophones1 
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+#                 NUMCEPS                       12
+#                 CEPLIFTER                     22
+#                 NUMCHANS                      26
+#                 PREEMCOEF               0.970000
+#                 USEHAMMING                  TRUE
+#                 WINDOWSIZE         250000.000000
+#                 SAVEWITHCRC                 TRUE
+#                 SAVECOMPRESSED              TRUE
+#                 TARGETRATE         100000.000000
+#                 TARGETKIND          MFCC_0_D_N_Z
+
+Read 50 physical / 50 logical HMMs
+Label file will be used to align each file
+Aligning File: mfcc/output1.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end aapakei hindii pasanda karanei para khushii huii sent-end  ==  [323 frames] -60.0276 [Ac=-19388.9 LM=0.0] (Act=8.3)
+Aligning File: mfcc/output2.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+sent-end saatha hii mainei leikha para kuchha badalaava kiei hai aapakii t:ippand~ii milei too achchhaa raheigaa sent-end  ==  [559 frames] -62.1687 [Ac=-34752.3 LM=0.0] (Act=10.3)
+Aligning File: mfcc/output3.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+sent-end aapasei apeikshhaa hai ki bhavishhya mein: isa prakaara kei aura bhii leikha aapasei praapta hoon:gei sent-end  ==  [579 frames] -63.0869 [Ac=-36527.3 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output4.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end unakaa rachita kaavya san:graha hrxdaya gan:gaa nau bhaashhaaoon: mein: prakaashita hoo chukaa hai sent-end  ==  [628 frames] -62.6926 [Ac=-39371.0 LM=0.0] (Act=12.0)
+Aligning File: mfcc/output5.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end main: aajakala nimnalikhita prxshht:hoon: para kaama kara rahaa huuna sent-end  ==  [372 frames] -63.0274 [Ac=-23446.2 LM=0.0] (Act=11.2)
+Aligning File: mfcc/output6.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end shariira mein: pitta agni kaa pratinidhi hai sent-end  ==  [264 frames] -63.5260 [Ac=-16770.9 LM=0.0] (Act=12.2)
+Aligning File: mfcc/output7.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end unakei vishaala leikhana kaarya kaa saahityika aura yuuroopiiya darshana para gahana prabhaava pad:aa hai sent-end  ==  [737 frames] -58.6460 [Ac=-43222.1 LM=0.0] (Act=10.3)
+Aligning File: mfcc/output8.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+sent-end isa leikha para magara kaaphii baatei aisii jinakaa pramaand~a leikha para diyaa jaanaa aavashyaka hai sent-end  ==  [697 frames] -59.4619 [Ac=-41445.0 LM=0.0] (Act=8.7)
+Aligning File: mfcc/output9.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end tarii mii tan:va sakala deihiin: sent-end  ==  [392 frames] -54.9332 [Ac=-21533.8 LM=0.0] (Act=8.9)
+Aligning File: mfcc/output10.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end hooihi kaaju moohi harashha biseishhii sent-end  ==  [441 frames] -57.8022 [Ac=-25490.8 LM=0.0] (Act=7.1)
+Aligning File: mfcc/output11.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end paan:cha tatva hain: mit:t:ii aakaasha jala agni aura vaayu sent-end  ==  [599 frames] -58.8867 [Ac=-35273.1 LM=0.0] (Act=9.4)
+Aligning File: mfcc/output12.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end yaha leikha dillii kaa laala kilaa kei baarei mein: hai sent-end  ==  [392 frames] -58.8615 [Ac=-23073.7 LM=0.0] (Act=10.8)
+Aligning File: mfcc/output13.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+sent-end too yoogadaana karanei vaaloo koo joo sahii samajha mei aataa hai likha diyaa jaataa hai sent-end  ==  [619 frames] -59.9301 [Ac=-37096.7 LM=0.0] (Act=9.2)
+Aligning File: mfcc/output14.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end d:aakt:ar pat:eila aapakei hoolii sei san:ban:dhita leikha kei liei dhanyavaada sent-end  ==  [559 frames] -57.9350 [Ac=-32385.7 LM=0.0] (Act=10.2)
+Aligning File: mfcc/output15.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end san:gha eivan: raajyoon: sei san:ban:dhita vishhayoon: kaa phaisalaa uchcha nyaayaalaya dvaaraa kiyaa jaataa hai sent-end  ==  [628 frames] -60.8995 [Ac=-38244.9 LM=0.0] (Act=10.4)
+Aligning File: mfcc/output16.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end o~st:reiliyaa kei kheila kei liei khoojein: sent-end  ==  [382 frames] -54.7864 [Ac=-20928.4 LM=0.0] (Act=7.3)
+Aligning File: mfcc/output17.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end main:nei paryat:ana bhuugoola para aapakaa leikha pad:haa bahuta achchhaa leikha hai sent-end  ==  [520 frames] -58.8670 [Ac=-30610.8 LM=0.0] (Act=10.0)
+Aligning File: mfcc/output18.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end uurjaa kei sroota kei liei khoojein: sent-end  ==  [313 frames] -58.3632 [Ac=-18267.7 LM=0.0] (Act=7.0)
+Aligning File: mfcc/output19.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end kamala bhaaratavarshha kaa raashht:riiya pushhpa hai sent-end  ==  [382 frames] -59.0852 [Ac=-22570.6 LM=0.0] (Act=9.4)
+Aligning File: mfcc/output20.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end yaha eishiyaa kii sabasei bang~ii aavaasiiya kaaloonii kahalaatii hai sent-end  ==  [530 frames] -58.9346 [Ac=-31235.4 LM=0.0] (Act=7.7)
+Aligning File: mfcc/output21.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end eika maanava kriyaa kei ruupa mei yei vijnj~aana aura abhiyaan:trikii sei puraatana hai sent-end  ==  [609 frames] -59.6801 [Ac=-36345.2 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output22.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end raajya kaa nirmaand~a kii varshha kei aandoolana kei pashchaata huaa sent-end  ==  [471 frames] -59.3618 [Ac=-27959.4 LM=0.0] (Act=8.2)
+Aligning File: mfcc/output23.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end guru sikha deii raaya pahin: gayu sent-end  ==  [353 frames] -58.8329 [Ac=-20768.0 LM=0.0] (Act=9.2)
+Aligning File: mfcc/output24.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end mujhei niran:tara kii jaanakaarii achchhii lagii sent-end  ==  [353 frames] -58.1142 [Ac=-20514.3 LM=0.0] (Act=7.7)
+Aligning File: mfcc/output25.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end puurnd~imaa jii dhanyavaada sujhaava kei liei sent-end  ==  [323 frames] -59.0960 [Ac=-19088.0 LM=0.0] (Act=8.2)
+Aligning File: mfcc/output26.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end vikipiid:iyaa sadasya shyaama aura vikipiid:iyaa kei anaama sadasya kei kaarya kei anusaara sent-end  ==  [727 frames] -58.0107 [Ac=-42173.7 LM=0.0] (Act=8.0)
+Aligning File: mfcc/output27.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end jamasheidapura sei prakaashita hindii dainika sent-end  ==  [353 frames] -58.8559 [Ac=-20776.1 LM=0.0] (Act=8.2)
+Aligning File: mfcc/output28.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end vei muulatah: kavi aura shaayara hain: sent-end  ==  [303 frames] -58.1395 [Ac=-17616.3 LM=0.0] (Act=8.5)
+Aligning File: mfcc/output29.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end isakei badalei mein: tuma kuchha aura maanaga loo sent-end  ==  [402 frames] -56.1923 [Ac=-22589.3 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output30.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end rasa shrxn:gaara thaa aura bhaashhaa thii braja sent-end  ==  [412 frames] -57.1637 [Ac=-23551.4 LM=0.0] (Act=8.1)
+Aligning File: mfcc/output31.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sent-end braja kalaa eivan: san:skrxti sent-end  ==  [323 frames] -58.2316 [Ac=-18808.8 LM=0.0] (Act=8.2)
+Aligning File: mfcc/output32.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end praachiina kaala mein: rxshhi muni bhagavaana kaa dhyaana karatei thei sent-end  ==  [510 frames] -56.9391 [Ac=-29038.9 LM=0.0] (Act=8.5)
+Aligning File: mfcc/output33.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end dhana kaa artha hootaa hai dravya sent-end  ==  [244 frames] -61.1998 [Ac=-14932.7 LM=0.0] (Act=11.1)
+Aligning File: mfcc/output34.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end gagana kaa artha hai aakaasha sent-end  ==  [274 frames] -59.5349 [Ac=-16312.6 LM=0.0] (Act=10.5)
+Aligning File: mfcc/output35.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end eika tiisaraa naama hindustaana utpatti phaarasii yaa hinduoon: kii bhuumi sent-end  ==  [619 frames] -58.2717 [Ac=-36070.2 LM=0.0] (Act=8.0)
+Aligning File: mfcc/output36.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sent-end inakaa aakarshhand~a hai khaasa sent-end  ==  [451 frames] -60.9234 [Ac=-27476.4 LM=0.0] (Act=6.6)
+Aligning File: mfcc/output37.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end shriikrxshhnd~a paand~d:ava sabhii gayei bhiishhma kei paasa sent-end  ==  [461 frames] -58.0552 [Ac=-26763.4 LM=0.0] (Act=7.3)
+Aligning File: mfcc/output38.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end himaalaya para basaa yaha deisha chiina sent-end  ==  [303 frames] -57.6593 [Ac=-17470.8 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output39.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end prathama saamaanya eivan: dvitiiya visheishha sent-end  ==  [353 frames] -56.8823 [Ac=-20079.5 LM=0.0] (Act=8.5)
+Aligning File: mfcc/output40.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end krxti kaa artha hootaa hai nirmaand~a sent-end  ==  [284 frames] -57.0109 [Ac=-16191.1 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output41.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end vikiyaatraa sei keindriiya aphriikii gand~araajya heitu yaatraa gaaid:a sent-end  ==  [550 frames] -58.4495 [Ac=-32147.2 LM=0.0] (Act=7.9)
+Aligning File: mfcc/output42.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end havaaii praanta kaa eika dviipa sent-end  ==  [313 frames] -57.0223 [Ac=-17848.0 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output43.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end shoobhaa deitii sujana koo jinakei gund~a hain: shreishht:ha sent-end  ==  [461 frames] -60.5419 [Ac=-27909.8 LM=0.0] (Act=7.6)
+Aligning File: mfcc/output44.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end unakii aatmakathaa hai satya kei prayooga sent-end  ==  [333 frames] -62.0924 [Ac=-20676.8 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output45.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end aagraha kaa artha hootaa hai anuroodha sent-end  ==  [274 frames] -63.5436 [Ac=-17410.9 LM=0.0] (Act=10.7)
+Aligning File: mfcc/output46.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end lagaava kaa artha hootaa hai mooha sent-end  ==  [303 frames] -58.2192 [Ac=-17640.4 LM=0.0] (Act=10.6)
+Aligning File: mfcc/output47.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end tein: paurushha mii hein: tatva sent-end  ==  [313 frames] -55.7068 [Ac=-17436.2 LM=0.0] (Act=7.2)
+Aligning File: mfcc/output48.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end anya aksara puuchhei jaanei vaalei savaala baakii saba sent-end  ==  [471 frames] -57.4868 [Ac=-27076.3 LM=0.0] (Act=7.5)
+Aligning File: mfcc/output49.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end t:eimpaleit:a kei prayooga kei udaaharand~a kei liei deikhein: aachaarya raamachan:dra shukla leikha sent-end  ==  [717 frames] -59.5533 [Ac=-42699.7 LM=0.0] (Act=9.0)
+Aligning File: mfcc/output50.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end yahuudii dharma kaa dhaarmika grantha sent-end  ==  [333 frames] -58.9373 [Ac=-19626.1 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output51.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end visheishha kaa artha hootaa hai vishishht:a sent-end  ==  [451 frames] -56.0381 [Ac=-25273.2 LM=0.0] (Act=7.7)
+Aligning File: mfcc/output52.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end taba hanuman:ta nikat:a chali gayuu sent-end  ==  [412 frames] -57.2841 [Ac=-23601.0 LM=0.0] (Act=9.6)
+Aligning File: mfcc/output53.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end girijaa sunahu bisada yaha kathaa sent-end  ==  [461 frames] -56.3988 [Ac=-25999.8 LM=0.0] (Act=7.7)
+Aligning File: mfcc/output54.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end anuvaada kei liei aapakaa kyaa kahanaa aapa kuchha bhii kahein: aapakii kshhamataa atula hai sent-end  ==  [648 frames] -60.4251 [Ac=-39155.5 LM=0.0] (Act=10.0)
+Aligning File: mfcc/output55.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end mugala shaasana nei islaama dharma koo bad:haavaa diyaa aura kisaanoon: para kara bad:haa diyaa sent-end  ==  [619 frames] -60.6151 [Ac=-37520.8 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output56.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end udaaharand~a kei liei raamaayand~a leikha deikhei sent-end  ==  [441 frames] -55.8968 [Ac=-24650.5 LM=0.0] (Act=7.8)
+Aligning File: mfcc/output57.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end krxpayaa chaupaala para charchaa mein: bhaaga lein: sent-end  ==  [431 frames] -57.1680 [Ac=-24639.4 LM=0.0] (Act=7.3)
+Aligning File: mfcc/output58.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end inakii lagabhaga hara kahaanii mein: paatroon: kii soocha ghat:anaaoon: sei pradhaana hootii thii sent-end  ==  [589 frames] -60.5985 [Ac=-35692.5 LM=0.0] (Act=9.4)
+Aligning File: mfcc/output59.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end aapakaa vikipiid:iyaa pei sakriya yoogadaana banaa raheigaa aisii ummiida hai sent-end  ==  [599 frames] -59.6825 [Ac=-35749.8 LM=0.0] (Act=8.5)
+Aligning File: mfcc/output60.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end hindii haaiku kavitaa para isa samaya visheishha ruupa sei kaarya kara rahaa huuna sent-end  ==  [638 frames] -59.6502 [Ac=-38056.8 LM=0.0] (Act=9.7)
+Aligning File: mfcc/output61.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end aadhunika bhautika vijnj~aana mein: pratyeika kaarya kei liei uurjaa koo aavashyaka bataayaa gayaa hai sent-end  ==  [688 frames] -60.4550 [Ac=-41593.0 LM=0.0] (Act=9.8)
+Aligning File: mfcc/output62.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end budhi bala maramu toora mai paavaa sent-end  ==  [392 frames] -57.5956 [Ac=-22577.5 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output63.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end vikipiid:iyaa para milakara khushii huii san:jaya sent-end  ==  [402 frames] -56.7203 [Ac=-22801.6 LM=0.0] (Act=8.0)
+Aligning File: mfcc/output64.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end yaha leikha suuraa kei baarei mein: hai sent-end  ==  [323 frames] -56.4666 [Ac=-18238.7 LM=0.0] (Act=8.7)
+Aligning File: mfcc/output65.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end aapakaa uttara mujhei aura likhanei kei liyei preirita kareigaa sent-end  ==  [481 frames] -58.9290 [Ac=-28344.9 LM=0.0] (Act=9.9)
+Aligning File: mfcc/output66.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end o~st:reiliyaa kei raashht:riiya krikeit:a t:iima hai sent-end  ==  [382 frames] -59.7929 [Ac=-22840.9 LM=0.0] (Act=8.2)
+Aligning File: mfcc/output67.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end vishhaada kaa artha hootaa hai duh:kha sent-end  ==  [323 frames] -58.3019 [Ac=-18831.5 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output68.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end kabhii yaha eishiyaa kii sabasei bang~ii kaaloonii mein: ginatii hootii thii sent-end  ==  [431 frames] -62.0146 [Ac=-26728.3 LM=0.0] (Act=9.4)
+Aligning File: mfcc/output69.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end shikshhaa kei stara koo bhii achchhaa maanaa jaataa hai sent-end  ==  [382 frames] -58.7189 [Ac=-22430.6 LM=0.0] (Act=7.6)
+Aligning File: mfcc/output70.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end krxpayaa aapakaa sadasya prxshht:ha para parichaya dein: sent-end  ==  [431 frames] -58.1333 [Ac=-25055.5 LM=0.0] (Act=9.8)
+Aligning File: mfcc/output71.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end aapakei dvaaraa likhaa gayaa leikha aayurveida kaaphii jaanakaarii bharaa hai sent-end  ==  [530 frames] -58.2935 [Ac=-30895.6 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output72.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end chandragupta dvitiiya kei samaya mein: kshheitriiya tathaa saan:skrxtika vistaara huaa sent-end  ==  [628 frames] -58.7247 [Ac=-36879.1 LM=0.0] (Act=9.6)
+Aligning File: mfcc/output73.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end vikipiid:iyaa sadasya vijaya t:haakura aura aravindan kei kaarya kei anusaara sent-end  ==  [569 frames] -58.2686 [Ac=-33154.8 LM=0.0] (Act=9.4)
+Aligning File: mfcc/output74.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end kyaa isa vishhaya koo chaupaala mai rakhanaa uchita hoogaa dhanyavaada sent-end  ==  [520 frames] -58.5451 [Ac=-30443.5 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output75.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end phut:abo~la st:eid:iyama kei liei khoojein: sent-end  ==  [333 frames] -55.4001 [Ac=-18448.2 LM=0.0] (Act=8.2)
+Aligning File: mfcc/output76.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end adhika bana pad:ei too adhika uttama sent-end  ==  [323 frames] -57.5295 [Ac=-18582.0 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output77.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end raama nei rxshhi vishvaamitra kei yahaana raha kara shikshhaa praapta kii thii sent-end  ==  [550 frames] -58.3557 [Ac=-32095.6 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output78.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end tuma pahalei bhoojana karoo aura phira vishraama kara loo sent-end  ==  [392 frames] -57.6902 [Ac=-22614.6 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output79.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end bhavana kaa artha hootaa hai mahala sent-end  ==  [303 frames] -55.6722 [Ac=-16868.7 LM=0.0] (Act=10.9)
+Aligning File: mfcc/output80.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end bhuvana kaa artha hootaa hai tiinoon: looka sent-end  ==  [412 frames] -56.3209 [Ac=-23204.2 LM=0.0] (Act=9.0)
+Aligning File: mfcc/output81.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end arei dushht:a kalikaala tuu deitaa duh:kha mahaana sent-end  ==  [422 frames] -57.7940 [Ac=-24389.1 LM=0.0] (Act=8.1)
+Aligning File: mfcc/output82.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end prasiddha riiti kaala kei kavi sent-end  ==  [284 frames] -57.2874 [Ac=-16269.6 LM=0.0] (Act=8.3)
+Aligning File: mfcc/output83.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end unakaa sabasei bhayaanaka ruupa kaalii hai arthaata kaalaa ruupa sent-end  ==  [481 frames] -57.4438 [Ac=-27630.5 LM=0.0] (Act=9.6)
+Aligning File: mfcc/output84.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end vikiipiid:iyaa ki baarei mein: jaanakaarii deinei vaalei prxshht:ha sent-end  ==  [441 frames] -58.1375 [Ac=-25638.6 LM=0.0] (Act=8.3)
+Aligning File: mfcc/output85.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end maanavataa kaa artha hootaa hai maanava hoonei kaa gund~a sent-end  ==  [412 frames] -58.2336 [Ac=-23992.2 LM=0.0] (Act=9.9)
+Aligning File: mfcc/output86.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end sahayooga kei liei dhanyavaada maniishha sent-end  ==  [284 frames] -57.2796 [Ac=-16267.4 LM=0.0] (Act=10.9)
+Aligning File: mfcc/output87.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end yaha kilaa vaha sthala bhii hai jahaana sei bhaarata kei pradhaana man:trii svatan:trataa divasa sent-end  ==  [658 frames] -59.2551 [Ac=-38989.9 LM=0.0] (Act=9.8)
+Aligning File: mfcc/output88.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end chikitsaa kaa artha hootaa hai ilaaja sent-end  ==  [294 frames] -59.4763 [Ac=-17486.0 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output89.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end chayana kaa artha hootaa hai chunaava sent-end  ==  [284 frames] -57.5648 [Ac=-16348.4 LM=0.0] (Act=8.7)
+Aligning File: mfcc/output90.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end varadaana kaa artha hootaa hai deivii deivataaoon: yaa iishvara kei dvaaraa kiyaa gayaa anugraha sent-end  ==  [619 frames] -60.9886 [Ac=-37751.9 LM=0.0] (Act=10.2)
+Aligning File: mfcc/output91.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end shaaha arthaata baadashaaha yaa samraat:a sent-end  ==  [362 frames] -61.3568 [Ac=-22211.2 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output92.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end shaastra bhaaratiiya vijnj~aana kei grantha sent-end  ==  [333 frames] -59.3238 [Ac=-19754.8 LM=0.0] (Act=7.5)
+Aligning File: mfcc/output93.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end siitaa mana bharoosa taba bhayuu sent-end  ==  [412 frames] -56.5842 [Ac=-23312.7 LM=0.0] (Act=8.1)
+Aligning File: mfcc/output94.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end hindayuuroopiiya bhaashhaaeina boolanei vaalei deisha sent-end  ==  [461 frames] -57.9247 [Ac=-26703.3 LM=0.0] (Act=7.1)
+Aligning File: mfcc/output95.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end vikiyaatraa sei sikkima heitu yaatraa gaaid:a sent-end  ==  [422 frames] -58.2233 [Ac=-24570.2 LM=0.0] (Act=8.0)
+Aligning File: mfcc/output96.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end san:graama kaa artha hootaa hai yuddha sent-end  ==  [353 frames] -57.5281 [Ac=-20307.4 LM=0.0] (Act=9.3)
+Aligning File: mfcc/output97.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end suni hanuman:ta hrxdaya ati bhaaei sent-end  ==  [402 frames] -57.0137 [Ac=-22919.5 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output98.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end hindii saahitya koosha prathama bhaaga sent-end  ==  [382 frames] -56.5020 [Ac=-21583.7 LM=0.0] (Act=7.2)
+Aligning File: mfcc/output99.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end vaastava mein: atyanta sundara leikha hai sent-end  ==  [362 frames] -56.5420 [Ac=-20468.2 LM=0.0] (Act=7.9)
+Aligning File: mfcc/output100.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end veida smrxti mein: snaana bhii saata prakaara kei bataaei gei hain: sent-end  ==  [537 frames] -58.9008 [Ac=-31629.7 LM=0.0] (Act=8.7)
+Aligning File: mfcc/output101.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end dhaara jilaa aitihaasika aura saan:skrxtika ruupa sei mahatvapuurnd~a sthaana rakhataa hai sent-end  ==  [648 frames] -60.2541 [Ac=-39044.6 LM=0.0] (Act=9.4)
+Aligning File: mfcc/output102.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end meirei sampaadana mein: hameishaa sei hii prxshht:hoon: kei shuruuaata kii pradhaanataa rahii hai sent-end  ==  [566 frames] -59.1026 [Ac=-33452.1 LM=0.0] (Act=8.5)
+Aligning File: mfcc/output103.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end vei paanacha bachchoon: kei parivaara mein: tiisarei sthaana para thei sent-end  ==  [441 frames] -58.2485 [Ac=-25687.6 LM=0.0] (Act=7.7)
+Aligning File: mfcc/output104.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end vaisei bhii hin:dii kaa upayooga in:t:araneit:a pei bahuta jyaadaa nahii hai sent-end  ==  [500 frames] -59.2978 [Ac=-29648.9 LM=0.0] (Act=10.6)
+Aligning File: mfcc/output105.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end janma sei too aadamii kei aadamii samaana hain: sent-end  ==  [402 frames] -58.4705 [Ac=-23505.2 LM=0.0] (Act=8.0)
+Aligning File: mfcc/output106.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end main: hindii saahitya sei jud:aa huaa huuna sent-end  ==  [412 frames] -57.1507 [Ac=-23546.1 LM=0.0] (Act=10.4)
+Aligning File: mfcc/output107.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end kii bauddha gautama buddha kii upaasanaa bhii karatei hain: sent-end  ==  [441 frames] -59.0567 [Ac=-26044.0 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output108.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end vyan:gya leikhana mein: vei paatroon: eivan: ghat:anaaoon: kaa isteimaala nahiin: karatei sent-end  ==  [599 frames] -57.8357 [Ac=-34643.6 LM=0.0] (Act=9.8)
+Aligning File: mfcc/output109.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end bhiitara o~ra baahara joo thaa eika saa thaa sent-end  ==  [431 frames] -58.4739 [Ac=-25202.2 LM=0.0] (Act=10.0)
+Aligning File: mfcc/output110.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end hari man:dira tahana bhinna banaavaa sent-end  ==  [471 frames] -55.3670 [Ac=-26077.8 LM=0.0] (Act=9.6)
+Aligning File: mfcc/output111.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end vei bhaarata mein: bhii kaaphii lookapriya hai sent-end  ==  [382 frames] -56.9534 [Ac=-21756.2 LM=0.0] (Act=8.3)
+Aligning File: mfcc/output112.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end manushhya dvaaraa praachiinatama jnj~aata dhaatu soonaa hai sent-end  ==  [491 frames] -57.4074 [Ac=-28187.0 LM=0.0] (Act=7.6)
+Aligning File: mfcc/output113.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end dhyaana sei hamei apanei jiivana kaa uddeishya samajhanei mein: sahaayataa milatii hai sent-end  ==  [569 frames] -58.8296 [Ac=-33474.1 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output114.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end isei saavana kei mahiinei mein: gaayaa jaataa hai sent-end  ==  [402 frames] -55.1095 [Ac=-22154.0 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output115.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end uurjaa praveishadvaara saanachaa kei liei khoojein: sent-end  ==  [431 frames] -57.8096 [Ac=-24915.9 LM=0.0] (Act=6.9)
+Aligning File: mfcc/output116.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end mainei too bahuta chhoot:aa yoogadaana diyaa hai sent-end  ==  [343 frames] -57.0647 [Ac=-19573.2 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output117.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end gad:hvaala bhaarata kei uttaraan:chala praanta kaa eika pramukha kshheitra hai sent-end  ==  [530 frames] -59.2990 [Ac=-31428.4 LM=0.0] (Act=9.0)
+Aligning File: mfcc/output118.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end duryoodhana kei janma kei dina hii kuntii kaa putra bhiima kaa bhii janma huaa sent-end  ==  [619 frames] -58.6239 [Ac=-36288.2 LM=0.0] (Act=10.1)
+Aligning File: mfcc/output119.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end isa prakaara kii shikaayata darja karaanei kei liyei kisii vakiila kii aavashyakataa nahii hootii sent-end  ==  [599 frames] -60.5227 [Ac=-36253.1 LM=0.0] (Act=11.0)
+Aligning File: mfcc/output120.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end ura shabda kaa prayooga praayah: kaavya mein: adhika hootaa hai sent-end  ==  [500 frames] -57.1308 [Ac=-28565.4 LM=0.0] (Act=8.7)
+Aligning File: mfcc/output121.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end phut:abo~la khilaad:ii kei liei khoojein: sent-end  ==  [333 frames] -55.0929 [Ac=-18345.9 LM=0.0] (Act=8.2)
+Aligning File: mfcc/output122.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end uupara kei udaaharand~a kei anusaara sent-end  ==  [372 frames] -57.1425 [Ac=-21257.0 LM=0.0] (Act=6.9)
+Aligning File: mfcc/output123.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end guruu puurnd~imaa varshhaa rxtu kei aaran:bha mein: aatii hai sent-end  ==  [530 frames] -58.1362 [Ac=-30812.2 LM=0.0] (Act=8.1)
+Aligning File: mfcc/output124.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end isaliyei tuma pahalei shan:kara bhagavaana koo prasanna karoo sent-end  ==  [471 frames] -58.5915 [Ac=-27596.6 LM=0.0] (Act=9.7)
+Aligning File: mfcc/output125.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end kara dii gii dhyaana dilaanei kei liei dhanyavaada sent-end  ==  [491 frames] -57.6974 [Ac=-28329.4 LM=0.0] (Act=10.8)
+Aligning File: mfcc/output126.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end praachiina bhaarata kei eika van:sha kaa naama sent-end  ==  [382 frames] -57.1983 [Ac=-21849.7 LM=0.0] (Act=7.7)
+Aligning File: mfcc/output127.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end hamaarii san:skrxti mein: saata kaa mahatva sent-end  ==  [402 frames] -58.0194 [Ac=-23323.8 LM=0.0] (Act=8.0)
+Aligning File: mfcc/output128.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end kaalidaasa naama kaa shaabdika artha hai kaalii kaa seivaka sent-end  ==  [500 frames] -58.7176 [Ac=-29358.8 LM=0.0] (Act=7.7)
+Aligning File: mfcc/output129.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end vikiipiid:iyaa kei kisii leikha para charchaa karanei kei liyei banaaei gayei prxshht:ha sent-end  ==  [648 frames] -59.4253 [Ac=-38507.6 LM=0.0] (Act=8.5)
+Aligning File: mfcc/output130.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end maanava kaa artha hootaa hai manushhya sent-end  ==  [382 frames] -57.6492 [Ac=-22022.0 LM=0.0] (Act=8.5)
+Aligning File: mfcc/output131.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end uchchatama nyaayaalaya nei kahaa ki sent-end  ==  [412 frames] -57.4744 [Ac=-23679.4 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output132.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end mahala kaa artha hootaa hai bhavana sent-end  ==  [382 frames] -56.4328 [Ac=-21557.3 LM=0.0] (Act=10.3)
+Aligning File: mfcc/output133.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end priya na paahein: sarvathaa jaand~a sent-end  ==  [392 frames] -57.1231 [Ac=-22392.2 LM=0.0] (Act=7.5)
+Aligning File: mfcc/output134.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end udaaharand~a kei liei deikhei banaarasa sent-end  ==  [353 frames] -56.9135 [Ac=-20090.5 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output135.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end yuga eika nirdhaarita san:khyaa kei varshha sent-end  ==  [422 frames] -56.8071 [Ac=-23972.6 LM=0.0] (Act=9.2)
+Aligning File: mfcc/output136.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end karnaat:aka aura tamilanaad:uu kii siimaa para basaa yaha shahara mukhya ruupa sent-end  ==  [589 frames] -59.8565 [Ac=-35255.4 LM=0.0] (Act=8.9)
+Aligning File: mfcc/output137.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end sachiva san:ga lai nabha patha gayuu sent-end  ==  [481 frames] -60.3485 [Ac=-29027.6 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output138.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end suni prabhu bachana bibhiishhana harashhi gahei pada kan:ja sent-end  ==  [599 frames] -59.5283 [Ac=-35657.4 LM=0.0] (Act=9.8)
+Aligning File: mfcc/output139.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end praakrxta sisu iva liilaa deikhi bhayu moohi mooha sent-end  ==  [559 frames] -59.5962 [Ac=-33314.3 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output140.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end saura man:d:ala sei san:ban:dhita leikha sent-end  ==  [313 frames] -58.2576 [Ac=-18234.6 LM=0.0] (Act=8.3)
+Aligning File: mfcc/output141.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end sneiha kaa artha hootaa hai lagaava sent-end  ==  [313 frames] -58.1233 [Ac=-18192.6 LM=0.0] (Act=9.0)
+Aligning File: mfcc/output142.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end eika sandeisha kaa san:skarand~a satyajita raaya kaa mukhaprxshht:ha kei saatha sent-end  ==  [678 frames] -58.4730 [Ac=-39644.7 LM=0.0] (Act=10.3)
+Aligning File: mfcc/output143.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end raajya kaa artha hai praanta yaa pradeisha sent-end  ==  [362 frames] -58.3324 [Ac=-21116.3 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output144.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end vikiyaatraa sei daarjiilin:ga heitu yaatraa gaaid:a sent-end  ==  [451 frames] -58.4756 [Ac=-26372.5 LM=0.0] (Act=7.7)
+Aligning File: mfcc/output145.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end doo varshha vahaana kaama karanei kei baada hin:dustaanii akaadamii mein: adhyaapaka niyukta huei sent-end  ==  [658 frames] -60.6998 [Ac=-39940.4 LM=0.0] (Act=9.4)
+Aligning File: mfcc/output146.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end anya prayooga heitu deikhein: varga sent-end  ==  [362 frames] -58.2040 [Ac=-21069.8 LM=0.0] (Act=8.9)
+Aligning File: mfcc/output147.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end bahuta saraahaniiya kaarya hai aapakaa sent-end  ==  [303 frames] -58.9503 [Ac=-17861.9 LM=0.0] (Act=11.6)
+Aligning File: mfcc/output148.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end sikkha dharma pan:jaaba kaa mukhya dharma hai sent-end  ==  [353 frames] -58.1172 [Ac=-20515.4 LM=0.0] (Act=10.0)
+Aligning File: mfcc/output149.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end doo eika hii lin:ga kei looga sent-end  ==  [264 frames] -58.9287 [Ac=-15557.2 LM=0.0] (Act=9.0)
+Aligning File: mfcc/output150.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end kaaphii san:khyaa mein: yahaana pratishht:hita looga maujuuda thei sent-end  ==  [412 frames] -59.7419 [Ac=-24613.7 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output151.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end gad:hvaala kaa saahitya tathaa san:skrxti bahuta samrxddha hain: sent-end  ==  [431 frames] -60.2567 [Ac=-25970.6 LM=0.0] (Act=9.6)
+Aligning File: mfcc/output152.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end unakei aba taka doo kahaanii san:graha eivan: doo kavitaa san:graha prakaashita hoo chukei hain: sent-end  ==  [619 frames] -60.1078 [Ac=-37206.7 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output153.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end uurjaa kii ikaaiyaana kei liei khoojein: sent-end  ==  [372 frames] -58.2379 [Ac=-21664.5 LM=0.0] (Act=7.3)
+Aligning File: mfcc/output154.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end sit:ii o~ph lan:dana kei liei khoojein: sent-end  ==  [313 frames] -56.0979 [Ac=-17558.6 LM=0.0] (Act=7.7)
+Aligning File: mfcc/output155.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end saala kii anya pramukha rxtu hain: shiita rxtu varshhaa rxtu vasanta rxtu sent-end  ==  [668 frames] -59.7414 [Ac=-39907.3 LM=0.0] (Act=9.0)
+Aligning File: mfcc/output156.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end main: vikii para kuchha mahattvapuurnd~a saamagrii deinei kaa prayaasa kara rahaa huuna sent-end  ==  [520 frames] -60.5525 [Ac=-31487.3 LM=0.0] (Act=11.4)
+Aligning File: mfcc/output157.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end yaha prabhu charita pavitra suhaavaa sent-end  ==  [372 frames] -58.1972 [Ac=-21649.4 LM=0.0] (Act=9.0)
+Aligning File: mfcc/output158.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end moorein: hrxdaya priiti ati hooii sent-end  ==  [422 frames] -55.6289 [Ac=-23475.4 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output159.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end aapa mujhasei ummiida mata kiijiei sent-end  ==  [284 frames] -58.1571 [Ac=-16516.6 LM=0.0] (Act=8.5)
+Aligning File: mfcc/output160.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+sent-end hinduoon: kii atyanta pavitra nadii gan:gaa kaa udgama sthala mukhya himaalaya kii dakshhind~a shreind~iyaana hain: sent-end  ==  [816 frames] -60.2399 [Ac=-49155.7 LM=0.0] (Act=11.1)
+Aligning File: mfcc/output161.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end isii taraha kisii kaarya kaa uddeishya eivan: mahattaa kaa sahii jnj~aana hoo paataa hai sent-end  ==  [589 frames] -58.9202 [Ac=-34704.0 LM=0.0] (Act=8.9)
+Aligning File: mfcc/output162.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end isaliei main: aisaa badalaava kara chaahataa nahiin: huuna sent-end  ==  [638 frames] -57.3751 [Ac=-36605.3 LM=0.0] (Act=12.3)
+Aligning File: mfcc/output163.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end deisha naama sooviyata san:gha hai sent-end  ==  [284 frames] -59.9734 [Ac=-17032.4 LM=0.0] (Act=8.0)
+Aligning File: mfcc/output164.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end yaha jamiina kei niichei hootaa hai sent-end  ==  [244 frames] -58.5503 [Ac=-14286.3 LM=0.0] (Act=8.1)
+Aligning File: mfcc/output165.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end krxshhi karanaa aura yaha udyooga sent-end  ==  [323 frames] -57.0405 [Ac=-18424.1 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output166.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end aapakoo vikipiid:iyaa pei sakriya deikhanaa eika sukhada anubhava hai sent-end  ==  [461 frames] -59.8674 [Ac=-27598.9 LM=0.0] (Act=10.3)
+Aligning File: mfcc/output167.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end mainei kooshisha kii magara kaama nahii huaa sent-end  ==  [431 frames] -57.3580 [Ac=-24721.3 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output168.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end man:gala kaa artha hootaa hai shubha paavana kushala ityaadi sent-end  ==  [530 frames] -58.6304 [Ac=-31074.1 LM=0.0] (Act=9.2)
+Aligning File: mfcc/output169.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end main: nisichara ati adhama subhaauu sent-end  ==  [333 frames] -57.8011 [Ac=-19247.8 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output170.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end yaha vikramaaditya kei raajya kii raajadhaanii thii sent-end  ==  [412 frames] -59.1161 [Ac=-24355.8 LM=0.0] (Act=9.5)
+Aligning File: mfcc/output171.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end ura muulatah: san:skrxta kaa shabda hai sent-end  ==  [343 frames] -59.2102 [Ac=-20309.1 LM=0.0] (Act=8.9)
+Aligning File: mfcc/output172.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end san:bhava hai ki isakaa aavishhkaara isasei bhii bahuta pahalei huaa hoo sent-end  ==  [550 frames] -59.7582 [Ac=-32867.0 LM=0.0] (Act=10.3)
+Aligning File: mfcc/output173.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end vikipiid:iyaa sadasya vijaya t:haakura aura anunaada sin:ha kei kaarya kei anusaara sent-end  ==  [619 frames] -60.4773 [Ac=-37435.5 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output174.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end bhuugoola kei paaran:parika vibhaajana hain: praakrxtika bhuugoola tathaa maanava bhuugoola sent-end  ==  [589 frames] -60.1399 [Ac=-35422.4 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output175.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end hin:dii vikipiid:iyaa para ko~piiraait:a kei niyama kei anuvaada kii jaruurata hai sent-end  ==  [540 frames] -61.7140 [Ac=-33325.6 LM=0.0] (Act=9.4)
+Aligning File: mfcc/output176.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end kahaanii upanyaasa patrakaaritaa stan:bha leikhana philma sent-end  ==  [510 frames] -59.0048 [Ac=-30092.4 LM=0.0] (Act=7.6)
+Aligning File: mfcc/output177.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end vikiipiid:iyaa kei sadasya prxshht:ha tathaa unakei an:targata aanei vaalei sadasya san:ban:dhii prxshht:ha sent-end  ==  [747 frames] -60.6325 [Ac=-45292.5 LM=0.0] (Act=10.3)
+Aligning File: mfcc/output178.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end maanushha kaa artha hootaa hai manushhya sent-end  ==  [353 frames] -57.0982 [Ac=-20155.7 LM=0.0] (Act=7.5)
+Aligning File: mfcc/output179.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end aavashyakataa hai too keivala san:yukta prayaasa kii dhanyavaada sent-end  ==  [461 frames] -58.3745 [Ac=-26910.6 LM=0.0] (Act=9.3)
+Aligning File: mfcc/output180.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end maharshhi vyaasa mahaabhaarata mahaakaavya kei leikhaka sent-end  ==  [451 frames] -58.0792 [Ac=-26193.7 LM=0.0] (Act=9.9)
+Aligning File: mfcc/output181.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end usa nara kaa joo diipa rahaa hoo sachamucha suurya samaana sent-end  ==  [481 frames] -59.9157 [Ac=-28819.5 LM=0.0] (Act=9.0)
+Aligning File: mfcc/output182.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end tarii arjunaa tein: tuun: jaand~a sent-end  ==  [402 frames] -55.9859 [Ac=-22506.3 LM=0.0] (Act=6.5)
+Aligning File: mfcc/output183.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end raama lakhana siitaa sahita hrxdaya basahu sura bhuupa sent-end  ==  [569 frames] -59.1593 [Ac=-33661.6 LM=0.0] (Act=9.5)
+Aligning File: mfcc/output184.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end yaa t:aat:aa parivaara kaa parivaara vrxkshha sent-end  ==  [353 frames] -58.9287 [Ac=-20801.8 LM=0.0] (Act=8.9)
+Aligning File: mfcc/output185.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end aba deikhi prabhu pada kan:ja sent-end  ==  [333 frames] -58.2309 [Ac=-19390.9 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output186.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end puraand~a kaa artha hootaa hai itihaasa sent-end  ==  [333 frames] -60.0475 [Ac=-19995.8 LM=0.0] (Act=9.4)
+Aligning File: mfcc/output187.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end paarasii dharma kaa grantha samuuha sent-end  ==  [294 frames] -58.9053 [Ac=-17318.2 LM=0.0] (Act=9.0)
+Aligning File: mfcc/output188.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end muni puni kei rasa leikha sent-end  ==  [284 frames] -58.2407 [Ac=-16540.4 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output189.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end drava padaartha kii eika avasthaa hai jabaki dravya svayan: padaartha sent-end  ==  [510 frames] -60.2335 [Ac=-30719.1 LM=0.0] (Act=10.8)
+Aligning File: mfcc/output190.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end kooii bhii jiiva jaisei maanava gaaya ashva sent-end  ==  [372 frames] -60.4901 [Ac=-22502.3 LM=0.0] (Act=8.7)
+Aligning File: mfcc/output191.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end main: kavi tathaa leikhaka huuna sent-end  ==  [225 frames] -60.2711 [Ac=-13561.0 LM=0.0] (Act=9.8)
+Aligning File: mfcc/output192.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end nei leikhoo koo likhanei mei jyaadaa samaya jaataa hai sudhaara kii tulanaa mei sent-end  ==  [530 frames] -60.0410 [Ac=-31821.7 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output193.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end prayaaga vishvavidyaalaya mein: adhyaapana kei dauraana hin:dii saahitya koosha kei sampaadana mein: sahayooga diyaa sent-end  ==  [727 frames] -59.6221 [Ac=-43345.3 LM=0.0] (Act=9.3)
+Aligning File: mfcc/output194.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+sent-end urduu phaarasii tathaa arabii kei atirikta san:skrxta sei bhii janmii eika hinda aarya bhaashhaa hai sent-end  ==  [756 frames] -59.6921 [Ac=-45127.2 LM=0.0] (Act=9.4)
+Aligning File: mfcc/output195.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end isamein: nrxtya san:ban:dhii ghat:anaaoon: kaa ulleikha hai sent-end  ==  [392 frames] -58.8444 [Ac=-23067.0 LM=0.0] (Act=9.2)
+Aligning File: mfcc/output196.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end san:yukta raajya ameirikaa aura o~st:reiliyaa kei aneika paryat:ana kshheitra isakaa udaaharand~a hain: sent-end  ==  [697 frames] -61.6369 [Ac=-42960.9 LM=0.0] (Act=9.4)
+Aligning File: mfcc/output197.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end jruura milaa deinaa chaahiei mujhei vaha prxshht:ha pahalei nahiin: milaa sent-end  ==  [510 frames] -59.5934 [Ac=-30392.7 LM=0.0] (Act=12.8)
+Aligning File: mfcc/output198.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end saatha hii eika jagaha para leikhana chhood:kara baakii jagaha sei mit:aa diyaa jaaei sent-end  ==  [530 frames] -61.5748 [Ac=-32634.7 LM=0.0] (Act=11.4)
+Aligning File: mfcc/output199.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end isii naama kei upanyaasa krama kei liyei yahaana jaayein: hairii po~t:ara upanyaasa sent-end  ==  [628 frames] -60.6582 [Ac=-38093.3 LM=0.0] (Act=9.7)
+Aligning File: mfcc/output200.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end priiti na pada sarooja mana maahiin: sent-end  ==  [382 frames] -58.1498 [Ac=-22213.2 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output201.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end vijnj~aana kii sabhii shaakhaaoon: mein: gand~ita kaa upayooga kiyaa jaataa hai sent-end  ==  [500 frames] -59.3347 [Ac=-29667.3 LM=0.0] (Act=8.5)
+Aligning File: mfcc/output202.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end ina nadiyoon: kei kaarand~a uttara bhaarata kii bhuumi krxshhi kei liei upajaauu hai sent-end  ==  [540 frames] -60.2563 [Ac=-32538.4 LM=0.0] (Act=8.9)
+Aligning File: mfcc/output203.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end isakei vishhaya mein: kahaa jaataa hai sent-end  ==  [274 frames] -57.6696 [Ac=-15801.5 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output204.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end isei aisei hii jaarii rakhei sent-end  ==  [254 frames] -58.0310 [Ac=-14739.9 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output205.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end yaha san:khyaa hara varshha bad:h rahii hai sent-end  ==  [382 frames] -56.0991 [Ac=-21429.9 LM=0.0] (Act=9.4)
+Aligning File: mfcc/output206.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end ashooka kei raajya mein: maurya van:sha kaa beihada vistaara huaa sent-end  ==  [491 frames] -58.5897 [Ac=-28767.5 LM=0.0] (Act=8.7)
+Aligning File: mfcc/output207.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end sunahu sakhaa nija kahuna subhaauu sent-end  ==  [412 frames] -58.6290 [Ac=-24155.1 LM=0.0] (Act=8.2)
+Aligning File: mfcc/output208.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end kii kaarand~a hain: jaisei ki leikha lambaa hai ityaadi sent-end  ==  [471 frames] -58.0454 [Ac=-27339.4 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output209.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end gagana muulatah: san:skrxta kaa shabda hai sent-end  ==  [382 frames] -58.8317 [Ac=-22473.7 LM=0.0] (Act=8.9)
+Aligning File: mfcc/output210.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end sabasei puraanaa jiivita saahitya rxgveida hai joo san:skrxta bhaashhaa mein: likhaa gayaa hai sent-end  ==  [688 frames] -59.0195 [Ac=-40605.4 LM=0.0] (Act=9.6)
+Aligning File: mfcc/output211.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end keindra raajya koo aisei nirdeisha dei sakataa hai joo isa san:ban:dha mei aavashyaka hoo sent-end  ==  [619 frames] -58.7045 [Ac=-36338.1 LM=0.0] (Act=9.8)
+Aligning File: mfcc/output212.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end bhaya kaa artha hootaa hai d:ara sent-end  ==  [234 frames] -59.2592 [Ac=-13866.6 LM=0.0] (Act=11.3)
+Aligning File: mfcc/output213.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end sanaatana athavaa vaidika dharma kaa duusaraa naama sent-end  ==  [412 frames] -58.3991 [Ac=-24060.4 LM=0.0] (Act=11.8)
+Aligning File: mfcc/output214.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end maayaa kaa artha hootaa hai bhrama jaala sent-end  ==  [441 frames] -54.6407 [Ac=-24096.6 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output215.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end isa praaran:bhika avasthaa kii shailii mein: bhaava kama hain: shabda adhika sent-end  ==  [609 frames] -58.4775 [Ac=-35612.8 LM=0.0] (Act=9.8)
+Aligning File: mfcc/output216.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end san:saara mein: keivala doo tatva hain: eika saun:darya aura duusaraa satya sent-end  ==  [510 frames] -59.6399 [Ac=-30416.3 LM=0.0] (Act=9.9)
+Aligning File: mfcc/output217.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end arthashaastra leikha mein: sudhaara kei liei dhanyavaada sent-end  ==  [382 frames] -58.3403 [Ac=-22286.0 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output218.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end yooga arthaata jiiva kaa paramaatmaa sei milana sent-end  ==  [422 frames] -57.7028 [Ac=-24350.6 LM=0.0] (Act=9.5)
+Aligning File: mfcc/output219.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end yuddha kaa artha hootaa hai rand~a sent-end  ==  [333 frames] -56.5546 [Ac=-18832.7 LM=0.0] (Act=9.9)
+Aligning File: mfcc/output220.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end gahei bharata puni prabhu pada pan:kaja sent-end  ==  [402 frames] -58.2678 [Ac=-23423.6 LM=0.0] (Act=9.8)
+Aligning File: mfcc/output221.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end paakistaana tathaa bhaarata mein: bhii prayukta soomavaara kaa ruupa sent-end  ==  [530 frames] -56.9472 [Ac=-30182.0 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output222.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end sarvoottama kaa artha hootaa hai sarvashreishht:ha sent-end  ==  [343 frames] -59.2004 [Ac=-20305.7 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output223.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end isei samiikarand~a isaliyei kahaa jaataa hai ki isamein: samataa chinha sent-end  ==  [589 frames] -57.8053 [Ac=-34047.3 LM=0.0] (Act=8.0)
+Aligning File: mfcc/output224.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end unamein: sei eika kaa naama thaa dakshha sent-end  ==  [274 frames] -58.0875 [Ac=-15916.0 LM=0.0] (Act=9.6)
+Aligning File: mfcc/output225.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end apanei mata kii shuruaata karein: samarthana yaa viroodha kei saatha sent-end  ==  [510 frames] -58.7471 [Ac=-29961.0 LM=0.0] (Act=9.9)
+Aligning File: mfcc/output226.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end nayana kaa artha hootaa hai aanakha sent-end  ==  [284 frames] -57.1591 [Ac=-16233.2 LM=0.0] (Act=11.0)
+Aligning File: mfcc/output227.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end main: hindii kei maulika leikha likhataa huuna sent-end  ==  [402 frames] -55.5488 [Ac=-22330.6 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output228.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end mahilaa shikshhaa apanei aapa mein: mahilaa utthaana kaa kaarand~a nahiin: bana sakatii sent-end  ==  [599 frames] -58.1837 [Ac=-34852.0 LM=0.0] (Act=9.5)
+Aligning File: mfcc/output229.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end viraha kaa artha hootaa hai viyooga sent-end  ==  [284 frames] -58.8254 [Ac=-16706.4 LM=0.0] (Act=12.3)
+Aligning File: mfcc/output230.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end teihin: giri ruchira basi khaga sooii sent-end  ==  [431 frames] -58.4003 [Ac=-25170.5 LM=0.0] (Act=9.6)
+Aligning File: mfcc/output231.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end yaha braja bhaashhaa mein: rachita hai sent-end  ==  [294 frames] -55.7015 [Ac=-16376.2 LM=0.0] (Act=9.4)
+Aligning File: mfcc/output232.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end meirei vichaara mai boot:a sei leikha banaanaa sambhava hai sent-end  ==  [461 frames] -56.8812 [Ac=-26222.2 LM=0.0] (Act=9.0)
+Aligning File: mfcc/output233.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end udayapura bhaaratiiya raajya raajasthaana kaa eika jilaa hai sent-end  ==  [471 frames] -57.8529 [Ac=-27248.7 LM=0.0] (Act=8.9)
+Aligning File: mfcc/output234.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end yooga eika oora too san:kshhipta vishhaya hai aura duusarii oora kaaphii vyaapaka sent-end  ==  [589 frames] -59.2080 [Ac=-34873.5 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output235.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end kuchha shabdoon: kei puurva eika sei adhika upasarga bhii laga sakatei hain: sent-end  ==  [510 frames] -60.7715 [Ac=-30993.4 LM=0.0] (Act=10.4)
+Aligning File: mfcc/output236.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end uttaraakhan:d:a kei doo pramukha bhaaga hain: gad:hvaala aura kumaauuna sent-end  ==  [461 frames] -58.9158 [Ac=-27160.2 LM=0.0] (Act=10.1)
+Aligning File: mfcc/output237.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end tau tumha moohi darasu hat:hi diinhaa sent-end  ==  [491 frames] -56.8948 [Ac=-27935.4 LM=0.0] (Act=9.4)
+Aligning File: mfcc/output238.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end krxpaa karakei mujhei bataanei kaa kashht:a karei sent-end  ==  [402 frames] -57.8695 [Ac=-23263.5 LM=0.0] (Act=8.0)
+Aligning File: mfcc/output239.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end muulatah: guru vaha hai joo jnj~aana dei sent-end  ==  [382 frames] -56.8317 [Ac=-21709.7 LM=0.0] (Act=9.7)
+Aligning File: mfcc/output240.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end biisaviin: shataabdii kei praaran:bha mein: an:greijii shaasana sei svatan:trataa praapti kei liyei san:gharshha chalaa sent-end  ==  [727 frames] -60.0317 [Ac=-43643.0 LM=0.0] (Act=9.5)
+Aligning File: mfcc/output241.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end unakii isa pustaka kaa bhaarata eivan: brit:eina mein: samaana svaagata huaa hai sent-end  ==  [589 frames] -58.4158 [Ac=-34406.9 LM=0.0] (Act=9.5)
+Aligning File: mfcc/output242.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end ata sirph hinduu samaaja kaa varnd~ana karanaa uchita nahii hai sent-end  ==  [628 frames] -58.1616 [Ac=-36525.5 LM=0.0] (Act=10.7)
+Aligning File: mfcc/output243.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end aitihaasika ruupa sei goorakhapura bahuta prasiddha hai sent-end  ==  [431 frames] -60.7709 [Ac=-26192.3 LM=0.0] (Act=10.9)
+Aligning File: mfcc/output244.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end isii kei saatha hindii kavitaa mein: prayooga yuga kaa aarambha maanaa jaa sakataa hai sent-end  ==  [619 frames] -58.2557 [Ac=-36060.3 LM=0.0] (Act=9.7)
+Aligning File: mfcc/output245.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end uttara pradeisha bhaarata mein: huaa sent-end  ==  [274 frames] -58.5577 [Ac=-16044.8 LM=0.0] (Act=10.3)
+Aligning File: mfcc/output246.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end viveika kaa artha hootaa hai buddhi sent-end  ==  [303 frames] -57.0260 [Ac=-17278.9 LM=0.0] (Act=8.5)
+Aligning File: mfcc/output247.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end loochana sajala joori kara doouu sent-end  ==  [372 frames] -56.3187 [Ac=-20950.6 LM=0.0] (Act=7.3)
+Aligning File: mfcc/output248.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end isakaa artha hai bhuumi mein: jala hoo sent-end  ==  [303 frames] -57.4631 [Ac=-17411.3 LM=0.0] (Act=9.6)
+Aligning File: mfcc/output249.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end bharadvaaja hin:duoon: kei eika mahaana rxshhi hain: sent-end  ==  [392 frames] -57.4461 [Ac=-22518.9 LM=0.0] (Act=9.2)
+Aligning File: mfcc/output250.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end kaalidaasa kei naat:aka kei paatra sent-end  ==  [294 frames] -58.0357 [Ac=-17062.5 LM=0.0] (Act=7.1)
+Aligning File: mfcc/output251.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end isakaa hairii po~t:ara kii lagabhaga hareika pustaka mein: varnd~ana hai sent-end  ==  [451 frames] -59.4213 [Ac=-26799.0 LM=0.0] (Act=11.0)
+Aligning File: mfcc/output252.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end mrxdu kaa artha hootaa hai koomala sent-end  ==  [372 frames] -55.3315 [Ac=-20583.3 LM=0.0] (Act=7.4)
+Aligning File: mfcc/output253.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end madada kei liei bahuuta dhanyavaada sent-end  ==  [284 frames] -56.8233 [Ac=-16137.8 LM=0.0] (Act=9.4)
+Aligning File: mfcc/output254.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end aadara kaa artha hootaa hai sammaana sent-end  ==  [274 frames] -57.9773 [Ac=-15885.8 LM=0.0] (Act=10.2)
+Aligning File: mfcc/output255.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end jiita kaa artha hootaa hai vijaya sent-end  ==  [343 frames] -56.7416 [Ac=-19462.4 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output256.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end vikipiid:iyaa kaa prathama nirvaachita leikha ghooshhita huaa raamaayand~a sent-end  ==  [550 frames] -57.9153 [Ac=-31853.4 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output257.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end suhaartoo kaa an:tima san:skaara aaja sent-end  ==  [422 frames] -57.7279 [Ac=-24361.2 LM=0.0] (Act=8.2)
+Aligning File: mfcc/output258.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end isa kshheitra kii siimaa kei saathasaatha vyaasa sent-end  ==  [402 frames] -58.1473 [Ac=-23375.2 LM=0.0] (Act=8.3)
+Aligning File: mfcc/output259.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end bahuta meihanata sei tathaa lagabhaga puuraa likhaa gayaa leikha hai yaha sent-end  ==  [471 frames] -60.0243 [Ac=-28271.4 LM=0.0] (Act=12.0)
+Aligning File: mfcc/output260.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end ura kaa artha hootaa hai chhaatii sent-end  ==  [333 frames] -56.1088 [Ac=-18684.2 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output261.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end mahaanadii kii san:skrxti kaa pravaaha sent-end  ==  [353 frames] -57.0739 [Ac=-20147.1 LM=0.0] (Act=7.5)
+Aligning File: mfcc/output262.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end kii looga isei hindii kaa eika ruupa maanatei hain: sent-end  ==  [372 frames] -58.8664 [Ac=-21898.3 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output263.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end saatha hii hoo sakei too shikaayata prxshht:ha para usa shikaayata kaa javaaba diyaa jaaei sent-end  ==  [589 frames] -60.6846 [Ac=-35743.2 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output264.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end chhaayaavaada yuga hindii saahitya kaa eika yuga sent-end  ==  [382 frames] -59.7801 [Ac=-22836.0 LM=0.0] (Act=9.3)
+Aligning File: mfcc/output265.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end bhaarata kei jammuu aura kashmiira pradeisha kaa eika nagara hai sent-end  ==  [461 frames] -59.1118 [Ac=-27250.6 LM=0.0] (Act=8.2)
+Aligning File: mfcc/output266.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end hareika kisii na kisii veida sei jud:aa huaa hai sent-end  ==  [382 frames] -59.7398 [Ac=-22820.6 LM=0.0] (Act=9.8)
+Aligning File: mfcc/output267.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end varnd~a bhaashhaa kii sabasei chhoot:ii ikaaii hai sent-end  ==  [353 frames] -59.0271 [Ac=-20836.6 LM=0.0] (Act=7.2)
+Aligning File: mfcc/output268.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end pratyeika stariiya pariyoojanaa mein: meiraa sahayooga raheigaa sent-end  ==  [441 frames] -59.8650 [Ac=-26400.5 LM=0.0] (Act=8.7)
+Aligning File: mfcc/output269.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end khaga mrxga brxn:da deikhi mana bhaaei sent-end  ==  [441 frames] -56.6191 [Ac=-24969.0 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output270.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end unakei basa jaanei kei baada yaha kshheitra gad:hvaala kei raajaa koo kara deinei lagaa sent-end  ==  [589 frames] -58.9241 [Ac=-34706.3 LM=0.0] (Act=7.8)
+Aligning File: mfcc/output271.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end aisaa sirpha puurnd~imaa kei dina san:bhava hootaa hai sent-end  ==  [382 frames] -58.5877 [Ac=-22380.5 LM=0.0] (Act=9.2)
+Aligning File: mfcc/output272.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end nisichara nikara marana bidhi naanaa sent-end  ==  [382 frames] -57.3324 [Ac=-21901.0 LM=0.0] (Act=8.0)
+Aligning File: mfcc/output273.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end hindii aura san:skrxta mei uttaraakhan:d:a kaa artha uttarii kshheitra yaa bhaaga hootaa hai sent-end  ==  [658 frames] -59.3737 [Ac=-39067.9 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output274.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end kumaauuna kaa astitva bhii vaidika kaala sei hai sent-end  ==  [382 frames] -58.9381 [Ac=-22514.4 LM=0.0] (Act=8.7)
+Aligning File: mfcc/output275.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end dharoohara san:gat:hana kei liei khoojein: sent-end  ==  [323 frames] -56.4974 [Ac=-18248.7 LM=0.0] (Act=8.2)
+Aligning File: mfcc/output276.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end karahin: sadaa seivaka para priitii sent-end  ==  [392 frames] -55.5788 [Ac=-21786.9 LM=0.0] (Act=7.8)
+Aligning File: mfcc/output277.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end isakaa mukhya bhavana raashht:riiya viraasata ghooshhita kiyaa jaa chukaa hai sent-end  ==  [500 frames] -60.6479 [Ac=-30323.9 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output278.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end uttara dishaa chaara dishaa oon: mein: sei eika hai sent-end  ==  [343 frames] -58.7330 [Ac=-20145.4 LM=0.0] (Act=7.7)
+Aligning File: mfcc/output279.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end una dinoon: maisuura kei sabhii ko~leija madraasa vishvavidyaalaya sei san:baddha thei sent-end  ==  [628 frames] -60.8925 [Ac=-38240.5 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output280.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end bhaashhaa vijnj~aana kei liei khoojein: sent-end  ==  [294 frames] -56.6526 [Ac=-16655.9 LM=0.0] (Act=6.3)
+Aligning File: mfcc/output281.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end kyaa mujhei surakshhita karanei kaa adhikaara mila sakataa hai sent-end  ==  [431 frames] -59.7897 [Ac=-25769.3 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output282.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end yaha bhaarata mein: hoonei vaalii eika saun:darya pratiyoogitaa hai sent-end  ==  [431 frames] -61.1476 [Ac=-26354.6 LM=0.0] (Act=10.5)
+Aligning File: mfcc/output283.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end taba an:gada ut:hi naai siru sajala nayana kara joori sent-end  ==  [589 frames] -57.5833 [Ac=-33916.6 LM=0.0] (Act=9.4)
+Aligning File: mfcc/output284.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end yei voo doo pramukha bhaashhaa hain: jahaan: sei maithilii kaa vikaasa huaa sent-end  ==  [569 frames] -59.8396 [Ac=-34048.7 LM=0.0] (Act=9.9)
+Aligning File: mfcc/output285.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end jana avaguna prabhu maana na kaauu sent-end  ==  [392 frames] -59.8050 [Ac=-23443.5 LM=0.0] (Act=11.0)
+Aligning File: mfcc/output286.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end main: kavitaa koosha kaa sadasya huuna sent-end  ==  [284 frames] -60.9629 [Ac=-17313.5 LM=0.0] (Act=9.3)
+Aligning File: mfcc/output287.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end mukhyatah: vei joo ki mandira kei pradhaana deivataa sei sambandhita hootei hain: sent-end  ==  [530 frames] -60.5164 [Ac=-32073.7 LM=0.0] (Act=8.7)
+Aligning File: mfcc/output288.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end aba joo main: kahataa huuna usakaa paalana karoo sent-end  ==  [372 frames] -60.7233 [Ac=-22589.1 LM=0.0] (Act=11.7)
+Aligning File: mfcc/output289.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end isa raajya kaa leikha deikhanei kei liyei yahaana jaayein: jammuu aura kashmiira sent-end  ==  [550 frames] -59.7552 [Ac=-32865.3 LM=0.0] (Act=9.4)
+Aligning File: mfcc/output290.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end yaha shabda rxtu kei kaaphii kariiba hai sent-end  ==  [402 frames] -56.0156 [Ac=-22518.3 LM=0.0] (Act=7.3)
+Aligning File: mfcc/output291.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end maharshhi maheisha yoogii kaa nidhana sent-end  ==  [323 frames] -56.3868 [Ac=-18212.9 LM=0.0] (Act=7.0)
+Aligning File: mfcc/output292.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end maharshhi maheisha yoogii kaa nidhana eichat:iieima sent-end  ==  [422 frames] -58.3793 [Ac=-24636.1 LM=0.0] (Act=8.3)
+Aligning File: mfcc/output293.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end ayoodhyaa prasaada khatrii para dhyaana aakarshhita karanei kei liei dhanyavaada sent-end  ==  [530 frames] -59.2713 [Ac=-31413.8 LM=0.0] (Act=9.2)
+Aligning File: mfcc/output294.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end vyavasaaya sei mai eika san:gand~aka sent-end  ==  [343 frames] -57.2492 [Ac=-19636.5 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output295.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end udaaharand~a kei liei deikhein: hin:dii saahitya sent-end  ==  [353 frames] -57.5233 [Ac=-20305.7 LM=0.0] (Act=9.4)
+Aligning File: mfcc/output296.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end vaand~ii kaa artha hootaa hai vachana sent-end  ==  [264 frames] -57.6114 [Ac=-15209.4 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output297.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end vei raama kei bhaaii thei unakei anya bhaaii thei bharata aura lakshhmand~a sent-end  ==  [628 frames] -58.4935 [Ac=-36733.9 LM=0.0] (Act=9.9)
+Aligning File: mfcc/output298.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end unhoonei doo patra bhii prakaashita kiyei hindii mein: arjuna tathaa urduu mein: teija sent-end  ==  [678 frames] -59.4024 [Ac=-40274.8 LM=0.0] (Act=9.3)
+Aligning File: mfcc/output299.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end praachiina roomana dharma mein: unakii samatulya deivii thiin: viinasa sent-end  ==  [559 frames] -58.5376 [Ac=-32722.5 LM=0.0] (Act=11.1)
+Aligning File: mfcc/output300.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end hanumaana kii puunachha mein: lagana na paayii aaga sent-end  ==  [422 frames] -59.1225 [Ac=-24949.7 LM=0.0] (Act=8.5)
+Aligning File: mfcc/output301.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end kahi na jaai ati durga biseishhii sent-end  ==  [392 frames] -55.8242 [Ac=-21883.1 LM=0.0] (Act=7.7)
+Aligning File: mfcc/output302.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end janataa paart:ii koo hat:aayaa gayaa hai sent-end  ==  [284 frames] -58.6518 [Ac=-16657.1 LM=0.0] (Act=9.8)
+Aligning File: mfcc/output303.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end teihin: mama pada saadara siru naavaa sent-end  ==  [372 frames] -55.5991 [Ac=-20682.9 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output304.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end para main: abhii saaraa hin:dii kaa vyaakarand~a jaanataa huuna vaha kaaphii aasaana hai sent-end  ==  [530 frames] -59.3322 [Ac=-31446.1 LM=0.0] (Act=10.2)
+Aligning File: mfcc/output305.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end usa samaya gad:hvaala mein: prxthvii shaaha kaa raajya thaa sent-end  ==  [402 frames] -58.2819 [Ac=-23429.3 LM=0.0] (Act=8.7)
+Aligning File: mfcc/output306.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end isa leikha mei gaayatrii man:tra kei baarei mei jaanakaarii dii jaanii chaahiei sent-end  ==  [540 frames] -57.8585 [Ac=-31243.6 LM=0.0] (Act=7.5)
+Aligning File: mfcc/output307.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end meirei vikipiid:iyaa prxshht:ha para aapakaa svaagata hai sent-end  ==  [392 frames] -58.0199 [Ac=-22743.8 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output308.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end yahaana bhaaratiiya itihaasa kii visheishha ghat:anaaoon: kii suuchii hai sent-end  ==  [481 frames] -58.5247 [Ac=-28150.4 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output309.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end aisaa pratiita karaayaa jaataa hai ki duusarii bhaashhaaein: ina gund~oon: sei hiina hain: sent-end  ==  [579 frames] -58.6704 [Ac=-33970.2 LM=0.0] (Act=9.8)
+Aligning File: mfcc/output310.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end vei yaa too achchhii likhii gii hootii hain: yaa burii sent-end  ==  [382 frames] -59.6126 [Ac=-22772.0 LM=0.0] (Act=7.9)
+Aligning File: mfcc/output311.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end hin:dii kei vidvaana suprasiddha leikhaka va kavi thei sent-end  ==  [392 frames] -59.7122 [Ac=-23407.2 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output312.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end phirahin: tei kaahei na hoohin: dukhaarii sent-end  ==  [412 frames] -59.5793 [Ac=-24546.7 LM=0.0] (Act=9.7)
+Aligning File: mfcc/output313.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end bhaaratiiya vaijnj~aanika kei liei khoojein: sent-end  ==  [323 frames] -56.6813 [Ac=-18308.0 LM=0.0] (Act=7.1)
+Aligning File: mfcc/output314.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end satyajita raaya kii eika prasiddha hindii philma hai sent-end  ==  [431 frames] -57.9037 [Ac=-24956.5 LM=0.0] (Act=9.6)
+Aligning File: mfcc/output315.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end sampuurnd~a kumaauuna mein: kooii eika shakti na thii joo sabakoo apanei adhiina kara paatii sent-end  ==  [688 frames] -60.1332 [Ac=-41371.6 LM=0.0] (Act=9.4)
+Aligning File: mfcc/output316.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end uttara aura puurva kei biicha kii dishaa sent-end  ==  [362 frames] -58.6841 [Ac=-21243.6 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output317.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end bhaarata mein: jhaarakhan:d:a pradeisha kaa eika jilaa hai sent-end  ==  [382 frames] -59.1777 [Ac=-22605.9 LM=0.0] (Act=8.5)
+Aligning File: mfcc/output318.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end bauddha dharma kei pravartaka thei sent-end  ==  [294 frames] -58.1939 [Ac=-17109.0 LM=0.0] (Act=8.9)
+Aligning File: mfcc/output319.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end deihu bhagati raghupati ati paavani sent-end  ==  [422 frames] -57.4802 [Ac=-24256.7 LM=0.0] (Act=8.0)
+Aligning File: mfcc/output320.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end khad:ii boolii kaa vikaasa sabasei pahalei aaja kei pashchimii uttara pradeisha mein: huaa sent-end  ==  [599 frames] -59.9510 [Ac=-35910.6 LM=0.0] (Act=9.2)
+Aligning File: mfcc/output321.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end bibidha karma guna kaala subhaauu sent-end  ==  [353 frames] -58.5271 [Ac=-20660.1 LM=0.0] (Act=9.4)
+Aligning File: mfcc/output322.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end atah: yahaan: kei graamiind~a maithilii koo apanei maatrxbhaashhaa kei ruupa mein: prayooga karatei hain: sent-end  ==  [678 frames] -59.5351 [Ac=-40364.8 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output323.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end agara aapa an:greijii vikipiid:iyaa para hain: too sent-end  ==  [392 frames] -57.8095 [Ac=-22661.3 LM=0.0] (Act=9.4)
+Aligning File: mfcc/output324.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end vikipiid:iyaa sadasya maniishha vashishht:ha aura aravindan kei kaarya kei anusaara sent-end  ==  [619 frames] -58.9247 [Ac=-36474.4 LM=0.0] (Act=8.3)
+Aligning File: mfcc/output325.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end para rxtu aura mausama mein: kuchha antara hai sent-end  ==  [382 frames] -58.1151 [Ac=-22200.0 LM=0.0] (Act=8.9)
+Aligning File: mfcc/output326.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end subhadraa kumaarii chauhaana kii mitrataa ko~leija jiivana mein: hii jud:ii thii sent-end  ==  [530 frames] -59.5887 [Ac=-31582.0 LM=0.0] (Act=9.3)
+Aligning File: mfcc/output327.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end eika artha too shaabdika hai kushala man:gala sent-end  ==  [392 frames] -57.7991 [Ac=-22657.2 LM=0.0] (Act=9.2)
+Aligning File: mfcc/output328.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end aashaa kaa artha hootaa hai ummiida sent-end  ==  [303 frames] -56.7077 [Ac=-17182.4 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output329.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end kashmiira mein: banaaii gii philma sent-end  ==  [284 frames] -57.3917 [Ac=-16299.2 LM=0.0] (Act=8.0)
+Aligning File: mfcc/output330.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end akhila kaa artha hootaa hai sampuurnd~a vyaapaka sent-end  ==  [353 frames] -59.8820 [Ac=-21138.3 LM=0.0] (Act=10.5)
+Aligning File: mfcc/output331.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end kisaanoon: kaa akhila bhaaratiiya sammeilana sent-end  ==  [353 frames] -57.3128 [Ac=-20231.4 LM=0.0] (Act=8.0)
+Aligning File: mfcc/output332.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end vismaya kaa artha hootaa hai aashcharya sent-end  ==  [372 frames] -57.6944 [Ac=-21462.3 LM=0.0] (Act=8.5)
+Aligning File: mfcc/output333.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end sudhi kaa artha hootaa hai smarand~a sent-end  ==  [313 frames] -57.7305 [Ac=-18069.6 LM=0.0] (Act=8.7)
+Aligning File: mfcc/output334.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end aama taura para svara kaa vaha artha prayukta hootaa hai jisakaa artha hai aavaaja sent-end  ==  [589 frames] -61.0185 [Ac=-35939.9 LM=0.0] (Act=11.2)
+Aligning File: mfcc/output335.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end yaani itihaasa sei puurva kaa itihaasa sent-end  ==  [333 frames] -58.5548 [Ac=-19498.7 LM=0.0] (Act=8.2)
+Aligning File: mfcc/output336.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end san:deisha kei liei dhanyavaada raajiiva main: t:hiika huuna sent-end  ==  [530 frames] -56.8650 [Ac=-30138.5 LM=0.0] (Act=9.0)
+Aligning File: mfcc/output337.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end muni siddha nara khaga naaga sent-end  ==  [353 frames] -58.8166 [Ac=-20762.3 LM=0.0] (Act=9.8)
+Aligning File: mfcc/output338.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end san:darbha mein: deinaa jruurii hai sent-end  ==  [362 frames] -55.9882 [Ac=-20267.7 LM=0.0] (Act=8.3)
+Aligning File: mfcc/output339.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end yaha vaayu galei mein: rahatii hai sent-end  ==  [313 frames] -56.1400 [Ac=-17571.8 LM=0.0] (Act=9.8)
+Aligning File: mfcc/output340.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end jilei kaa mukhyaalaya udayapura hai sent-end  ==  [333 frames] -57.5665 [Ac=-19169.6 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output341.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+sent-end isii samaya kumaauuna bhaashhaa mein: arabii phaarasii turkii bhaashhaaoon: kei kii shabda prayukta hoonei lagei sent-end  ==  [786 frames] -60.8871 [Ac=-47857.3 LM=0.0] (Act=8.5)
+Aligning File: mfcc/output342.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end ati bichitra kahi jaata soo naahiin: sent-end  ==  [343 frames] -59.5217 [Ac=-20415.9 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output343.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end duusarii oora baaga bhii raashht:riiya mahatva kaa sthaana hai sent-end  ==  [441 frames] -61.5885 [Ac=-27160.5 LM=0.0] (Act=9.9)
+Aligning File: mfcc/output344.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end phira gautama buddha nei unhei prachaara karanei kei liyei bheija diyaa sent-end  ==  [530 frames] -59.8041 [Ac=-31696.2 LM=0.0] (Act=8.9)
+Aligning File: mfcc/output345.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end vistaara sei samajhanei kei liei svara varnd~a koo deikhein: sent-end  ==  [412 frames] -60.9008 [Ac=-25091.1 LM=0.0] (Act=8.1)
+Aligning File: mfcc/output346.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end aaja yaha gad:hvaala man:d:ala mein: hai sent-end  ==  [294 frames] -58.4799 [Ac=-17193.1 LM=0.0] (Act=11.3)
+Aligning File: mfcc/output347.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end goobin:daraaya jaakara unakii gooda mein: bait:ha gei sent-end  ==  [471 frames] -60.7030 [Ac=-28591.1 LM=0.0] (Act=8.5)
+Aligning File: mfcc/output348.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end kari bichaara karaun: kaa bhaaii sent-end  ==  [353 frames] -56.5069 [Ac=-19946.9 LM=0.0] (Act=8.2)
+Aligning File: mfcc/output349.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end yaha rxshhi muni bhii huaa sent-end  ==  [343 frames] -57.9693 [Ac=-19883.5 LM=0.0] (Act=7.9)
+Aligning File: mfcc/output350.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end isa goomatii taalaaba kei uupara nau ghaat:a hai sent-end  ==  [431 frames] -59.1946 [Ac=-25512.9 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output351.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end praanta kaa eika shahara hai sent-end  ==  [274 frames] -56.5164 [Ac=-15485.5 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output352.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end vijnj~aana kii isa shaakhaa koo bhautika shaastra kahaa jaataa hai sent-end  ==  [510 frames] -58.6284 [Ac=-29900.5 LM=0.0] (Act=8.0)
+Aligning File: mfcc/output353.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end aisaa lagataa hai ki alaga prxshht:ha rakhaa gayaa hissaa t:hiika hai sent-end  ==  [471 frames] -59.9214 [Ac=-28223.0 LM=0.0] (Act=10.3)
+Aligning File: mfcc/output354.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end uttara aura pashchima kei biicha kii dishaa sent-end  ==  [333 frames] -58.1308 [Ac=-19357.6 LM=0.0] (Act=7.9)
+Aligning File: mfcc/output355.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end raajiiva aapakaa kaama kaaphii achchhaa hai sent-end  ==  [323 frames] -57.6386 [Ac=-18617.3 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output356.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end upaasanaa san:skrxta muula kaa shabda hai sent-end  ==  [353 frames] -58.5070 [Ac=-20653.0 LM=0.0] (Act=7.9)
+Aligning File: mfcc/output357.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end aba shriiraama kathaa ati paavani sent-end  ==  [392 frames] -55.6220 [Ac=-21803.8 LM=0.0] (Act=8.0)
+Aligning File: mfcc/output358.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end tumha jaanahu kapi moora subhaauu sent-end  ==  [362 frames] -57.6217 [Ac=-20859.0 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output359.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end mukhya leikha meirii jiivana kahaanii sent-end  ==  [323 frames] -57.3448 [Ac=-18522.4 LM=0.0] (Act=9.0)
+Aligning File: mfcc/output360.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end isaliei main: kooii nayaa pannaa likha sakataa nahiin: huuna sent-end  ==  [451 frames] -57.1688 [Ac=-25783.1 LM=0.0] (Act=8.9)
+Aligning File: mfcc/output361.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end isakaa prabhaava mukhyatah: nagaroon: mein: huaa hai sent-end  ==  [382 frames] -59.9276 [Ac=-22892.4 LM=0.0] (Act=10.9)
+Aligning File: mfcc/output362.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end hindii saahitya koosha bhaaga doo sent-end  ==  [323 frames] -55.7380 [Ac=-18003.4 LM=0.0] (Act=7.0)
+Aligning File: mfcc/output363.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end eishiyaa kei madhya kaa kshheitra sent-end  ==  [313 frames] -56.8282 [Ac=-17787.2 LM=0.0] (Act=6.2)
+Aligning File: mfcc/output364.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end aadhaara kaa artha hootaa hai muula sent-end  ==  [264 frames] -58.8258 [Ac=-15530.0 LM=0.0] (Act=11.8)
+Aligning File: mfcc/output365.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end raajiiva jii aapakei sujhaava kaa dhanyavaada sent-end  ==  [353 frames] -60.6324 [Ac=-21403.2 LM=0.0] (Act=8.0)
+Aligning File: mfcc/output366.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end puurnd~a leikha naama prayooga heitu deikhein: puurnd~a leikha naama sent-end  ==  [461 frames] -60.0272 [Ac=-27672.5 LM=0.0] (Act=8.3)
+Aligning File: mfcc/output367.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end ameirikana phut:abo~la liiga kei liei khoojein: sent-end  ==  [323 frames] -59.5986 [Ac=-19250.3 LM=0.0] (Act=8.0)
+Aligning File: mfcc/output368.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end san:puurnd~a bhaarata kei kisaanoon: kaa sammeilana sent-end  ==  [362 frames] -59.7644 [Ac=-21634.7 LM=0.0] (Act=9.0)
+Aligning File: mfcc/output369.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end vakta kaa artha hootaa hai samaya sent-end  ==  [353 frames] -57.2167 [Ac=-20197.5 LM=0.0] (Act=10.1)
+Aligning File: mfcc/output370.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end an:greija bhaarata mein: aayei too thei vyaapaara karanei kintu bana bait:hei shaasaka sent-end  ==  [579 frames] -60.4885 [Ac=-35022.8 LM=0.0] (Act=9.4)
+Aligning File: mfcc/output371.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end rachanaa kaa artha hootaa hai nirmaand~a sent-end  ==  [313 frames] -58.3430 [Ac=-18261.3 LM=0.0] (Act=10.4)
+Aligning File: mfcc/output372.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end satya yuga maanava kaa pahalaa svarnd~a yuga sent-end  ==  [343 frames] -58.2787 [Ac=-19989.6 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output373.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end udayapura raajasthaana praanta kaa eika nagara hai sent-end  ==  [372 frames] -58.3441 [Ac=-21704.0 LM=0.0] (Act=9.5)
+Aligning File: mfcc/output374.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end ud:iisaa kii raajaniiti kei liei khoojein: sent-end  ==  [313 frames] -59.2278 [Ac=-18538.3 LM=0.0] (Act=7.0)
+Aligning File: mfcc/output375.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end bhavishhya puraand~a mein: bhavishhya mein: hoonei vaalii ghat:anaaoon: kaa varnd~ana hai sent-end  ==  [471 frames] -59.4252 [Ac=-27989.3 LM=0.0] (Act=9.5)
+Aligning File: mfcc/output376.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end brit:eina mei basii bhaaratiiya muula kii leikhaka hai sent-end  ==  [412 frames] -59.1061 [Ac=-24351.7 LM=0.0] (Act=8.7)
+Aligning File: mfcc/output377.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end yahaana shabdakoosha nahiin: rakhanaa chaahiyei sent-end  ==  [422 frames] -57.3930 [Ac=-24219.8 LM=0.0] (Act=7.3)
+Aligning File: mfcc/output378.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end raajadhaanii bananei kei baada isa shahara kaa aakaara niran:tara bad:h rahaa hai sent-end  ==  [569 frames] -58.9149 [Ac=-33522.6 LM=0.0] (Act=10.4)
+Aligning File: mfcc/output379.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end main:nei isa leikha mein: kaaphii san:darbha lagaa diei hain: sent-end  ==  [382 frames] -59.1900 [Ac=-22610.6 LM=0.0] (Act=8.9)
+Aligning File: mfcc/output380.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end khyaati kaa vivaaha bhrxgu rxshhi kei saatha huaa thaa sent-end  ==  [422 frames] -59.0967 [Ac=-24938.8 LM=0.0] (Act=8.5)
+Aligning File: mfcc/output381.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end hindii mein: haaiku likhanei kii dishaa mein: bahuta teijii aaii hai sent-end  ==  [451 frames] -59.6598 [Ac=-26906.6 LM=0.0] (Act=8.2)
+Aligning File: mfcc/output382.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end taba sei raajaa aura raanii baalaka goobin:daraaya kei bhakta hoo gei sent-end  ==  [500 frames] -58.8115 [Ac=-29405.7 LM=0.0] (Act=9.6)
+Aligning File: mfcc/output383.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end san:ga naari bahu kieina banaavaa sent-end  ==  [362 frames] -56.3397 [Ac=-20395.0 LM=0.0] (Act=8.7)
+Aligning File: mfcc/output384.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end gautama buddha nagara bhaaratiiya raajya uttara pradeisha kaa eika jilaa hai sent-end  ==  [510 frames] -60.2032 [Ac=-30703.7 LM=0.0] (Act=9.8)
+Aligning File: mfcc/output385.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end kaalii mit:t:ii kii parata hoonei kei kaarand~a bhuumi upajaauu hai sent-end  ==  [471 frames] -58.4943 [Ac=-27550.8 LM=0.0] (Act=7.9)
+Aligning File: mfcc/output386.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end bhaarata mein: aisaa nahiin: huaa hai sent-end  ==  [294 frames] -56.7069 [Ac=-16671.8 LM=0.0] (Act=8.1)
+Aligning File: mfcc/output387.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end namastei raajiiva meirei vichaara sei paryat:ana bhuugoola aba t:hiika hai sent-end  ==  [579 frames] -59.8517 [Ac=-34654.1 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output388.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end prakrxti vijnj~aana kii eika vishaala shaakhaa hai sent-end  ==  [372 frames] -58.6930 [Ac=-21833.8 LM=0.0] (Act=7.9)
+Aligning File: mfcc/output389.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end yei dakshhind~ii amariikaa kei uttara mein: sthita hai sent-end  ==  [382 frames] -58.3498 [Ac=-22289.6 LM=0.0] (Act=7.9)
+Aligning File: mfcc/output390.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end purei nagara mein: dhaarmika jagaha jaisaa kuchha nahiin: milaa hai sent-end  ==  [422 frames] -59.7332 [Ac=-25207.4 LM=0.0] (Act=9.8)
+Aligning File: mfcc/output391.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end yaha meiraa vyaktigata sujhaava hai sent-end  ==  [274 frames] -59.9525 [Ac=-16427.0 LM=0.0] (Act=11.1)
+Aligning File: mfcc/output392.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end moohi bhayu ati mooha prabhu ban:dhana rana mahuna nirakhi sent-end  ==  [559 frames] -59.8705 [Ac=-33467.6 LM=0.0] (Act=14.3)
+Aligning File: mfcc/output393.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end hin:dii saahitya kaa aadhunika kaala tatkaaliina raajanaitika gatividhiyoon: sei prabhaavita huaa sent-end  ==  [741 frames] -65.3019 [Ac=-48388.7 LM=0.0] (Act=29.3)
+Aligning File: mfcc/output394.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end deikhi saila prasanna mana bhayuu sent-end  ==  [362 frames] -57.6659 [Ac=-20875.0 LM=0.0] (Act=9.2)
+Aligning File: mfcc/output395.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end para main: kisii samasyaaoon: kaa samaadhaana kara sakataa nahiin: huuna sent-end  ==  [431 frames] -58.2634 [Ac=-25111.5 LM=0.0] (Act=10.9)
+Aligning File: mfcc/output396.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end paryat:ana bhuugoola leikha para samaya deinei kii meirii puurii kooshisha raheigii sent-end  ==  [550 frames] -59.8125 [Ac=-32896.9 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output397.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end atah: aapa tatkaala usasei yuddha karakei usakaa vadha karein: sent-end  ==  [510 frames] -58.7834 [Ac=-29979.5 LM=0.0] (Act=9.7)
+Aligning File: mfcc/output398.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end praakrxtika drxshya aadi kaa chitrand~a deisha kaala kei anusaara aura san:kshhipta hoo sent-end  ==  [688 frames] -59.7052 [Ac=-41077.2 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output399.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end magadha aadhunika pat:anaa tathaa gayaa jilei aura aasapaasa kei kshheitra sent-end  ==  [550 frames] -60.2637 [Ac=-33145.0 LM=0.0] (Act=10.7)
+Aligning File: mfcc/output400.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end isa sahayooga heitu bhii bahuta dhanyavaada sent-end  ==  [313 frames] -59.0634 [Ac=-18486.8 LM=0.0] (Act=9.8)
+Aligning File: mfcc/output401.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end aarya shabda kaa artha hai shreishht:ha aura pragatishiila sent-end  ==  [471 frames] -59.3201 [Ac=-27939.8 LM=0.0] (Act=8.3)
+Aligning File: mfcc/output402.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end apooloo abhiyaana isa yaatraa kaa pahalaa kadama sent-end  ==  [382 frames] -58.4232 [Ac=-22317.7 LM=0.0] (Act=10.1)
+Aligning File: mfcc/output403.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end akhila bhaaratiiya aandoolana puurei bhaarata mein: vyaapta aan:doolana sent-end  ==  [510 frames] -59.1544 [Ac=-30168.7 LM=0.0] (Act=9.0)
+Aligning File: mfcc/output404.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end vallabha kaa artha hootaa hai priya sent-end  ==  [294 frames] -55.6303 [Ac=-16355.3 LM=0.0] (Act=9.9)
+Aligning File: mfcc/output405.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end kahata kat:hina samujhata kat:hina saadhana kat:hina bibeika sent-end  ==  [500 frames] -58.9141 [Ac=-29457.1 LM=0.0] (Act=10.3)
+Aligning File: mfcc/output406.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end heirii po~t:ara kei liei khoojein: sent-end  ==  [254 frames] -55.8027 [Ac=-14173.9 LM=0.0] (Act=7.2)
+Aligning File: mfcc/output407.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end unakei doo beit:ei thei nara aura naaraayand~a sent-end  ==  [333 frames] -59.3549 [Ac=-19765.2 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output408.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end barlina kii diivaara kaa eika bhaaga sent-end  ==  [294 frames] -58.2531 [Ac=-17126.4 LM=0.0] (Act=8.7)
+Aligning File: mfcc/output409.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end para yaha san:bhava na hoo sakaa sent-end  ==  [264 frames] -56.3611 [Ac=-14879.3 LM=0.0] (Act=10.8)
+Aligning File: mfcc/output410.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end bhaaratiiya prashaasanika seivaa kaa eika pramukha prashaasanika pada hai sent-end  ==  [569 frames] -58.7549 [Ac=-33431.5 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output411.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end bhaarata kaa sabasei bad:aa janasan:khyaa kei aadhaara para raajya hai sent-end  ==  [471 frames] -59.5814 [Ac=-28062.8 LM=0.0] (Act=10.8)
+Aligning File: mfcc/output412.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end bhuut:aana muula ruupa sei chaaroo tarapha sei sthala sei ghiraa aura parvatiiya kshheitra hai sent-end  ==  [688 frames] -58.7933 [Ac=-40449.8 LM=0.0] (Act=8.9)
+Aligning File: mfcc/output413.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end islaama mein: deivataaoon: kii aura muurtiyoon: kii puujaa karanaa manaa hai sent-end  ==  [491 frames] -59.3872 [Ac=-29159.1 LM=0.0] (Act=8.9)
+Aligning File: mfcc/output414.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end kampyuut:ara proograamin:ga bhaashhaa kei vikaasa kaa yaha agalaa kadama thaa sent-end  ==  [540 frames] -60.2285 [Ac=-32523.4 LM=0.0] (Act=10.6)
+Aligning File: mfcc/output415.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end braahmand~a jaati yaa varnd~a kei liyei yei deikhein: braahmand~a sent-end  ==  [422 frames] -57.4657 [Ac=-24250.5 LM=0.0] (Act=10.2)
+Aligning File: mfcc/output416.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+sent-end aisaa maanaa jaataa hai ki kaalii deivii kii puujaa sei unhein: jyootishha kaa jnj~aana milaa sent-end  ==  [628 frames] -59.0497 [Ac=-37083.2 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output417.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end hindii baala saahitya kii bahuta samrxddha paramparaa hai sent-end  ==  [402 frames] -58.0532 [Ac=-23337.4 LM=0.0] (Act=9.2)
+Aligning File: mfcc/output418.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end dhyaana sei deikhanei para pataa chalaa ki vahaana para kuchha aura bhii hai sent-end  ==  [540 frames] -58.9079 [Ac=-31810.3 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output419.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end khala sudhi nahin: raghubiira baana kii sent-end  ==  [353 frames] -58.9604 [Ac=-20813.0 LM=0.0] (Act=10.5)
+Aligning File: mfcc/output420.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end yaha vijnj~aana praudyoogikii tathaa aushhadhi kshheitra mein: pradaana kii jaatii hai sent-end  ==  [678 frames] -58.7885 [Ac=-39858.6 LM=0.0] (Act=8.0)
+Aligning File: mfcc/output421.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end puuraa kshheitra samatala va upajaauu hai sent-end  ==  [412 frames] -56.7588 [Ac=-23384.6 LM=0.0] (Act=7.8)
+Aligning File: mfcc/output422.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end hindii philmoon: kei liei diei jaanei vaalei sabasei puraanei aura pratishht:hita puraskaara hai sent-end  ==  [688 frames] -59.0893 [Ac=-40653.5 LM=0.0] (Act=8.7)
+Aligning File: mfcc/output423.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end chyavana rxshhi nei unhein: yajnj~a kii diikshhaa dii sent-end  ==  [382 frames] -58.8936 [Ac=-22497.4 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output424.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end bhaarata nei praachiina kaala sei hii shikshhaa kaa mahatva samajha liyaa thaa sent-end  ==  [520 frames] -59.3303 [Ac=-30851.8 LM=0.0] (Act=8.9)
+Aligning File: mfcc/output425.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end isii prakaara sainya sahayooga bhii bad:haa hai sent-end  ==  [392 frames] -56.0620 [Ac=-21976.3 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output426.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end nija mati sarisa naatha main: gaaii sent-end  ==  [412 frames] -56.7276 [Ac=-23371.8 LM=0.0] (Act=7.7)
+Aligning File: mfcc/output427.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end kari dan:d:avata sapreima dvija siva sanmukha kara joori sent-end  ==  [510 frames] -58.9473 [Ac=-30063.1 LM=0.0] (Act=9.7)
+Aligning File: mfcc/output428.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end isa kaala mein: raashht:riiya bhaavanaa kaa bhii vikaasa huaa sent-end  ==  [402 frames] -58.7978 [Ac=-23636.7 LM=0.0] (Act=8.5)
+Aligning File: mfcc/output429.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end sunahu raama kara sahaja subhaauu sent-end  ==  [362 frames] -58.7864 [Ac=-21280.7 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output430.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end main: samaaja seivaa leikhana tathaa shikshhaa koo kaaphii pasan:da karataa huuna sent-end  ==  [530 frames] -59.5490 [Ac=-31561.0 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output431.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end unakii kavitaa mein: praayah: sabhii alan:kaara paaei jaatei hain: sent-end  ==  [471 frames] -58.1037 [Ac=-27366.8 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output432.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end tuma baila hoo yaa kooii deivataa hoo sent-end  ==  [294 frames] -58.5826 [Ac=-17223.3 LM=0.0] (Act=9.4)
+Aligning File: mfcc/output433.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end dhyaana dilaanei kei liei aabhaara sent-end  ==  [303 frames] -55.9528 [Ac=-16953.7 LM=0.0] (Act=8.3)
+Aligning File: mfcc/output434.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end namaskaara aapakii sahaayataa heitu pahalei too dhanyavaada sent-end  ==  [491 frames] -58.9410 [Ac=-28940.0 LM=0.0] (Act=9.0)
+Aligning File: mfcc/output435.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end dakshhind~a sei tiisaraa mand~d:apa hai khaasa mahala sent-end  ==  [422 frames] -58.5459 [Ac=-24706.3 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output436.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end sahii prayooga kaa hai udaaharand~a kei liei praanta kaa naama sent-end  ==  [471 frames] -57.5236 [Ac=-27093.6 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output437.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end aapakaa blo~ga vaisaa hii hai jaisaa aapa usei chaahatei hain: sent-end  ==  [500 frames] -58.0944 [Ac=-29047.2 LM=0.0] (Act=8.9)
+Aligning File: mfcc/output438.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end vaishhnd~ava sampradaaya bhagavaana vishhnd~u koo iishvara maananei vaaloon: kaa sampradaaya sent-end  ==  [579 frames] -59.9439 [Ac=-34707.5 LM=0.0] (Act=9.2)
+Aligning File: mfcc/output439.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end binatii karuna joori kara raavana sent-end  ==  [372 frames] -58.3383 [Ac=-21701.8 LM=0.0] (Act=10.1)
+Aligning File: mfcc/output440.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end deikhaa bidhi bichaari saba laayaka sent-end  ==  [343 frames] -59.4147 [Ac=-20379.3 LM=0.0] (Act=8.2)
+Aligning File: mfcc/output441.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end meirii baatoon: kii oora dhyaana diijiyei sent-end  ==  [303 frames] -58.1367 [Ac=-17615.4 LM=0.0] (Act=7.5)
+Aligning File: mfcc/output442.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end isa leikha koo hindii sineimaa leikha kei saatha milaa diyaa jaaei sent-end  ==  [461 frames] -59.1851 [Ac=-27284.3 LM=0.0] (Act=7.8)
+Aligning File: mfcc/output443.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end upayukta takaniikii kei liei khoojein: sent-end  ==  [323 frames] -58.9820 [Ac=-19051.2 LM=0.0] (Act=8.3)
+Aligning File: mfcc/output444.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end deisha naama pashchima jarmanii hai sent-end  ==  [303 frames] -59.9138 [Ac=-18153.9 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output445.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end upanyaasa kei leikhaka koo upanyaasakaara kahatei hain: sent-end  ==  [392 frames] -58.7949 [Ac=-23047.6 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output446.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+sent-end hinduu tathaa sikkha dharma mein: guru kaa artha dhaarmika neitaaoon: sei bhii lagaayaa jaataa hai sent-end  ==  [619 frames] -61.1097 [Ac=-37826.9 LM=0.0] (Act=10.4)
+Aligning File: mfcc/output447.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end mantra paakara usakaa abhimaana aura bhii bad:h gayaa sent-end  ==  [412 frames] -58.2683 [Ac=-24006.5 LM=0.0] (Act=8.5)
+Aligning File: mfcc/output448.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end yahaan: sei san:gharshha kaa daura shuruu huaa sent-end  ==  [333 frames] -59.7461 [Ac=-19895.5 LM=0.0] (Act=8.0)
+Aligning File: mfcc/output449.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end unakaa eika kavitaa san:graha prakaashita huaa hai sent-end  ==  [382 frames] -59.7791 [Ac=-22835.6 LM=0.0] (Act=9.4)
+Aligning File: mfcc/output450.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end hooihi satya geina dina chaarii sent-end  ==  [392 frames] -56.9311 [Ac=-22317.0 LM=0.0] (Act=7.7)
+Aligning File: mfcc/output451.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end eika dina raajaa vishvaamitra apanii seinaa koo leikara vashishht:ha rxshhi kei aashrama mein: gayei sent-end  ==  [668 frames] -60.3898 [Ac=-40340.4 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output452.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end yaha pustaka chhaayaavaadii kavitaa kii praarambhika pustaka hai sent-end  ==  [461 frames] -59.3864 [Ac=-27377.1 LM=0.0] (Act=9.0)
+Aligning File: mfcc/output453.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end bhagavaana vishhnd~u koo iishvara maananei vaaloon: kaa sampradaaya sent-end  ==  [451 frames] -59.4015 [Ac=-26790.1 LM=0.0] (Act=8.5)
+Aligning File: mfcc/output454.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end yaha hindii philma mein: beihatara abhinaya kei liyei abhineitrii sent-end  ==  [471 frames] -59.6428 [Ac=-28091.7 LM=0.0] (Act=13.2)
+Aligning File: mfcc/output455.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end mujhei lagataa hai ki isakaa naama badalakara bhaaratiiya vidvaana kara deinaa chaahiei sent-end  ==  [658 frames] -59.3552 [Ac=-39055.7 LM=0.0] (Act=10.4)
+Aligning File: mfcc/output456.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end kaala karma guna dooshha subhaauu sent-end  ==  [461 frames] -56.5163 [Ac=-26054.0 LM=0.0] (Act=8.9)
+Aligning File: mfcc/output457.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+sent-end yei raajaniiti mein: sakriya hain: aura biikaaneira sei bhaaratiiya janataa paart:ii kei lookasabhaa saan:sada hain: sent-end  ==  [756 frames] -59.9892 [Ac=-45351.8 LM=0.0] (Act=9.0)
+Aligning File: mfcc/output458.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end inhoon:nei aneika vijnj~aana san:ban:dhii pustakein: bhii likhii hain: sent-end  ==  [500 frames] -59.2160 [Ac=-29608.0 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output459.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end yaha eika aitihaasika nagara hai sent-end  ==  [323 frames] -57.5325 [Ac=-18583.0 LM=0.0] (Act=11.2)
+Aligning File: mfcc/output460.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end yei san:skrxta mein: likhei gayei hain: sent-end  ==  [303 frames] -58.5907 [Ac=-17753.0 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output461.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end doonoon: mein: bad:aa an:tara thaa sent-end  ==  [244 frames] -58.5314 [Ac=-14281.7 LM=0.0] (Act=9.7)
+Aligning File: mfcc/output462.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end raama tumhahi priya tumha priya raamahi sent-end  ==  [441 frames] -58.2453 [Ac=-25686.2 LM=0.0] (Act=9.8)
+Aligning File: mfcc/output463.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+sent-end uupara diyei lin:ka mein: aapa deikha sakatei hain: ki kyaa haala hai hindii viki kaa sent-end  ==  [619 frames] -60.3045 [Ac=-37328.5 LM=0.0] (Act=10.7)
+Aligning File: mfcc/output464.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+sent-end main: paryat:ana bhuugoola koo eika baara vartanii aura vyaakarand~a kii drxshht:i sei deikha leitii huuna sent-end  ==  [678 frames] -59.5900 [Ac=-40402.0 LM=0.0] (Act=9.3)
+Aligning File: mfcc/output465.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end alan:kaara praayah: sabhii alan:kaara hain: sent-end  ==  [353 frames] -56.7187 [Ac=-20021.7 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output466.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end raajya joo mahaadviipa kei apanei bhaaga mein: shaktishaalii hoo sent-end  ==  [481 frames] -58.8535 [Ac=-28308.5 LM=0.0] (Act=7.9)
+Aligning File: mfcc/output467.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end prakaasha hindii vikipiid:iyaa mei sahayooga kei liei aabhaara sent-end  ==  [402 frames] -59.9477 [Ac=-24099.0 LM=0.0] (Act=9.4)
+Aligning File: mfcc/output468.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end jaanakaarii mein: vrxddhi kei liyei dhanyavaada sent-end  ==  [382 frames] -56.5404 [Ac=-21598.4 LM=0.0] (Act=9.2)
+Aligning File: mfcc/output469.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end aapakei prashan:saa kei sun:dara shabdoon: kei liei dhanyavaada mitula sent-end  ==  [510 frames] -58.4845 [Ac=-29827.1 LM=0.0] (Act=8.7)
+Aligning File: mfcc/output470.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+No tokens survived to final node of network at beam 250.0
+sent-end jaba saatha aaei doo pradhaanaman:trii eichat:iieima sent-end  ==  [313 frames] -59.7085 [Ac=-18688.8 LM=0.0] (Act=13.9)
+Aligning File: mfcc/output471.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end mana krama bachana raama pada seivaka sent-end  ==  [412 frames] -58.6170 [Ac=-24150.2 LM=0.0] (Act=10.5)
+Aligning File: mfcc/output472.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end isa leikha mein: heirii po~t:ara paatra vyakti kaa varnd~ana hai sent-end  ==  [431 frames] -59.4927 [Ac=-25641.3 LM=0.0] (Act=9.7)
+Aligning File: mfcc/output473.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end sunu khageisa nahin: kachhu rishhi duushhana sent-end  ==  [362 frames] -59.7441 [Ac=-21627.4 LM=0.0] (Act=7.3)
+Aligning File: mfcc/output474.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end naari bibasa nara sakala goosaaii sent-end  ==  [343 frames] -57.3504 [Ac=-19671.2 LM=0.0] (Act=7.7)
+Aligning File: mfcc/output475.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end praanta mein: boolii jaanei vaalii bhaashhaa hai sent-end  ==  [333 frames] -57.3712 [Ac=-19104.6 LM=0.0] (Act=6.7)
+Aligning File: mfcc/output476.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end aapanei bachchoon: kei leikhaka para dhyaana deikara achchhaa kaama kiyaa hai sent-end  ==  [530 frames] -59.6226 [Ac=-31600.0 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output477.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+sent-end vasanta rxtu varshha kii eika rxtu hai jisamein: vaataavarand~a kaa taapamaana praayah: sukhada rahataa hai sent-end  ==  [776 frames] -59.1305 [Ac=-45885.3 LM=0.0] (Act=9.9)
+Aligning File: mfcc/output478.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end yei chaara mahiinei mausama kii drxshht:i sei sarvashreishht:ha hootei hain: sent-end  ==  [451 frames] -60.2736 [Ac=-27183.4 LM=0.0] (Act=7.7)
+Aligning File: mfcc/output479.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end vikipiid:iyaa sadasya krxshhnd~a yukeisha aura aravindan kei kaarya kei anusaara sent-end  ==  [668 frames] -59.0660 [Ac=-39456.1 LM=0.0] (Act=7.9)
+Aligning File: mfcc/output480.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end lakhanuu bhaaratiiya raajya uttara pradeisha kii raajadhaanii hai sent-end  ==  [471 frames] -59.5458 [Ac=-28046.1 LM=0.0] (Act=8.5)
+Aligning File: mfcc/output481.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end bhaaratiiya raajya chhattiisagad:h kaa eika jilaa hai sent-end  ==  [431 frames] -58.9275 [Ac=-25397.8 LM=0.0] (Act=8.0)
+Aligning File: mfcc/output482.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end inakaa artha isa prakaara hai sent-end  ==  [254 frames] -58.0856 [Ac=-14753.7 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output483.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end sanaatana dharma athavaa hinduu dharma kaa duusaraa naama sent-end  ==  [412 frames] -60.2589 [Ac=-24826.7 LM=0.0] (Act=10.3)
+Aligning File: mfcc/output484.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end kuchha hii sadiyoon: mein: kashmiira ghaat:ii mein: muslima bahumata hoo gayaa sent-end  ==  [500 frames] -60.2615 [Ac=-30130.7 LM=0.0] (Act=8.7)
+Aligning File: mfcc/output485.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end man:dira maajha bhii nabha baanii sent-end  ==  [382 frames] -56.7387 [Ac=-21674.2 LM=0.0] (Act=8.7)
+Aligning File: mfcc/output486.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end maayaa tein: asi rachi nahin: jaaii sent-end  ==  [343 frames] -58.9539 [Ac=-20221.2 LM=0.0] (Act=7.7)
+Aligning File: mfcc/output487.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end ban:duna avadha purii ati paavani sent-end  ==  [343 frames] -58.6482 [Ac=-20116.3 LM=0.0] (Act=9.7)
+Aligning File: mfcc/output488.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end kampyuut:ara vijnj~aana kei liei khoojein: sent-end  ==  [294 frames] -58.8612 [Ac=-17305.2 LM=0.0] (Act=7.2)
+Aligning File: mfcc/output489.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end yaha jilei kaa eika praachiina eivan: aitihaasika sthala hai sent-end  ==  [461 frames] -59.7203 [Ac=-27531.0 LM=0.0] (Act=10.3)
+Aligning File: mfcc/output490.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end chhaayaavaada kaa praarambha jharanaa kei prakaashana sei hii maanaa jaataa hai sent-end  ==  [491 frames] -60.1577 [Ac=-29537.4 LM=0.0] (Act=9.3)
+Aligning File: mfcc/output491.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end phaarasii saahityakaara kei liei khoojein: sent-end  ==  [303 frames] -58.4251 [Ac=-17702.8 LM=0.0] (Act=7.1)
+Aligning File: mfcc/output492.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end an:greijii tathaa anya pashchimii bhaashhaaoon: mein: inhein: griika kahaa jaataa hai sent-end  ==  [530 frames] -61.1007 [Ac=-32383.4 LM=0.0] (Act=9.5)
+Aligning File: mfcc/output493.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end unakaa naamakarand~a bhii isii san:sthaa mein: huaa sent-end  ==  [353 frames] -58.5121 [Ac=-20654.8 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output494.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end maayaa bhagati sunahu tumha doouu sent-end  ==  [392 frames] -57.2247 [Ac=-22432.1 LM=0.0] (Act=7.8)
+Aligning File: mfcc/output495.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end abhii main: dillii bhaarata kii raajadhaanii kei aashrama kshheitra mein: raha rahaa huuna sent-end  ==  [540 frames] -59.8280 [Ac=-32307.1 LM=0.0] (Act=9.3)
+Aligning File: mfcc/output496.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end jaruurii nahii ki jaanakaarii roochaka hoo sent-end  ==  [303 frames] -59.2380 [Ac=-17949.1 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output497.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end aapa kei sujhaavoon: kei liyei dhanyavaada sent-end  ==  [294 frames] -58.7965 [Ac=-17286.2 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output498.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end ghana kaa artha hootaa hai baadala sent-end  ==  [264 frames] -59.4629 [Ac=-15698.2 LM=0.0] (Act=10.1)
+Aligning File: mfcc/output499.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end aisei jaisaa aapa saba kii raaya hoo usii kei anusaara kaarya kiyaa jaaya sent-end  ==  [589 frames] -59.8605 [Ac=-35257.9 LM=0.0] (Act=10.5)
+Aligning File: mfcc/output500.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end puni siru naai bait:ha nija aasana sent-end  ==  [343 frames] -58.3393 [Ac=-20010.4 LM=0.0] (Act=7.9)
+Aligning File: mfcc/output501.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end isa kaala kii pahalii mukhya philma thii naayaka sent-end  ==  [382 frames] -57.5942 [Ac=-22001.0 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output502.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end heirii po~t:ara kii saarii kahaaniyaana kaalpanika hain: sent-end  ==  [372 frames] -59.2425 [Ac=-22038.2 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output503.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end vasudeiva usa baalaka koo vaapasa apanei ghara lei aayei sent-end  ==  [402 frames] -61.1605 [Ac=-24586.5 LM=0.0] (Act=9.3)
+Aligning File: mfcc/output504.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end gaan:va kei loogoo nei aaga deikhii too kariiba aaei sent-end  ==  [353 frames] -62.1122 [Ac=-21925.6 LM=0.0] (Act=9.0)
+Aligning File: mfcc/output505.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end yaha yahaana kei raajya sarakaara kii raajabhaashhaa bhii hai sent-end  ==  [412 frames] -59.1747 [Ac=-24380.0 LM=0.0] (Act=10.1)
+Aligning File: mfcc/output506.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end isa pradeisha kii nadiyaana bhaaratiiya san:skrxti mein: sarvaadhika sthaana rakhatii hain: sent-end  ==  [609 frames] -58.8609 [Ac=-35846.3 LM=0.0] (Act=8.9)
+Aligning File: mfcc/output507.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end ina chaara sthaanoon: mein: nivaasa karanei kii main: tujhei chhuut:a deitaa huuna sent-end  ==  [461 frames] -59.5628 [Ac=-27458.5 LM=0.0] (Act=8.2)
+Aligning File: mfcc/output508.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end san:kshheipa mein: keishava kii shailii praud:h aura gan:bhiira hai sent-end  ==  [451 frames] -59.5470 [Ac=-26855.7 LM=0.0] (Act=8.3)
+Aligning File: mfcc/output509.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end bhaarata kaa sabasei bad:aa janasan:khyaa kei aadhaara para raajya hai sent-end  ==  [471 frames] -59.1452 [Ac=-27857.4 LM=0.0] (Act=11.0)
+Aligning File: mfcc/output510.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end brahmaa jii nei unhein: prajaa mein: vrxddhi karanei kii aajnj~aa dii sent-end  ==  [431 frames] -59.7927 [Ac=-25770.7 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output511.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end vikipiid:iyaa kaa phaarasii avatarand~a hai sent-end  ==  [333 frames] -57.8527 [Ac=-19265.0 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output512.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end kahi soo pragat:a hooti kina bhaaii sent-end  ==  [392 frames] -55.7219 [Ac=-21843.0 LM=0.0] (Act=7.6)
+Aligning File: mfcc/output513.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end vei apanii prajaa koo putra samajhatei thei sent-end  ==  [343 frames] -60.2397 [Ac=-20662.2 LM=0.0] (Act=8.3)
+Aligning File: mfcc/output514.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end jilei kaa mukhyaalaya lakhanuu hai joo raajya kii raajadhaanii bhii hai sent-end  ==  [619 frames] -58.3199 [Ac=-36100.0 LM=0.0] (Act=8.7)
+Aligning File: mfcc/output515.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+sent-end bhuutapuurva sooviyata san:gha kii too lagabhaga hara bhaashhaa mein: isa kitaaba kaa anuvaada huaa hai sent-end  ==  [697 frames] -60.3415 [Ac=-42058.0 LM=0.0] (Act=10.6)
+Aligning File: mfcc/output516.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end niraalaa jii para aapakaa visheishha kaarya hai sent-end  ==  [353 frames] -58.1407 [Ac=-20523.7 LM=0.0] (Act=8.1)
+Aligning File: mfcc/output517.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end jaba ki kuraana mein: aisaa kuchha nahiin: hain: sent-end  ==  [362 frames] -58.5059 [Ac=-21179.1 LM=0.0] (Act=8.2)
+Aligning File: mfcc/output518.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end bhaashhaaparivaara aapasa mein: sambandhita bhaashhaaoon: kaa parivaara hootaa hai sent-end  ==  [579 frames] -58.2851 [Ac=-33747.1 LM=0.0] (Act=7.9)
+Aligning File: mfcc/output519.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end inakei biicha kaa aapasii samban:dha inakei vyaktigata prxshht:hoon: para deikhaa jaa sakataa hai sent-end  ==  [638 frames] -60.1931 [Ac=-38403.2 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output520.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end yaha eika atyanta praachiina shahara hai sent-end  ==  [343 frames] -57.8154 [Ac=-19830.7 LM=0.0] (Act=9.6)
+Aligning File: mfcc/output521.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end nadii puniita amita mahimaa ati sent-end  ==  [343 frames] -57.3458 [Ac=-19669.6 LM=0.0] (Act=7.9)
+Aligning File: mfcc/output522.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end baali aura sugriiva mein: bhayaanaka yuddha huaa sent-end  ==  [343 frames] -60.0221 [Ac=-20587.6 LM=0.0] (Act=10.4)
+Aligning File: mfcc/output523.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end jiivana janma suphala mama bhayuu sent-end  ==  [382 frames] -58.2070 [Ac=-22235.1 LM=0.0] (Act=9.4)
+Aligning File: mfcc/output524.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end yaha deisha mukhyatah: pahaad:ii hai keivala dakshhind~ii bhaaga mein: thood:ii sii samatala bhuumi hai sent-end  ==  [628 frames] -59.0486 [Ac=-37082.5 LM=0.0] (Act=9.2)
+Aligning File: mfcc/output525.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end kyaa aapa jaanatei hai bhaaga mei diyaa gayaa tathya leikha para bhii hoo sent-end  ==  [540 frames] -58.1025 [Ac=-31375.4 LM=0.0] (Act=9.2)
+Aligning File: mfcc/output526.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end malina magara isakei aagei hain: saarei raajakumaara sent-end  ==  [441 frames] -58.4331 [Ac=-25769.0 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output527.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end isei nirvaachita karanei kei liyei dhanyavaada sent-end  ==  [343 frames] -56.7424 [Ac=-19462.7 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output528.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end veiga kaa saamaanya artha hootaa hai gati chaala sent-end  ==  [412 frames] -57.5713 [Ac=-23719.4 LM=0.0] (Act=8.2)
+Aligning File: mfcc/output529.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end bhaarata kaa eika mukhya tyoohaara hai hoolii joo vasanta rxtu mei manaayaa jaataa hai sent-end  ==  [619 frames] -60.5496 [Ac=-37480.2 LM=0.0] (Act=10.4)
+Aligning File: mfcc/output530.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end san:ta kahahin: asi niiti dasaanana sent-end  ==  [362 frames] -57.9023 [Ac=-20960.6 LM=0.0] (Act=10.2)
+Aligning File: mfcc/output531.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end umaa jooga japa daana tapa naanaa makha brata neima sent-end  ==  [540 frames] -57.3149 [Ac=-30950.1 LM=0.0] (Act=9.6)
+Aligning File: mfcc/output532.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end magara heirii voold:eimo~rt:a kii pakad: sei isa baara bhii bhaaga nikalataa hai sent-end  ==  [530 frames] -59.9395 [Ac=-31767.9 LM=0.0] (Act=9.4)
+Aligning File: mfcc/output533.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end shaiva darshana kei aadhunika ameirikana aachaarya sent-end  ==  [422 frames] -59.1288 [Ac=-24952.4 LM=0.0] (Act=8.0)
+Aligning File: mfcc/output534.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end isakaa kuchha kaarand~a shikshhaa kaa stara rahaa hai too kuchha raajanaitika sent-end  ==  [471 frames] -59.7484 [Ac=-28141.5 LM=0.0] (Act=9.4)
+Aligning File: mfcc/output535.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end shivaajii kii seinaa kaa rand~a kei liei prasthaana karatei samaya kaa eika chitra deikhiei sent-end  ==  [579 frames] -60.1265 [Ac=-34813.3 LM=0.0] (Act=9.3)
+Aligning File: mfcc/output536.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end isa taraha kei anya leikhakoon: kei baarei mein: bhii jaanakaarii dein: too achchhaa hoogaa sent-end  ==  [550 frames] -58.8451 [Ac=-32364.8 LM=0.0] (Act=9.6)
+Aligning File: mfcc/output537.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end deisha naama deisha naama hai sent-end  ==  [254 frames] -56.8791 [Ac=-14447.3 LM=0.0] (Act=7.6)
+Aligning File: mfcc/output538.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end isei kaalidaasa kii nagarii kei naama sei bhii jaanaa jaataa hai sent-end  ==  [422 frames] -58.5312 [Ac=-24700.2 LM=0.0] (Act=8.2)
+Aligning File: mfcc/output539.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end isa pustaka mein: ina loogoon: kei saatha jud:ii ghat:anaaoon: kaa varnd~ana hai sent-end  ==  [441 frames] -60.0765 [Ac=-26493.7 LM=0.0] (Act=10.5)
+Aligning File: mfcc/output540.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end ujjaina bhaaratiiya raajya madhya pradeisha kaa eika jilaa hai sent-end  ==  [461 frames] -58.6410 [Ac=-27033.5 LM=0.0] (Act=8.3)
+Aligning File: mfcc/output541.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end jadyapi akhila looka kara raauu sent-end  ==  [343 frames] -57.2292 [Ac=-19629.6 LM=0.0] (Act=9.5)
+Aligning File: mfcc/output542.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end chhattiisagad:ha praanta kei bastara jilaa mein: sthita hai sent-end  ==  [422 frames] -58.7255 [Ac=-24782.1 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output543.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end unhoon:nei kavitaa upanyaasa aura naat:aka likhei sent-end  ==  [431 frames] -56.8439 [Ac=-24499.7 LM=0.0] (Act=8.2)
+Aligning File: mfcc/output544.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end srxshht:i biija jaga janani bhavaanii sent-end  ==  [362 frames] -58.0296 [Ac=-21006.7 LM=0.0] (Act=8.9)
+Aligning File: mfcc/output545.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+sent-end hindii vikipiid:iyaa para kisii prakaara kii madada kei liei aapa mujhasei san:parka kara sakatei hai sent-end  ==  [648 frames] -60.2329 [Ac=-39030.9 LM=0.0] (Act=10.0)
+Aligning File: mfcc/output546.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end bipra ruupa dhari kapi tahana gayuu sent-end  ==  [362 frames] -58.3317 [Ac=-21116.1 LM=0.0] (Act=9.7)
+Aligning File: mfcc/output547.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end phaarasii kalaa kei liei khoojein: sent-end  ==  [274 frames] -57.5156 [Ac=-15759.3 LM=0.0] (Act=7.3)
+Aligning File: mfcc/output548.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end aisaa paan:cha varshha taka chalataa rahaa sent-end  ==  [294 frames] -60.2169 [Ac=-17703.8 LM=0.0] (Act=12.0)
+Aligning File: mfcc/output549.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end jilei kaa mukhyaalaya gautama buddha nagara hai sent-end  ==  [382 frames] -57.5789 [Ac=-21995.1 LM=0.0] (Act=9.2)
+Aligning File: mfcc/output550.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end haala hii mein: unhoon:nei antarraashht:riiya vijnj~aana san:skrxti aura cheitanaa kein:dra kii sthaapanaa kii hai sent-end  ==  [688 frames] -59.9729 [Ac=-41261.4 LM=0.0] (Act=8.5)
+Aligning File: mfcc/output551.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end inamein: sei rxgveida kii rachanaa sabasei pahalei huii thii sent-end  ==  [422 frames] -59.3714 [Ac=-25054.7 LM=0.0] (Act=10.1)
+Aligning File: mfcc/output552.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end inakaa samaya shukla yuga kei antargata aataa hai sent-end  ==  [392 frames] -58.0228 [Ac=-22744.9 LM=0.0] (Act=9.0)
+Aligning File: mfcc/output553.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end yaha prxshht:ha guru shabda kei baarei mein: hai sent-end  ==  [323 frames] -59.0853 [Ac=-19084.6 LM=0.0] (Act=9.4)
+Aligning File: mfcc/output554.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end uttaraan:chala aneika nadiyoon: kaa udgama sthala hai sent-end  ==  [481 frames] -57.7949 [Ac=-27799.4 LM=0.0] (Act=22.0)
+Aligning File: mfcc/output555.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end chhana sukha laagi janama sata koot:i sent-end  ==  [343 frames] -57.9609 [Ac=-19880.6 LM=0.0] (Act=8.0)
+Aligning File: mfcc/output556.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end rakshhaaban:dhana nirvaachita leikha ghooshhita huaa sent-end  ==  [362 frames] -59.1714 [Ac=-21420.0 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output557.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end atah: yaha t:iikaa muslima aakramand~a kei baada kii hoo sakatii hai sent-end  ==  [481 frames] -59.7528 [Ac=-28741.1 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output558.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end phira vei vasudeiva sei boolei hei taata main: aba baalaka ruupa hoo jaataa huuna sent-end  ==  [599 frames] -59.3385 [Ac=-35543.8 LM=0.0] (Act=10.8)
+Aligning File: mfcc/output559.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end shikshhaa mein: dhaarmika shikshhaa kaa samaaveisha hoo sent-end  ==  [362 frames] -59.3282 [Ac=-21476.8 LM=0.0] (Act=7.4)
+Aligning File: mfcc/output560.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end too meirii yaha khulii ghooshhand~aa sunei sakala san:saara sent-end  ==  [422 frames] -59.3834 [Ac=-25059.8 LM=0.0] (Act=7.9)
+Aligning File: mfcc/output561.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end aapa sabhii kei sahayooga kei liyei bahuta dhanyavaada sent-end  ==  [392 frames] -57.7518 [Ac=-22638.7 LM=0.0] (Act=10.2)
+Aligning File: mfcc/output562.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end amariikii phut:abo~la pada kei liei khoojein: sent-end  ==  [323 frames] -59.2406 [Ac=-19134.7 LM=0.0] (Act=8.0)
+Aligning File: mfcc/output563.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end vaidika yuga arthaata veida kaala sent-end  ==  [294 frames] -57.7439 [Ac=-16976.7 LM=0.0] (Act=9.6)
+Aligning File: mfcc/output564.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end bait:ha jaai teihii man:dira raavana sent-end  ==  [402 frames] -57.4312 [Ac=-23087.4 LM=0.0] (Act=10.1)
+Aligning File: mfcc/output565.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end deikhi parama paavana tava aashrama sent-end  ==  [343 frames] -57.4607 [Ac=-19709.0 LM=0.0] (Act=8.3)
+Aligning File: mfcc/output566.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end san:gama saahitya iisaa kei aasapaasa kaa tamila saahitya sent-end  ==  [550 frames] -59.5868 [Ac=-32772.8 LM=0.0] (Act=10.5)
+Aligning File: mfcc/output567.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end hindii kei eika pramukha leikhaka sent-end  ==  [284 frames] -57.8591 [Ac=-16432.0 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output568.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end rahiima bhii isii samaya huei sent-end  ==  [284 frames] -57.7558 [Ac=-16402.7 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output569.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end ina nadiyoon: kei kinaarei aneika dhaarmika va saan:skrxtika keindra sthaapita hain: sent-end  ==  [579 frames] -58.7576 [Ac=-34020.6 LM=0.0] (Act=9.2)
+Aligning File: mfcc/output570.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end vichitra baata yaha hai ki unakii skuula kii pad:haaii kuchha paanacha saala hii rahii sent-end  ==  [589 frames] -60.6516 [Ac=-35723.8 LM=0.0] (Act=11.1)
+Aligning File: mfcc/output571.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end jilei kaa mukhyaalaya ujjaina hai sent-end  ==  [353 frames] -55.5930 [Ac=-19624.3 LM=0.0] (Act=8.3)
+Aligning File: mfcc/output572.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end aapakoo hin:dii vikipiid:iyaa para yoogadaana karatei paa kara mujhei khushii huii sent-end  ==  [569 frames] -59.0209 [Ac=-33582.9 LM=0.0] (Act=8.9)
+Aligning File: mfcc/output573.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end ata vartamaana mei yahii bhaashhaaein: prayooga kii jaatii hai sent-end  ==  [481 frames] -58.0875 [Ac=-27940.1 LM=0.0] (Act=9.0)
+Aligning File: mfcc/output574.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end mumbii mei beihatara jiivana kei liyei unhoonei kaaphii san:gharshha kiyaa sent-end  ==  [491 frames] -58.6321 [Ac=-28788.4 LM=0.0] (Act=8.9)
+Aligning File: mfcc/output575.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end taba prabhu bharadvaaja pahin: gayuu sent-end  ==  [353 frames] -57.4820 [Ac=-20291.1 LM=0.0] (Act=11.0)
+Aligning File: mfcc/output576.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end yaha sama hindu pauraand~ika charitra hii hootei hain: sent-end  ==  [422 frames] -58.0580 [Ac=-24500.5 LM=0.0] (Act=9.5)
+Aligning File: mfcc/output577.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end kan:pyuut:ara vijnj~aana kei liei khoojein: sent-end  ==  [323 frames] -56.5510 [Ac=-18266.0 LM=0.0] (Act=7.7)
+Aligning File: mfcc/output578.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end baan:glaa aura maraat:hii saahitya naat:aka kei kshheitra mein: bahuta samrxddha hai sent-end  ==  [589 frames] -58.6346 [Ac=-34535.8 LM=0.0] (Act=9.5)
+Aligning File: mfcc/output579.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end bahuta sei looga aisaa kara rahei hain: sent-end  ==  [294 frames] -57.7233 [Ac=-16970.7 LM=0.0] (Act=10.5)
+Aligning File: mfcc/output580.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end hindii kii eika boolii thii joo vartamaana samaya mein: eika bhaashhaa hai sent-end  ==  [461 frames] -60.1056 [Ac=-27708.7 LM=0.0] (Act=9.3)
+Aligning File: mfcc/output581.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end proograamin:ga bhaashhaaoon: mein: bhii mukta sroota kei darshana koo bad:haavaa mila rahaa hai sent-end  ==  [559 frames] -60.0073 [Ac=-33544.1 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output582.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end rishhi nikaaya munibara gati deikhi sent-end  ==  [353 frames] -57.3417 [Ac=-20241.6 LM=0.0] (Act=8.0)
+Aligning File: mfcc/output583.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end yahiin: para unakaa naama aajaada prasiddha huaa sent-end  ==  [343 frames] -59.1931 [Ac=-20303.2 LM=0.0] (Act=10.4)
+Aligning File: mfcc/output584.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end barani raama guna siilu subhaauu sent-end  ==  [372 frames] -56.5308 [Ac=-21029.5 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output585.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end vaha leikha mukhyatah: an:greijii mei hai usakaa sudhaara karanaa hai sent-end  ==  [540 frames] -56.5978 [Ac=-30562.8 LM=0.0] (Act=9.8)
+Aligning File: mfcc/output586.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end tuma looga vahaana jaa kara usei praapta karoo sent-end  ==  [303 frames] -58.8935 [Ac=-17844.7 LM=0.0] (Act=10.5)
+Aligning File: mfcc/output587.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end maniishha mai hindii vikipiid:iyaa kaa eika praban:dhaka huuna sent-end  ==  [412 frames] -59.0949 [Ac=-24347.1 LM=0.0] (Act=10.7)
+Aligning File: mfcc/output588.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end saba hain: meirei mukha kei andara sent-end  ==  [284 frames] -57.0320 [Ac=-16197.1 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output589.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end amariikii phut:abo~la kaa saamaana kei liei khoojein: sent-end  ==  [392 frames] -56.9879 [Ac=-22339.2 LM=0.0] (Act=8.3)
+Aligning File: mfcc/output590.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end vana kaa artha hootaa hai jan:gala sent-end  ==  [284 frames] -57.7289 [Ac=-16395.0 LM=0.0] (Act=9.5)
+Aligning File: mfcc/output591.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end chhanda kii sabasei pahalei charchaa rxgveida mein: huii hai sent-end  ==  [451 frames] -57.6165 [Ac=-25985.0 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output592.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end boolaa bachana niiti ati paavana sent-end  ==  [333 frames] -57.5274 [Ac=-19156.6 LM=0.0] (Act=7.5)
+Aligning File: mfcc/output593.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end yaha hai raadhaa kaa krxshhnd~a preima sent-end  ==  [294 frames] -58.5316 [Ac=-17208.3 LM=0.0] (Act=9.7)
+Aligning File: mfcc/output594.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end usakei baada san:paadana svatan:tra leikhana aura anuvaada kaarya sent-end  ==  [471 frames] -59.5224 [Ac=-28035.0 LM=0.0] (Act=9.2)
+Aligning File: mfcc/output595.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end sad:ka dvaaraa pat:anaa gayaa dillii eivan: koolakaataa sei siidhaa san:parka sent-end  ==  [589 frames] -59.5108 [Ac=-35051.8 LM=0.0] (Act=10.5)
+Aligning File: mfcc/output596.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end kaan: jei yoogya hoouuni kiijei sent-end  ==  [412 frames] -57.1357 [Ac=-23539.9 LM=0.0] (Act=7.4)
+Aligning File: mfcc/output597.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end an:greijii eivan: baan:glaa bhaashhaa mein: aneika rachanaaoon: kaa anuvaada sent-end  ==  [491 frames] -59.8932 [Ac=-29407.6 LM=0.0] (Act=9.0)
+Aligning File: mfcc/output598.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end isakei liei unhoon:nei apanei naama taka badala liei sent-end  ==  [402 frames] -58.0119 [Ac=-23320.8 LM=0.0] (Act=10.2)
+Aligning File: mfcc/output599.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end bhaarata mein: sabasei jyaadaa janasan:khyaa vaalaa pradeisha uttara pradeisha hai sent-end  ==  [510 frames] -59.4089 [Ac=-30298.5 LM=0.0] (Act=8.9)
+Aligning File: mfcc/output600.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end uttara sikkima bhaaratiiya raajya sikkima kaa eika jilaa hai sent-end  ==  [491 frames] -57.2882 [Ac=-28128.5 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output601.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end unhoon:nei kii samasyaaoon: kii sthaapanaa mein: apanaa yooga diyaa sent-end  ==  [451 frames] -61.4875 [Ac=-27730.9 LM=0.0] (Act=8.2)
+Aligning File: mfcc/output602.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+sent-end yaha pahalii philma thii jisamein: prasiddha paarshva gaayaka moohammada raphii koo gaanei kaa maukaa milaa sent-end  ==  [648 frames] -60.2447 [Ac=-39038.5 LM=0.0] (Act=9.9)
+Aligning File: mfcc/output603.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end isakii mukhya aura raaja bhaashhaa jarmana bhaashhaa hai sent-end  ==  [441 frames] -58.2638 [Ac=-25694.3 LM=0.0] (Act=8.9)
+Aligning File: mfcc/output604.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end bharatahi moohi kachhu an:tara kaauu sent-end  ==  [353 frames] -57.2378 [Ac=-20205.0 LM=0.0] (Act=8.0)
+Aligning File: mfcc/output605.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end aura deisha kii aanei vaalii piid:hii koo san:deisha deitei hai sent-end  ==  [431 frames] -58.8886 [Ac=-25381.0 LM=0.0] (Act=8.5)
+Aligning File: mfcc/output606.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end isei jhaarakhan:d:a kaa praveishadvaara kei naama sei bhii jaanaa jaataa hai sent-end  ==  [510 frames] -58.3815 [Ac=-29774.6 LM=0.0] (Act=8.2)
+Aligning File: mfcc/output607.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end dhaara jilaa bhaarata kei saan:skrxtika maanachitra mein: praaran:bha sei hii rahaa hai sent-end  ==  [589 frames] -58.9880 [Ac=-34743.9 LM=0.0] (Act=8.5)
+Aligning File: mfcc/output608.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end uttara pradeisha mein: paryat:ana kei liei khoojein: sent-end  ==  [353 frames] -58.1157 [Ac=-20514.8 LM=0.0] (Act=8.5)
+Aligning File: mfcc/output609.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end sachchei dharma kaa jnj~aana aadhyaatmika cheitanaa dvaaraa hii milataa hai sent-end  ==  [500 frames] -59.6485 [Ac=-29824.2 LM=0.0] (Act=9.2)
+Aligning File: mfcc/output610.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end isa prxshht:ha para bhaaratiiya seinaa sei san:ban:dhita leikhoon: kii suuchii hai sent-end  ==  [520 frames] -59.4797 [Ac=-30929.4 LM=0.0] (Act=8.7)
+Aligning File: mfcc/output611.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end ilaahaabaada mein: yaha parva maagha meilei kei naama sei jaanaa jaataa hai sent-end  ==  [500 frames] -60.6721 [Ac=-30336.0 LM=0.0] (Act=10.1)
+Aligning File: mfcc/output612.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end uurjaa kaa paryaavarand~a sei siidhaa sambandha hai sent-end  ==  [362 frames] -59.5452 [Ac=-21555.4 LM=0.0] (Act=8.7)
+Aligning File: mfcc/output613.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end dakshhind~a mei yaha arabii samudra sei jaakara milatii hai sent-end  ==  [392 frames] -60.2946 [Ac=-23635.5 LM=0.0] (Act=9.2)
+Aligning File: mfcc/output614.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end haidaraabaada bhaarata mein: sthita eika masjida aura aitihaasika imaarata hai sent-end  ==  [619 frames] -59.9355 [Ac=-37100.1 LM=0.0] (Act=11.7)
+Aligning File: mfcc/output615.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end loobha kein: ichchhaa dan:bha bala kaama kein: keivala naari sent-end  ==  [550 frames] -58.3080 [Ac=-32069.4 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output616.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end hindii saahitya inakaa saahitya jiivana eika patrakaara kei ruupa mein: huaa sent-end  ==  [589 frames] -60.2863 [Ac=-35508.6 LM=0.0] (Act=10.8)
+Aligning File: mfcc/output617.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end satya kahahin: kabi naari subhaauu sent-end  ==  [431 frames] -56.4640 [Ac=-24336.0 LM=0.0] (Act=8.2)
+Aligning File: mfcc/output618.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end mitra hoon: too pratishht:hita aura shuddha hradaya kei hoo sent-end  ==  [471 frames] -58.1705 [Ac=-27398.3 LM=0.0] (Act=9.4)
+Aligning File: mfcc/output619.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end namaskaara main: maniishha vashishht:ha hindii vikipiid:iyaa kaa eika varshha sei sadasya huuna sent-end  ==  [697 frames] -60.2715 [Ac=-42009.2 LM=0.0] (Act=10.4)
+Aligning File: mfcc/output620.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end vikipiid:iyaa sadasya atula kei kaarya kei anusaara sent-end  ==  [402 frames] -59.9067 [Ac=-24082.5 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output621.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end yukeisha jii svaagata kei liei dhanyavaada sent-end  ==  [303 frames] -58.7950 [Ac=-17814.9 LM=0.0] (Act=9.0)
+Aligning File: mfcc/output622.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end voo isa upanyaasa kei pramukha kiradaara hairii po~t:ara kaa jaanii dushmana hai sent-end  ==  [550 frames] -60.4416 [Ac=-33242.9 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output623.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end baabuu ayoodhyaa prasaada khatrii aura khad:ii boolii kaa aan:doolana sent-end  ==  [530 frames] -59.5208 [Ac=-31546.0 LM=0.0] (Act=8.0)
+Aligning File: mfcc/output624.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end ban:dhu bachana suni chalaa bibhiishhana sent-end  ==  [372 frames] -57.4554 [Ac=-21373.4 LM=0.0] (Act=7.2)
+Aligning File: mfcc/output625.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end darshana kei anusaara parabrahma kaa duusaraa naama sent-end  ==  [372 frames] -60.4927 [Ac=-22503.3 LM=0.0] (Act=10.1)
+Aligning File: mfcc/output626.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end atah: unakii kavitaa mein: vibhinna alan:kaaroon: kaa prayooga sarvatra dikhaaii deitaa hai sent-end  ==  [569 frames] -60.2867 [Ac=-34303.1 LM=0.0] (Act=10.0)
+Aligning File: mfcc/output627.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end kardama rxshhi eivan: deivahuuti kii trxtiiya kanyaa thii sent-end  ==  [461 frames] -58.9521 [Ac=-27176.9 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output628.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end isaliyei meiraa vichaara hai ki inhein: abhii yahaana rahanei diyaa jaaya sent-end  ==  [451 frames] -59.1983 [Ac=-26698.4 LM=0.0] (Act=12.5)
+Aligning File: mfcc/output629.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end yaha leikha bahuuta achchhaa hai sent-end  ==  [234 frames] -57.6377 [Ac=-13487.2 LM=0.0] (Act=11.8)
+Aligning File: mfcc/output630.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end shrrxn:gaara viira aura shaan:ta rasa mein: sei kisii eika kii pradhaanataa hoonii chaahiei sent-end  ==  [599 frames] -59.2702 [Ac=-35502.8 LM=0.0] (Act=8.5)
+Aligning File: mfcc/output631.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end dayaa karakei kooii aura bhii sthaana mujhei diijiyei sent-end  ==  [382 frames] -58.1440 [Ac=-22211.0 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output632.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end eihi bidhi sakala jiiva jaga roogii sent-end  ==  [382 frames] -57.4356 [Ac=-21940.4 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output633.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end uttara pradeisha kii nadiyaana kei liei khoojein: sent-end  ==  [343 frames] -58.0596 [Ac=-19914.4 LM=0.0] (Act=8.7)
+Aligning File: mfcc/output634.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end kavitaa kei san:skaara unhein: apanii maana sei hii milei sent-end  ==  [431 frames] -59.1154 [Ac=-25478.7 LM=0.0] (Act=8.3)
+Aligning File: mfcc/output635.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end uttara pradeisha kei mukhyaman:trii kei liei khoojein: sent-end  ==  [362 frames] -59.2509 [Ac=-21448.8 LM=0.0] (Act=8.7)
+Aligning File: mfcc/output636.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end abhii main: san:yukta raashht:ra ameirikaa kei in:d:iyaanaa pradeisha mein: raha rahaa huuna sent-end  ==  [589 frames] -59.8442 [Ac=-35248.2 LM=0.0] (Act=9.6)
+Aligning File: mfcc/output637.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end subhadraa kumaarii chauhaana bachapana vivaaha milaa teija sei teija sent-end  ==  [609 frames] -58.4489 [Ac=-35595.4 LM=0.0] (Act=8.7)
+Aligning File: mfcc/output638.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end aisaa videishii aakramand~a sei saamraajya kei patana koo rookanei kei liei aavashyaka thaa sent-end  ==  [707 frames] -59.4689 [Ac=-42044.5 LM=0.0] (Act=7.9)
+Aligning File: mfcc/output639.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end isa dina chhattiisagad:h kii sthaapanaa huii thii sent-end  ==  [323 frames] -60.9839 [Ac=-19697.8 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output640.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end vaha dharma aura vijnj~aana mein: kooii bheida nahiin: maanatii thiin: sent-end  ==  [372 frames] -60.4843 [Ac=-22500.2 LM=0.0] (Act=10.4)
+Aligning File: mfcc/output641.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end main:nei kuchha hissaa alaga prxshht:ha para bhii rakhaa hai sent-end  ==  [362 frames] -58.8631 [Ac=-21308.4 LM=0.0] (Act=9.3)
+Aligning File: mfcc/output642.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end tava prasaada saba san:saya gayuu sent-end  ==  [333 frames] -58.6843 [Ac=-19541.9 LM=0.0] (Act=10.7)
+Aligning File: mfcc/output643.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end meighaalaya bhaarata kei uttara puurva mein: eika raajya hai sent-end  ==  [412 frames] -59.3417 [Ac=-24448.8 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output644.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end aneika pustakoon: kaa aapanei anuvaada kiyaa hai sent-end  ==  [333 frames] -61.1304 [Ac=-20356.4 LM=0.0] (Act=9.4)
+Aligning File: mfcc/output645.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+sent-end saamaajika samasyaa pradhaana bhaaratein:du jii nei apanei kaavya mein: aneika saamaajika samasyaaoon: kaa chitrand~a kiyaa sent-end  ==  [756 frames] -60.8400 [Ac=-45995.0 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output646.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end philma puraskaara kei liei khoojein: sent-end  ==  [254 frames] -58.6717 [Ac=-14902.6 LM=0.0] (Act=8.1)
+Aligning File: mfcc/output647.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end joo samajha mein: nahiin: aaei vaha vidvaanoon: sei jaananaa sent-end  ==  [412 frames] -60.3668 [Ac=-24871.1 LM=0.0] (Act=9.8)
+Aligning File: mfcc/output648.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end main: tuu tuma aapa vaha vei aadi sent-end  ==  [520 frames] -56.2061 [Ac=-29227.2 LM=0.0] (Act=9.0)
+Aligning File: mfcc/output649.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end majjanu kiinha pan:tha shrama gayuu sent-end  ==  [362 frames] -58.1525 [Ac=-21051.2 LM=0.0] (Act=9.5)
+Aligning File: mfcc/output650.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end yaha giita prasaarita hoonei kei baada lakhanuu mein: bahuta lookapriya huaa sent-end  ==  [520 frames] -60.7756 [Ac=-31603.3 LM=0.0] (Act=10.2)
+Aligning File: mfcc/output651.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end yahaana mukhyatah: rakshhaa mantraalaya videisha mantraalaya eivan: pradhaana mantrii kaa kaaryaalaya sthita hai sent-end  ==  [707 frames] -60.6789 [Ac=-42900.0 LM=0.0] (Act=10.6)
+Aligning File: mfcc/output652.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end san:yukta parivaara kii taraha kaa hoo sent-end  ==  [303 frames] -57.2340 [Ac=-17341.9 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output653.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end yukeisha jii aapakaa bhii dhanyavaada sent-end  ==  [323 frames] -58.3142 [Ac=-18835.5 LM=0.0] (Act=7.7)
+Aligning File: mfcc/output654.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+sent-end blo~ga para vyaktigata vichaara hootei hain: unhein: siidhei vikipiid:iyaa para shaamila kara leinaa galata hoogaa sent-end  ==  [697 frames] -60.5772 [Ac=-42222.3 LM=0.0] (Act=10.4)
+Aligning File: mfcc/output655.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end khala mala dhaama kaama rata raavana sent-end  ==  [431 frames] -55.7045 [Ac=-24008.6 LM=0.0] (Act=9.8)
+Aligning File: mfcc/output656.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end abhineitaa amitaabha bachchana kii pahalii philma sent-end  ==  [422 frames] -55.9703 [Ac=-23619.5 LM=0.0] (Act=8.1)
+Aligning File: mfcc/output657.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end dinakara dina karanei vaalaa arthaat suurya sent-end  ==  [353 frames] -58.9918 [Ac=-20824.1 LM=0.0] (Act=9.2)
+Aligning File: mfcc/output658.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end raama naama an:kita ati sun:dara sent-end  ==  [333 frames] -58.0191 [Ac=-19320.3 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output659.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end atri hin:duoon: kei eika mahaana rxshhi hain: sent-end  ==  [362 frames] -57.5283 [Ac=-20825.2 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output660.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end samaya kei saatha hii nahiin: usasei aagei chalaa jaaei sent-end  ==  [461 frames] -59.0087 [Ac=-27203.0 LM=0.0] (Act=10.3)
+Aligning File: mfcc/output661.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end san:yukta raajashaahii kaa eika praanta hai sent-end  ==  [333 frames] -59.0943 [Ac=-19678.4 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output662.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end aapa hii deikhein: sun:dara akshharoon: mein: kyaa likhaa hai sent-end  ==  [353 frames] -59.5248 [Ac=-21012.3 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output663.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end sunu mrxdu guud:h ruchira bara rachanaa sent-end  ==  [372 frames] -59.1386 [Ac=-21999.5 LM=0.0] (Act=10.5)
+Aligning File: mfcc/output664.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+sent-end unakii dhaarand~aa thii ki pratyeika bhaaratiiya koo san:skrxta tathaa an:greijii doonoon: kaa jnj~aana hoonaa chaahiyei sent-end  ==  [697 frames] -60.1161 [Ac=-41900.9 LM=0.0] (Act=8.9)
+Aligning File: mfcc/output665.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end bhaaratiiya an:tarikshha anusan:dhaana san:gat:hana naamaka eika prxshht:ha pahalei sei hii hai sent-end  ==  [717 frames] -58.6861 [Ac=-42077.9 LM=0.0] (Act=11.0)
+Aligning File: mfcc/output666.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end isakoo vikipiid:iyaa kei stara taka laanei kei liei aapakei sahayooga kii aavashyakataa hai sent-end  ==  [648 frames] -58.9764 [Ac=-38216.7 LM=0.0] (Act=8.7)
+Aligning File: mfcc/output667.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end main: krikeit:a kheila koo kaaphii pasan:da karataa huuna sent-end  ==  [392 frames] -58.6235 [Ac=-22980.4 LM=0.0] (Act=10.1)
+Aligning File: mfcc/output668.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end preima magana saba san:saya gayuu sent-end  ==  [353 frames] -56.9562 [Ac=-20105.6 LM=0.0] (Act=9.7)
+Aligning File: mfcc/output669.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end mathuraa eika aitihaasika eivan: dhaarmika paryat:ana sthala kei ruupa mein: prasiddha hai sent-end  ==  [599 frames] -59.3886 [Ac=-35573.8 LM=0.0] (Act=9.8)
+Aligning File: mfcc/output670.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end meighaalaya kei shahara kei liei khoojein: sent-end  ==  [343 frames] -55.4919 [Ac=-19033.7 LM=0.0] (Act=7.2)
+Aligning File: mfcc/output671.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end bhaarata mein: isakaa itihaasa kariiba doo sau varshha puraanaa hai sent-end  ==  [500 frames] -59.5848 [Ac=-29792.4 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output672.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end bhaaratiiya prashaasanika seivaa akhila bhaaratiiya seivaaoon: mein: sei eika hai sent-end  ==  [550 frames] -59.6361 [Ac=-32799.9 LM=0.0] (Act=8.2)
+Aligning File: mfcc/output673.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end usakei shaasanakaala mein: kii dhaarmika thaa sainika vidrooha huei sent-end  ==  [530 frames] -58.1307 [Ac=-30809.3 LM=0.0] (Act=8.5)
+Aligning File: mfcc/output674.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end tibbata mein: sthita eika jhiila hai sent-end  ==  [294 frames] -58.4178 [Ac=-17174.8 LM=0.0] (Act=11.3)
+Aligning File: mfcc/output675.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end aura jaanakaarii kei liyei isa pannei kaa an:greijii avatarand~a deikhein: sent-end  ==  [510 frames] -58.1500 [Ac=-29656.5 LM=0.0] (Act=8.5)
+Aligning File: mfcc/output676.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end aapakei leikhoo kei vishhaya achchhei lagei sent-end  ==  [323 frames] -57.0602 [Ac=-18430.4 LM=0.0] (Act=7.1)
+Aligning File: mfcc/output677.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end jaisei ajaya baila jaataa hai aadi sent-end  ==  [313 frames] -58.7245 [Ac=-18380.8 LM=0.0] (Act=10.5)
+Aligning File: mfcc/output678.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end vistrxta kaa artha hai phailaa huaa sent-end  ==  [294 frames] -58.7519 [Ac=-17273.1 LM=0.0] (Act=10.8)
+Aligning File: mfcc/output679.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end ajahuna jaasu ura sapaneihuna kaauu sent-end  ==  [392 frames] -57.5425 [Ac=-22556.7 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output680.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end kshhamaa muulatah: san:skrxta shabda hai sent-end  ==  [343 frames] -59.0176 [Ac=-20243.0 LM=0.0] (Act=8.1)
+Aligning File: mfcc/output681.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end shaayada samajha aa gayaa hoo sent-end  ==  [244 frames] -57.5382 [Ac=-14039.3 LM=0.0] (Act=9.3)
+Aligning File: mfcc/output682.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end yuuroopiiya san:gha kaa nayaa san:sada sent-end  ==  [313 frames] -58.1567 [Ac=-18203.1 LM=0.0] (Act=9.6)
+Aligning File: mfcc/output683.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end bishhaya manooratha pun:ja kan:ja bana sent-end  ==  [372 frames] -56.4653 [Ac=-21005.1 LM=0.0] (Act=8.9)
+Aligning File: mfcc/output684.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end hairii po~t:ara aura usakei doosta yahiin: pad:htei hain: sent-end  ==  [382 frames] -58.6782 [Ac=-22415.1 LM=0.0] (Act=8.3)
+Aligning File: mfcc/output685.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end bhaarata kaa san:skrxta saahitya rxgveida sei aarambha hootaa hai sent-end  ==  [471 frames] -58.4002 [Ac=-27506.5 LM=0.0] (Act=9.5)
+Aligning File: mfcc/output686.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end sarvanaama shabda kaa artha hai saba kaa naama sent-end  ==  [323 frames] -60.4682 [Ac=-19531.2 LM=0.0] (Act=10.9)
+Aligning File: mfcc/output687.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end prayaaga vishvavidyaalaya prayaaga mein: vishvavidyaalaya sent-end  ==  [461 frames] -56.9735 [Ac=-26264.8 LM=0.0] (Act=9.6)
+Aligning File: mfcc/output688.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+sent-end vikipiid:iyaa sadasya puurnd~imaa varmana aura yukeisha aura vikipiid:iyaa kei anaama sadasya kei kaarya kei anusaara sent-end  ==  [855 frames] -59.5514 [Ac=-50916.4 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output689.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end samaya kaa artha hootaa hai kaala sent-end  ==  [284 frames] -57.3602 [Ac=-16290.3 LM=0.0] (Act=9.0)
+Aligning File: mfcc/output690.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end raama kathaa girijaa main: baranii sent-end  ==  [362 frames] -57.3955 [Ac=-20777.2 LM=0.0] (Act=8.3)
+Aligning File: mfcc/output691.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end sumiri raama kei guna gana naanaa sent-end  ==  [333 frames] -56.8221 [Ac=-18921.7 LM=0.0] (Act=9.2)
+Aligning File: mfcc/output692.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end uttara tripuraa bhaaratiiya raajya tripuraa kaa eika jilaa hai sent-end  ==  [461 frames] -59.7127 [Ac=-27527.5 LM=0.0] (Act=9.6)
+Aligning File: mfcc/output693.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end jadapi naatha bahu avaguna moorein: sent-end  ==  [343 frames] -58.8741 [Ac=-20193.8 LM=0.0] (Act=11.2)
+Aligning File: mfcc/output694.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+sent-end jaba mahaadeivii ilaahaabaada mein: pad:hnei lagiin: too shrii varmaa unasei milanei vahaana bhii aatei thei sent-end  ==  [786 frames] -58.5775 [Ac=-46041.9 LM=0.0] (Act=9.5)
+Aligning File: mfcc/output695.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end mukhyata chitra sei san:ban:dhita leikha kaa tathya sabasei upara hoonaa chaahiei sent-end  ==  [579 frames] -60.7071 [Ac=-35149.4 LM=0.0] (Act=10.4)
+Aligning File: mfcc/output696.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end isa jhiila kei tat:a para kii mat:ha bhii hain: sent-end  ==  [343 frames] -58.6591 [Ac=-20120.1 LM=0.0] (Act=10.2)
+Aligning File: mfcc/output697.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end bhaugoolika drxshht:i sei bhaarata koo chaara bhaagoon: mein: vibhaajita kiyaa jaa sakataa hai sent-end  ==  [579 frames] -60.1841 [Ac=-34846.6 LM=0.0] (Act=9.8)
+Aligning File: mfcc/output698.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end praban:dhaka kei ruupa mein: hindii vikipiid:iyaa kei liei aapakaa kaama mahatvapuurnd~a rahei sent-end  ==  [579 frames] -59.9800 [Ac=-34728.4 LM=0.0] (Act=11.5)
+Aligning File: mfcc/output699.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end tava prasaada san:saya saba gayuu sent-end  ==  [353 frames] -59.2956 [Ac=-20931.4 LM=0.0] (Act=9.9)
+Aligning File: mfcc/output700.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end gaan:dhii aura gaanadhii bhii aisei hii naama hain: sent-end  ==  [412 frames] -57.7389 [Ac=-23788.4 LM=0.0] (Act=8.2)
+Aligning File: mfcc/output701.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end maanava vijnj~aana kei liei khoojein: sent-end  ==  [274 frames] -56.6707 [Ac=-15527.8 LM=0.0] (Act=6.8)
+Aligning File: mfcc/output702.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+sent-end inamein: sei pratyeika adhikaarii kei adhiina raajya sarakaara kii upayukta shaakhaaoon: kei adhikaarii hootei hain: sent-end  ==  [727 frames] -61.2019 [Ac=-44493.8 LM=0.0] (Act=8.1)
+Aligning File: mfcc/output703.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end bhuugoola mein: nadiyoon: kei upajaauu maidaana koo bhii usa nadii kii ghaat:ii kahatei hain: sent-end  ==  [550 frames] -60.4358 [Ac=-33239.7 LM=0.0] (Act=9.3)
+Aligning File: mfcc/output704.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end philma nirdeishaka kei liei khoojein: sent-end  ==  [372 frames] -56.2288 [Ac=-20917.1 LM=0.0] (Act=7.3)
+Aligning File: mfcc/output705.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end kiinhii priiti kachhu biicha na raakhaa sent-end  ==  [372 frames] -58.4468 [Ac=-21742.2 LM=0.0] (Act=7.5)
+Aligning File: mfcc/output706.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end pratyeika dina kaa eika naama hootaa hai jaisei soomavaara man:galavaara ityaadi sent-end  ==  [540 frames] -59.3795 [Ac=-32064.9 LM=0.0] (Act=9.9)
+Aligning File: mfcc/output707.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end raama ruupa guna siila subhaauu sent-end  ==  [353 frames] -57.0907 [Ac=-20153.0 LM=0.0] (Act=8.0)
+Aligning File: mfcc/output708.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end unakaa raanachii mei ilaaja huaa sent-end  ==  [294 frames] -58.8023 [Ac=-17287.9 LM=0.0] (Act=7.6)
+Aligning File: mfcc/output709.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end maapana muulatah: tulanaa karanei kii eika prakriyaa hai sent-end  ==  [431 frames] -59.5441 [Ac=-25663.5 LM=0.0] (Act=10.0)
+Aligning File: mfcc/output710.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end joo shaayada aapanei deikhaa naa hoo sent-end  ==  [264 frames] -59.2458 [Ac=-15640.9 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output711.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end para apanii vidyaa kaa antima charama teija hara leitaa huuna sent-end  ==  [471 frames] -58.1971 [Ac=-27410.9 LM=0.0] (Act=9.7)
+Aligning File: mfcc/output712.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end chhoot:ei pannei suuchii kei liei dhanyavaada sent-end  ==  [323 frames] -57.4965 [Ac=-18571.4 LM=0.0] (Act=7.9)
+Aligning File: mfcc/output713.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end bait:hei gura muni aru dvija sajjana sent-end  ==  [372 frames] -59.2627 [Ac=-22045.7 LM=0.0] (Act=9.9)
+Aligning File: mfcc/output714.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end voold:eimo~rt:a aura hairii eika duusarei kei jaanii dushmana hain: sent-end  ==  [471 frames] -59.9111 [Ac=-28218.1 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output715.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end inakoo divya rxshhi maanaa jaataa hai sent-end  ==  [323 frames] -56.6496 [Ac=-18297.8 LM=0.0] (Act=7.5)
+Aligning File: mfcc/output716.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end sarvashreishht:ha kaa artha hootaa hai sarvoottama sent-end  ==  [353 frames] -58.9205 [Ac=-20798.9 LM=0.0] (Act=9.5)
+Aligning File: mfcc/output717.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end sumana kaa artha hootaa hai phuula sent-end  ==  [264 frames] -58.6215 [Ac=-15476.1 LM=0.0] (Act=8.9)
+Aligning File: mfcc/output718.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end aneika mahatvapuurnd~a san:sthaanoon: kei sadasya sent-end  ==  [343 frames] -61.4120 [Ac=-21064.3 LM=0.0] (Act=9.5)
+Aligning File: mfcc/output719.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end suu nei kahaa tuu soonei kii kooshisha kara sent-end  ==  [294 frames] -61.1604 [Ac=-17981.2 LM=0.0] (Act=7.4)
+Aligning File: mfcc/output720.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end jei na mitra dukha hoohin: dukhaarii sent-end  ==  [313 frames] -58.8294 [Ac=-18413.6 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output721.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end lakshhmand~a kii patnii kaa naama hai sent-end  ==  [284 frames] -57.9768 [Ac=-16465.4 LM=0.0] (Act=8.0)
+Aligning File: mfcc/output722.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end chhattiisagad:h tathaa ud:iisaa an:chala kii sabasei bad:ii nadii hai sent-end  ==  [471 frames] -58.4318 [Ac=-27521.4 LM=0.0] (Act=8.1)
+Aligning File: mfcc/output723.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end uttara pradeisha kii raajaniiti kei liei khoojein: sent-end  ==  [382 frames] -57.1354 [Ac=-21825.7 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output724.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end inakaa adhikatara leikhana aitihaasika ghat:anaaoon: para aadhaarita thaa sent-end  ==  [520 frames] -60.7175 [Ac=-31573.1 LM=0.0] (Act=10.6)
+Aligning File: mfcc/output725.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end hindustaana mein: urduu deivanaagarii mein: bhii likhii jaatii hai sent-end  ==  [431 frames] -58.8981 [Ac=-25385.1 LM=0.0] (Act=8.7)
+Aligning File: mfcc/output726.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end eika baara bharadvaaja muni yajnj~a kara rahei thei sent-end  ==  [382 frames] -58.5092 [Ac=-22350.5 LM=0.0] (Act=10.2)
+Aligning File: mfcc/output727.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end subhadraa kumaarii chauhaana kii kathaa drxshht:i sent-end  ==  [382 frames] -57.3380 [Ac=-21903.1 LM=0.0] (Act=7.4)
+Aligning File: mfcc/output728.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end namaskaara mai vikiipiid:iyaa para eika prabandhaka huuna sent-end  ==  [431 frames] -58.6703 [Ac=-25286.9 LM=0.0] (Act=9.9)
+Aligning File: mfcc/output729.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end sahii shiirshhaka kyaa aura doonoo leikhoo koo milaa deinaa chaahiei sent-end  ==  [550 frames] -59.5783 [Ac=-32768.1 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output730.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end isa dala kaa yuvaa san:gat:hana bhaaratiiya yuvaa kaan:greisa hai sent-end  ==  [461 frames] -58.6999 [Ac=-27060.6 LM=0.0] (Act=10.2)
+Aligning File: mfcc/output731.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end phijii kii samrxddha san:skrxti svadeishii bhaaratiiya chiinii aura yuuroopiiya paran:paraa kaa mishrand~a hai sent-end  ==  [835 frames] -57.9713 [Ac=-48406.0 LM=0.0] (Act=7.9)
+Aligning File: mfcc/output732.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+sent-end hinduu vichaaradhaaraa kei anusaara yaha jhiila sarvaprathama bhagavaana brahmaa kei mana mein: utpanna huaa thaa sent-end  ==  [796 frames] -59.1984 [Ac=-47121.9 LM=0.0] (Act=10.4)
+Aligning File: mfcc/output733.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end jisakaa lin:ka bhii uupara diyaa hai sent-end  ==  [343 frames] -56.5855 [Ac=-19408.8 LM=0.0] (Act=7.8)
+Aligning File: mfcc/output734.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end jaisei main: tuu vaha aadi sent-end  ==  [323 frames] -56.6904 [Ac=-18311.0 LM=0.0] (Act=8.9)
+Aligning File: mfcc/output735.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end unakei isa upanyaasa para eika duuradarshana dhaaraavaahika kaa nirmaand~a bhii huaa sent-end  ==  [658 frames] -59.6495 [Ac=-39249.4 LM=0.0] (Act=9.8)
+Aligning File: mfcc/output736.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end nija mukha nija guna kahasi na kaauu sent-end  ==  [343 frames] -58.8188 [Ac=-20174.8 LM=0.0] (Act=9.2)
+Aligning File: mfcc/output737.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end muulatah: yaha san:skrxta shabda hai sent-end  ==  [313 frames] -58.2326 [Ac=-18226.8 LM=0.0] (Act=9.3)
+Aligning File: mfcc/output738.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end main: bhuula hii gayaa thaa isa baata koo sent-end  ==  [274 frames] -59.0729 [Ac=-16186.0 LM=0.0] (Act=10.9)
+Aligning File: mfcc/output739.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end vikipiid:iyaa koo aapanei joo yoogadaana diyaa usakei liyei dhanyavaada sent-end  ==  [579 frames] -58.5398 [Ac=-33894.5 LM=0.0] (Act=8.7)
+Aligning File: mfcc/output740.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end gyaana dayaa dama tiiratha majjana sent-end  ==  [372 frames] -56.8960 [Ac=-21165.3 LM=0.0] (Act=9.0)
+Aligning File: mfcc/output741.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end yaha leikha hairii po~t:ara upanyaasa krama kei baarei mein: hai sent-end  ==  [441 frames] -59.1395 [Ac=-26080.5 LM=0.0] (Act=10.3)
+Aligning File: mfcc/output742.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end isakaa ulleikha rxgveida mein: bhii milataa hai sent-end  ==  [343 frames] -57.3600 [Ac=-19674.5 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output743.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end sroota kaa artha hootaa hai muula sent-end  ==  [303 frames] -57.0995 [Ac=-17301.1 LM=0.0] (Act=9.3)
+Aligning File: mfcc/output744.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end pratyaya lagaanei sei banataa hai priyatama jisakaa artha hootaa hai sabasei adhika priya sent-end  ==  [609 frames] -59.2318 [Ac=-36072.2 LM=0.0] (Act=10.1)
+Aligning File: mfcc/output745.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end usa samaya unakei paasa kooii mitra nahiin: thaa sent-end  ==  [362 frames] -58.2567 [Ac=-21088.9 LM=0.0] (Act=9.3)
+Aligning File: mfcc/output746.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end deikhein: grxha mantraalaya bhaarata sarakaara sent-end  ==  [323 frames] -58.9078 [Ac=-19027.2 LM=0.0] (Act=10.3)
+Aligning File: mfcc/output747.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end sunata raama ati koomala baanii sent-end  ==  [323 frames] -58.8229 [Ac=-18999.8 LM=0.0] (Act=7.8)
+Aligning File: mfcc/output748.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end yaha siddhaanta isa prakaara hai sent-end  ==  [284 frames] -58.4706 [Ac=-16605.7 LM=0.0] (Act=9.4)
+Aligning File: mfcc/output749.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end usa vikipiid:iyaa para aapa kaa yoogadaana bhii bahuta achchhaa hai sent-end  ==  [481 frames] -57.8236 [Ac=-27813.1 LM=0.0] (Act=9.5)
+Aligning File: mfcc/output750.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end krxshhnd~a kei hoolii kheilanei kaa thaa sent-end  ==  [303 frames] -57.3552 [Ac=-17378.6 LM=0.0] (Act=8.0)
+Aligning File: mfcc/output751.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end hairii po~t:ara paatra kei liei hairii po~t:ara paatra deikhein: sent-end  ==  [412 frames] -60.0705 [Ac=-24749.0 LM=0.0] (Act=9.0)
+Aligning File: mfcc/output752.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end aitihaasika gran:tha hin:dii saahitya kaa itihaasa unakaa anuut:haa aitihaasika gran:tha hai sent-end  ==  [727 frames] -60.8576 [Ac=-44243.5 LM=0.0] (Act=11.9)
+Aligning File: mfcc/output753.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end philma san:giitakaara kei liei khoojein: sent-end  ==  [294 frames] -57.8520 [Ac=-17008.5 LM=0.0] (Act=7.5)
+Aligning File: mfcc/output754.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end para yaha saba aapakei vyaktigata jnj~aana kei liei yahaana likha rahii huuna sent-end  ==  [491 frames] -59.0676 [Ac=-29002.2 LM=0.0] (Act=11.1)
+Aligning File: mfcc/output755.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end skuula kii pad:haaii samaapta karana kei baada vei in:glain:d:a gayei sent-end  ==  [481 frames] -59.8726 [Ac=-28798.7 LM=0.0] (Act=9.8)
+Aligning File: mfcc/output756.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end urduu bhaashhaa kei liei khoojein: sent-end  ==  [244 frames] -57.0313 [Ac=-13915.6 LM=0.0] (Act=7.0)
+Aligning File: mfcc/output757.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end paanii kei uupara bhii ran:goolii sent-end  ==  [264 frames] -57.7600 [Ac=-15248.6 LM=0.0] (Act=8.1)
+Aligning File: mfcc/output758.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end anya boolachaala kii bhaashhaaoon: mein: urduu baan:glaa an:greijii tathaa tamila pramukha hain: sent-end  ==  [668 frames] -58.8252 [Ac=-39295.3 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output759.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end main: una sabakei saatha tumhaarei saamanei shiighra hii upasthita hootaa huun: sent-end  ==  [500 frames] -59.2330 [Ac=-29616.5 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output760.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+sent-end itihaasakaaroon: kei anusaara iisaa puurva chauthii shataabdii mein: bhaarata mein: braahmii an:koon: kaa prachalana thaa sent-end  ==  [825 frames] -60.1055 [Ac=-49587.0 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output761.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end vidvaana samajhatei hain: ki yaha looga mahaabhaarata kei pashchaata bhaarata sei vahaan: pravaasii banei sent-end  ==  [688 frames] -59.7171 [Ac=-41085.4 LM=0.0] (Act=11.0)
+Aligning File: mfcc/output762.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end aura eika sei adhika shreind~ii bhii dii jaa sakatii hain: sent-end  ==  [471 frames] -59.8336 [Ac=-28181.6 LM=0.0] (Act=10.1)
+Aligning File: mfcc/output763.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end aashaa hai aapa svastha va prasanna hoon:gei sent-end  ==  [422 frames] -60.3850 [Ac=-25482.5 LM=0.0] (Act=11.4)
+Aligning File: mfcc/output764.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end bala kaa artha hootaa hai shakti sent-end  ==  [264 frames] -59.2648 [Ac=-15645.9 LM=0.0] (Act=9.4)
+Aligning File: mfcc/output765.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end magara vaha bhii nahii huaa sent-end  ==  [215 frames] -57.7547 [Ac=-12417.3 LM=0.0] (Act=11.5)
+Aligning File: mfcc/output766.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end maayaa muulatah: san:skrxta shabda hai sent-end  ==  [333 frames] -58.1347 [Ac=-19358.8 LM=0.0] (Act=8.3)
+Aligning File: mfcc/output767.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end paran:tu yaha lambaa kaarya hai joo ki shaayada aavashyaka eivan: sahii bhii naa hoo sent-end  ==  [638 frames] -58.0888 [Ac=-37060.7 LM=0.0] (Act=9.3)
+Aligning File: mfcc/output768.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end sunu khageisa teihi avasara brahmaa siva muni brxn:da sent-end  ==  [471 frames] -59.1752 [Ac=-27871.5 LM=0.0] (Act=9.2)
+Aligning File: mfcc/output769.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end raamu kaama sata koot:i subhaga tana sent-end  ==  [372 frames] -57.2353 [Ac=-21291.5 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output770.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end asa kahi sachiva bachana rahi gayuu sent-end  ==  [382 frames] -57.8873 [Ac=-22113.0 LM=0.0] (Act=9.8)
+Aligning File: mfcc/output771.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end rxgveida mein: deivii sarasvatii nadii kii deivii thiin: sent-end  ==  [441 frames] -57.3780 [Ac=-25303.7 LM=0.0] (Act=9.0)
+Aligning File: mfcc/output772.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end san:gama shabda jisakaa artha hai milana nigama sent-end  ==  [402 frames] -59.1781 [Ac=-23789.6 LM=0.0] (Act=11.1)
+Aligning File: mfcc/output773.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end d:ara kaa artha hootaa hai bhaya sent-end  ==  [284 frames] -57.2909 [Ac=-16270.6 LM=0.0] (Act=11.2)
+Aligning File: mfcc/output774.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end saba bidhi guru prasanna jiyana jaanii sent-end  ==  [481 frames] -56.0886 [Ac=-26978.6 LM=0.0] (Act=8.0)
+Aligning File: mfcc/output775.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end eika baara phira sei aabhaara sent-end  ==  [264 frames] -57.0598 [Ac=-15063.8 LM=0.0] (Act=8.5)
+Aligning File: mfcc/output776.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end isa leikha koo mit:aa dei aura mukhya leikha bihaara kei saatha milaa diyaa jaaei sent-end  ==  [628 frames] -58.6935 [Ac=-36859.5 LM=0.0] (Act=8.0)
+Aligning File: mfcc/output777.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end pahalei yaha dhaara nagarii kei naama sei jaanaa jaataa thaa sent-end  ==  [392 frames] -59.3061 [Ac=-23248.0 LM=0.0] (Act=10.4)
+Aligning File: mfcc/output778.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end inakei shaasana kei dauraana chiina kii san:skrxti aura vijnj~aana apanei charama para pahun:cha gayaa sent-end  ==  [707 frames] -59.5803 [Ac=-42123.3 LM=0.0] (Act=8.9)
+Aligning File: mfcc/output779.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end isa leikha koo chhoot:aa aura samajhanei mei aasaana hoo aisaa rakhei sent-end  ==  [491 frames] -61.9675 [Ac=-30426.1 LM=0.0] (Act=8.9)
+Aligning File: mfcc/output780.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end phraanasa kii mahilaa t:einisa khilaad:ii kei liei khoojein: sent-end  ==  [431 frames] -60.0221 [Ac=-25869.5 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output781.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end unhei neipaalabhaashhaa kaa upanyaasa samraat:a kaa upaadhi diyaa huvaa hai sent-end  ==  [550 frames] -60.5305 [Ac=-33291.8 LM=0.0] (Act=8.5)
+Aligning File: mfcc/output782.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end sacha bhii hai main:nei kii pashuoon: kii seivaa karatei unakoo deikhaa hai sent-end  ==  [559 frames] -58.9109 [Ac=-32931.2 LM=0.0] (Act=8.3)
+Aligning File: mfcc/output783.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end madhu muulatah: san:skrxta shabda hai sent-end  ==  [313 frames] -61.0893 [Ac=-19121.0 LM=0.0] (Act=9.4)
+Aligning File: mfcc/output784.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end kahata raama guna siila subhaauu sent-end  ==  [353 frames] -58.0638 [Ac=-20496.5 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output785.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end yaha hin:dii saahitya kaa shreishht:ha yuga hai sent-end  ==  [353 frames] -58.7158 [Ac=-20726.7 LM=0.0] (Act=9.5)
+Aligning File: mfcc/output786.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end mahaanadii kii ghaat:ii kii apanii vishishht:a sabhyataa hai sent-end  ==  [431 frames] -58.5194 [Ac=-25221.9 LM=0.0] (Act=8.3)
+Aligning File: mfcc/output787.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end na jaanei kitanei looga isei pad:htei hain: sent-end  ==  [323 frames] -57.8928 [Ac=-18699.4 LM=0.0] (Act=9.0)
+Aligning File: mfcc/output788.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end inakaa vichaara thaa ki brahmaand~d:a eika sthira avasthaa mein: hai sent-end  ==  [491 frames] -58.0491 [Ac=-28502.1 LM=0.0] (Act=9.3)
+Aligning File: mfcc/output789.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end hindii gujaraatii maraat:hii baan:glaa ityaadi sent-end  ==  [431 frames] -57.2006 [Ac=-24653.5 LM=0.0] (Act=7.0)
+Aligning File: mfcc/output790.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end isa prakaara sikkima mein: raajatantra kaa aarambha huaa sent-end  ==  [412 frames] -59.2043 [Ac=-24392.2 LM=0.0] (Act=10.3)
+Aligning File: mfcc/output791.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end chaahei kooii bhii bhaashhaa hoo sent-end  ==  [234 frames] -55.6415 [Ac=-13020.1 LM=0.0] (Act=7.0)
+Aligning File: mfcc/output792.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end tiiratha amita koot:i sama paavana sent-end  ==  [491 frames] -55.3218 [Ac=-27163.0 LM=0.0] (Act=8.1)
+Aligning File: mfcc/output793.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end puni saadara boolei muni naarada sent-end  ==  [323 frames] -55.0311 [Ac=-17775.1 LM=0.0] (Act=8.3)
+Aligning File: mfcc/output794.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end hairii po~t:ara kahaanii kaa mukhya paatra hai sent-end  ==  [353 frames] -56.5960 [Ac=-19978.4 LM=0.0] (Act=8.1)
+Aligning File: mfcc/output795.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end unhein: rxshhi para bahuta kroodha aayaa sent-end  ==  [284 frames] -58.0318 [Ac=-16481.0 LM=0.0] (Act=9.4)
+Aligning File: mfcc/output796.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end puraand~oon: mein: rakshhaaban:dhana kaa mahatva sent-end  ==  [303 frames] -58.0982 [Ac=-17603.8 LM=0.0] (Act=9.9)
+Aligning File: mfcc/output797.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end abhii main: shaan:ta hii huuna sent-end  ==  [234 frames] -56.7505 [Ac=-13279.6 LM=0.0] (Act=8.0)
+Aligning File: mfcc/output798.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end arei haana mainei dhyaana diyaa hai aapakei kaarya para sent-end  ==  [343 frames] -60.2647 [Ac=-20670.8 LM=0.0] (Act=10.6)
+Aligning File: mfcc/output799.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end svaagata kei liei dhanyavaada mitula sent-end  ==  [284 frames] -57.1503 [Ac=-16230.7 LM=0.0] (Act=9.2)
+Aligning File: mfcc/output800.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end mahaabhaarata mein: raajaa dhrxtaraashht:ra kii patnii sent-end  ==  [372 frames] -58.4877 [Ac=-21757.4 LM=0.0] (Act=9.0)
+Aligning File: mfcc/output801.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end taba shikaarii tathaa mrxga parivaara mookshha koo praapta huei sent-end  ==  [441 frames] -58.8071 [Ac=-25933.9 LM=0.0] (Act=8.5)
+Aligning File: mfcc/output802.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end yaha leikha abhii anuvaada kei adhiina hai sent-end  ==  [382 frames] -57.7345 [Ac=-22054.6 LM=0.0] (Act=11.2)
+Aligning File: mfcc/output803.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end dhaarmika sthala kei liei khoojein: sent-end  ==  [264 frames] -57.3856 [Ac=-15149.8 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output804.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end mai abhii loogoon: koo usa vikipiid:iyaa para aakarshhita karanei kaa prayaasa kara rahaa hun: sent-end  ==  [609 frames] -59.2320 [Ac=-36072.3 LM=0.0] (Act=10.5)
+Aligning File: mfcc/output805.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end vaisei eika t:ippand~ii hamei paat:haka sei jyaadaa leikhakoo kei baarei mei soochanaa chaahiei sent-end  ==  [796 frames] -58.5437 [Ac=-46600.8 LM=0.0] (Act=10.6)
+Aligning File: mfcc/output806.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end isasei yaha peija chhoot:aa hoo jaayeigaa aura deikhanei pad:hanei mein: suvidhaa hoogii sent-end  ==  [599 frames] -59.0512 [Ac=-35371.7 LM=0.0] (Act=8.9)
+Aligning File: mfcc/output807.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end maharshhi maheisha yoogii nei veidoon: mein: nihita jnj~aana para aneika pustakoon: kii rachanaa kii sent-end  ==  [697 frames] -59.2186 [Ac=-41275.4 LM=0.0] (Act=10.0)
+Aligning File: mfcc/output808.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end philma aan:doolana kei liei khoojein: sent-end  ==  [294 frames] -57.4303 [Ac=-16884.5 LM=0.0] (Act=7.5)
+Aligning File: mfcc/output809.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end jarii aaja eitha aisein: kiijei sent-end  ==  [343 frames] -58.4936 [Ac=-20063.3 LM=0.0] (Act=8.5)
+Aligning File: mfcc/output810.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end aneika kahaaniyoon: kei gujaraatii maraat:hii tamila an:greijii aadi bhaashhaaoon: mein: anuvaada sent-end  ==  [688 frames] -60.5830 [Ac=-41681.1 LM=0.0] (Act=8.9)
+Aligning File: mfcc/output811.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end jaun: keivala pitu aayasu taataa sent-end  ==  [372 frames] -58.7989 [Ac=-21873.2 LM=0.0] (Act=7.6)
+Aligning File: mfcc/output812.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end dhana san:skrxta muula kaa shabda hai sent-end  ==  [343 frames] -59.1076 [Ac=-20273.9 LM=0.0] (Act=9.6)
+Aligning File: mfcc/output813.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end mahaanadii kii ghaat:ii kii apanii vishishht:a sabhyataa hai joo itihaasa mein: darja hai sent-end  ==  [648 frames] -60.3991 [Ac=-39138.6 LM=0.0] (Act=8.5)
+Aligning File: mfcc/output814.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end yaha prasan:ga jaani koou koouu sent-end  ==  [402 frames] -59.3502 [Ac=-23858.8 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output815.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end jhaarakhan:d:a kei vartamaana mukhyaman:trii hain: sent-end  ==  [353 frames] -58.8879 [Ac=-20787.4 LM=0.0] (Act=8.7)
+Aligning File: mfcc/output816.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end paana kaa prayooga hinduu san:skaara sei jud:aa hai jaisei naamakarand~a yajnj~oopaviita aadi sent-end  ==  [717 frames] -59.7883 [Ac=-42868.2 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output817.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end saubhaagya sei hamaaraa janma bhaarata bhuumi mein: huaa sent-end  ==  [471 frames] -56.5653 [Ac=-26642.3 LM=0.0] (Act=9.5)
+Aligning File: mfcc/output818.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end mrxdu muulatah: san:skrxta kaa shabda hai sent-end  ==  [333 frames] -58.2954 [Ac=-19412.4 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output819.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end mujhei isa leikha kii aavashyakataa hai ran:goon: kii suuchii leikha koo banaanei heitu sent-end  ==  [747 frames] -57.3378 [Ac=-42831.3 LM=0.0] (Act=8.0)
+Aligning File: mfcc/output820.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end yadi yaha puurii taraha sei prakrxti kei biicha hoo sent-end  ==  [402 frames] -59.1416 [Ac=-23774.9 LM=0.0] (Act=10.1)
+Aligning File: mfcc/output821.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end moohi kahu maatu taata dukha kaarana sent-end  ==  [412 frames] -57.4135 [Ac=-23654.4 LM=0.0] (Act=9.3)
+Aligning File: mfcc/output822.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end ro~na aura hairii kaaphii achchhei doosta hai sent-end  ==  [343 frames] -57.0886 [Ac=-19581.4 LM=0.0] (Act=8.1)
+Aligning File: mfcc/output823.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sent-end pyaaraa saa ban:dhana rakshhaaban:dhana sent-end  ==  [303 frames] -56.2308 [Ac=-17037.9 LM=0.0] (Act=9.9)
+Aligning File: mfcc/output824.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end kardama rxshhi eivan: deivahuuti kii dvitiiya kanyaa thii sent-end  ==  [471 frames] -58.2656 [Ac=-27443.1 LM=0.0] (Act=9.2)
+Aligning File: mfcc/output825.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end yahaana philma nirmaand~a sei san:ban:dhita vishhayoon: kii suuchii hai sent-end  ==  [510 frames] -58.0303 [Ac=-29595.4 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output826.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end vikipiid:iyaa sadasya kan:pyuut:ara aura aashiishha bhat:anaagara kei kaarya kei anusaara sent-end  ==  [668 frames] -59.0860 [Ac=-39469.5 LM=0.0] (Act=9.2)
+Aligning File: mfcc/output827.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end prashan:saa aura sujhaava kei liei dhanyavaada mitula sent-end  ==  [392 frames] -57.5996 [Ac=-22579.1 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output828.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end paarasii dharma iiraana kaa bahuta puraanaa dharma hai sent-end  ==  [431 frames] -57.3275 [Ac=-24708.1 LM=0.0] (Act=9.6)
+Aligning File: mfcc/output829.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end mainei isa vaakya koo hat:aa diyaa sent-end  ==  [274 frames] -58.0127 [Ac=-15895.5 LM=0.0] (Act=7.8)
+Aligning File: mfcc/output830.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+sent-end dillii kii gaddii unhoon:nei praapta kara lii aura kramashah: unakei raajya kaa vistaara bad:hnei lagaa sent-end  ==  [697 frames] -59.4173 [Ac=-41413.8 LM=0.0] (Act=10.3)
+Aligning File: mfcc/output831.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end meirei baarei mein: jaanei kei liei yahaa klika karei sent-end  ==  [402 frames] -57.6101 [Ac=-23159.3 LM=0.0] (Act=10.0)
+Aligning File: mfcc/output832.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end aapa apanaa yaha achchhaa kaarya jaarii rakhein: sent-end  ==  [372 frames] -58.6740 [Ac=-21826.7 LM=0.0] (Act=10.2)
+Aligning File: mfcc/output833.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end dhara bhaaratiiya raajya madhya pradeisha kaa eika jilaa hai sent-end  ==  [500 frames] -58.0149 [Ac=-29007.5 LM=0.0] (Act=9.6)
+Aligning File: mfcc/output834.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+sent-end unhoon:nei piid:aa kii mahattaa hii ghooshhita nahiin: kii usakaa sukhada pakshha bhii spashht:a kiyaa hai sent-end  ==  [678 frames] -60.7027 [Ac=-41156.4 LM=0.0] (Act=10.6)
+Aligning File: mfcc/output835.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end srxshht:i kaa kauna hain: karataa sent-end  ==  [264 frames] -58.0871 [Ac=-15335.0 LM=0.0] (Act=9.5)
+Aligning File: mfcc/output836.mfc
+Created lattice with 13 nodes / 12 arcs from label file
+sent-end isa ruupa mein: yei deivataa oon: kei liyei nahiin: prayukta hootaa sent-end  ==  [441 frames] -58.3068 [Ac=-25713.3 LM=0.0] (Act=11.1)
+Aligning File: mfcc/output837.mfc
+Created lattice with 9 nodes / 8 arcs from label file
+sent-end main: abhii taajamahala leikha para kaaryarata huuna sent-end  ==  [362 frames] -58.6909 [Ac=-21246.1 LM=0.0] (Act=10.4)
+Aligning File: mfcc/output838.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end philma nirmaataa kei liei khoojein: sent-end  ==  [284 frames] -56.3385 [Ac=-16000.1 LM=0.0] (Act=7.7)
+Aligning File: mfcc/output839.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+sent-end samasta hin:dii saahitya kei shreishht:ha kavi aura uttama rachanaaein: isa yuga mein: praapta hootii hain: sent-end  ==  [747 frames] -59.8596 [Ac=-44715.1 LM=0.0] (Act=10.3)
+Aligning File: mfcc/output840.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end yaha eika manoovaijnj~aanika chalachitra hai sent-end  ==  [353 frames] -57.8594 [Ac=-20424.4 LM=0.0] (Act=9.3)
+Aligning File: mfcc/output841.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end haan: gaa aisein: jarii na kiijei sent-end  ==  [353 frames] -58.3859 [Ac=-20610.2 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output842.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end raama sunaa dukhu kaana na kaauu sent-end  ==  [353 frames] -57.6385 [Ac=-20346.4 LM=0.0] (Act=7.8)
+Aligning File: mfcc/output843.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end yaha kaarya mujhei bhii too karanaa hii thaa sent-end  ==  [382 frames] -57.9682 [Ac=-22143.8 LM=0.0] (Act=9.3)
+Aligning File: mfcc/output844.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+sent-end isa avasara para raajya kei saadhaarand~a naagarika baadashaaha para ran:ga d:aalanei kei adhikaarii hootei thei sent-end  ==  [747 frames] -61.1187 [Ac=-45655.6 LM=0.0] (Act=10.9)
+Aligning File: mfcc/output845.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end dharmagrantha kisii bhii dharma kaa mukhya saahitya hootaa hai sent-end  ==  [510 frames] -59.1870 [Ac=-30185.4 LM=0.0] (Act=9.3)
+Aligning File: mfcc/output846.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end aneika looga yaha kahatei hain: ki sent-end  ==  [294 frames] -58.9571 [Ac=-17333.4 LM=0.0] (Act=11.8)
+Aligning File: mfcc/output847.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end inakaa janma koolakaataa mein: huaa sent-end  ==  [392 frames] -56.1583 [Ac=-22014.0 LM=0.0] (Act=7.3)
+Aligning File: mfcc/output848.mfc
+Created lattice with 17 nodes / 16 arcs from label file
+sent-end main: aisaa kuchha kaha hii nahiin: sakataa joo bhaaratiiya san:vidhaana kii drxshht:i sei galata hoo sent-end  ==  [658 frames] -60.2567 [Ac=-39648.9 LM=0.0] (Act=10.7)
+Aligning File: mfcc/output849.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end boolei bachana bigata saba duushhana sent-end  ==  [422 frames] -56.2661 [Ac=-23744.3 LM=0.0] (Act=7.8)
+Aligning File: mfcc/output850.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end magara hairii voold:eimo~rt:a kii pakad: sei isa baara bhii bhaaga nikalataa hai sent-end  ==  [530 frames] -60.1564 [Ac=-31882.9 LM=0.0] (Act=9.9)
+Aligning File: mfcc/output851.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end smarand~a kaa artha hootaa hai yaada sent-end  ==  [294 frames] -58.2263 [Ac=-17118.5 LM=0.0] (Act=8.9)
+Aligning File: mfcc/output852.mfc
+Created lattice with 6 nodes / 5 arcs from label file
+sent-end hin:dii philmoon: mein: rakshhaaban:dhana sent-end  ==  [264 frames] -56.8793 [Ac=-15016.1 LM=0.0] (Act=8.8)
+Aligning File: mfcc/output853.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end rxgveida koo duniyaa kei sabhii itihaasakaara hindayuuroopiiya bhaashhaaparivaara kii sabasei pahalii rachanaa maanatei hain: sent-end  ==  [924 frames] -58.7783 [Ac=-54311.1 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output854.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end raajiiva dhyaana dilaanei kei liei aabhaara sent-end  ==  [333 frames] -58.8504 [Ac=-19597.2 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output855.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end bhaarata mein: ran:goolii kaa itanaa mahatva kyoon: hai sent-end  ==  [382 frames] -59.2402 [Ac=-22629.8 LM=0.0] (Act=9.7)
+Aligning File: mfcc/output856.mfc
+Created lattice with 11 nodes / 10 arcs from label file
+sent-end meirei laayaka kooii seivaa hoo too avashya san:parka karein: sent-end  ==  [422 frames] -58.6885 [Ac=-24766.6 LM=0.0] (Act=9.3)
+Aligning File: mfcc/output857.mfc
+Created lattice with 14 nodes / 13 arcs from label file
+sent-end tilaka kei prayaasa sei pahalei gand~eisha puujaa parivaara taka hii siimita thii sent-end  ==  [540 frames] -59.6035 [Ac=-32185.9 LM=0.0] (Act=10.6)
+Aligning File: mfcc/output858.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end hama sabhii koo milakara isamein: yoogadaana deinaa chaahiei sent-end  ==  [412 frames] -58.8447 [Ac=-24244.0 LM=0.0] (Act=8.2)
+Aligning File: mfcc/output859.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end hinduu dharma veidoon: para aadhaarita hai sent-end  ==  [382 frames] -56.5636 [Ac=-21607.3 LM=0.0] (Act=9.2)
+Aligning File: mfcc/output860.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end kavitaa kaa jan:gala va shabdoon: kaa aakaasha unakaa prasiddha hin:dii kavitaa san:graha hai sent-end  ==  [737 frames] -59.2818 [Ac=-43690.7 LM=0.0] (Act=10.6)
+Aligning File: mfcc/output861.mfc
+Created lattice with 16 nodes / 15 arcs from label file
+sent-end gayaa sad:ka reila aura vaayu maarga dvaaraa puurei bhaarata sei achchhii taraha jud:aa hai sent-end  ==  [816 frames] -58.4623 [Ac=-47705.3 LM=0.0] (Act=10.2)
+Aligning File: mfcc/output862.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end yaha vii aakaara kii ghaat:ii kaa hii vishishht:a rupa hain: sent-end  ==  [471 frames] -57.8164 [Ac=-27231.5 LM=0.0] (Act=9.1)
+Aligning File: mfcc/output863.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end una sabhii raaja kanyaaoon: nei shrii krxshhnd~a koo pati ruupa mein: sviikaara kiyaa sent-end  ==  [569 frames] -58.3047 [Ac=-33175.4 LM=0.0] (Act=7.6)
+Aligning File: mfcc/output864.mfc
+Created lattice with 12 nodes / 11 arcs from label file
+sent-end pad:hnei kii lagana shukla jii mein: bachapana sei hii thii sent-end  ==  [412 frames] -59.1840 [Ac=-24383.8 LM=0.0] (Act=8.4)
+Aligning File: mfcc/output865.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end chaahei kooii mujhei jan:galii kahei sent-end  ==  [294 frames] -56.0683 [Ac=-16484.1 LM=0.0] (Act=7.5)
+Aligning File: mfcc/output866.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end deishoon: kei aatan:kavaada kei liei khoojein: sent-end  ==  [353 frames] -58.5613 [Ac=-20672.1 LM=0.0] (Act=7.7)
+Aligning File: mfcc/output867.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end bhaarata kei vistaara kei saatha hii isakei mausama mein: bhii bahuta bhinnataa hai sent-end  ==  [678 frames] -58.3773 [Ac=-39579.8 LM=0.0] (Act=9.3)
+Aligning File: mfcc/output868.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end mai bhaarata mei rahataa huuna sent-end  ==  [225 frames] -57.6020 [Ac=-12960.4 LM=0.0] (Act=11.5)
+Aligning File: mfcc/output869.mfc
+Created lattice with 10 nodes / 9 arcs from label file
+sent-end bhaarata vishva mein: sabasei adhika philmein: banaataa hai sent-end  ==  [431 frames] -57.9416 [Ac=-24972.8 LM=0.0] (Act=8.2)
+Aligning File: mfcc/output870.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end manoovaijnj~aanika yuddha kei liei khoojein: sent-end  ==  [343 frames] -57.5838 [Ac=-19751.3 LM=0.0] (Act=8.6)
+Aligning File: mfcc/output871.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end tarii deivaa hein: aisein: kaisein: sent-end  ==  [372 frames] -57.5176 [Ac=-21396.5 LM=0.0] (Act=8.5)
+Aligning File: mfcc/output872.mfc
+Created lattice with 15 nodes / 14 arcs from label file
+sent-end kahaa jaataa hai ki unhoon:nei kabhii jiivana mein: jhuut:ha kaa sahaaraa nahiin: liyaa sent-end  ==  [520 frames] -59.8677 [Ac=-31131.2 LM=0.0] (Act=9.8)
+Aligning File: mfcc/output873.mfc
+Created lattice with 7 nodes / 6 arcs from label file
+sent-end kahata bharata guna siilu subhaauu sent-end  ==  [353 frames] -56.6236 [Ac=-19988.1 LM=0.0] (Act=9.2)
+Aligning File: mfcc/output874.mfc
+Created lattice with 8 nodes / 7 arcs from label file
+sent-end jaisei svatan:trataa divasa shahiida divasa ityaadi sent-end  ==  [431 frames] -58.5497 [Ac=-25234.9 LM=0.0] (Act=8.6)
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+                  NUMCEPS                       12
+                  CEPLIFTER                     22
+                  NUMCHANS                      26
+                  PREEMCOEF               0.970000
+                  USEHAMMING                  TRUE
+                  WINDOWSIZE         250000.000000
+                  SAVEWITHCRC                 TRUE
+                  SAVECOMPRESSED              TRUE
+                  TARGETRATE         100000.000000
+                  TARGETKIND          MFCC_0_D_N_Z
+

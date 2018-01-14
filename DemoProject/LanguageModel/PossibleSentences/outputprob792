@@ -1,0 +1,10 @@
+paa hii paa aisei hana paa hein:
+1 sentences, 7 words, 0 OOVs
+0 zeroprobs, logprob= -26.7958 ppl= 2236.01 ppl1= 6729.29
+
+paa hii paa aisei hana paahein:
+1 sentences, 6 words, 0 OOVs
+0 zeroprobs, logprob= -23.0381 ppl= 1955.03 ppl1= 6913.19
+
+file ./PossibleSentences/output792: 2 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -49.8339 ppl= 2100.18 ppl1= 6813.55

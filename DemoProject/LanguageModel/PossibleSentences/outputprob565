@@ -1,0 +1,10 @@
+eihi bidhi sakala jii va jaga roogii
+1 sentences, 7 words, 0 OOVs
+0 zeroprobs, logprob= -16.7375 ppl= 123.648 ppl1= 246.078
+
+eihi bidhi sakala jiiva jaga roogii
+1 sentences, 6 words, 0 OOVs
+0 zeroprobs, logprob= -9.43125 ppl= 22.2496 ppl1= 37.3143
+
+file ./PossibleSentences/output565: 2 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -26.1688 ppl= 55.5372 ppl1= 103.034

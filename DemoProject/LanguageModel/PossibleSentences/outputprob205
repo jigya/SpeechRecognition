@@ -1,0 +1,10 @@
+meirei vichaara mein: boot:a sei leikha va naa naa sambhava hai
+1 sentences, 11 words, 0 OOVs
+0 zeroprobs, logprob= -29.0305 ppl= 262.547 ppl1= 435.648
+
+meirei vichaara mein: boot:a sei leikha va naanaa sambhava hai
+1 sentences, 10 words, 0 OOVs
+0 zeroprobs, logprob= -24.8438 ppl= 181.355 ppl1= 305.058
+
+file ./PossibleSentences/output205: 2 sentences, 21 words, 0 OOVs
+0 zeroprobs, logprob= -53.8743 ppl= 219.969 ppl1= 367.658

@@ -1,0 +1,10 @@
+shaayada samajha aaga yaa hoo
+1 sentences, 5 words, 0 OOVs
+0 zeroprobs, logprob= -13.8317 ppl= 201.972 ppl1= 583.915
+
+shaayada samajha aa gayaa hoo
+1 sentences, 5 words, 0 OOVs
+0 zeroprobs, logprob= -9.01588 ppl= 31.8161 ppl1= 63.559
+
+file ./PossibleSentences/output607: 2 sentences, 10 words, 0 OOVs
+0 zeroprobs, logprob= -22.8476 ppl= 80.1622 ppl1= 192.647

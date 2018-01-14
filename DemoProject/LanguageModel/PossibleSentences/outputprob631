@@ -1,0 +1,10 @@
+una kaa raanachii mein: ilaaja huaa
+1 sentences, 6 words, 0 OOVs
+0 zeroprobs, logprob= -15.6447 ppl= 171.772 ppl1= 404.99
+
+unakaa raanachii mein: ilaaja huaa
+1 sentences, 5 words, 0 OOVs
+0 zeroprobs, logprob= -10.8593 ppl= 64.5475 ppl1= 148.544
+
+file ./PossibleSentences/output631: 2 sentences, 11 words, 0 OOVs
+0 zeroprobs, logprob= -26.5039 ppl= 109.336 ppl1= 256.714

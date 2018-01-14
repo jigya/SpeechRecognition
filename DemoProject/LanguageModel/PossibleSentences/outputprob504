@@ -1,0 +1,26 @@
+deikhii parama paa va na tava aa shrama
+1 sentences, 8 words, 0 OOVs
+0 zeroprobs, logprob= -30.9732 ppl= 2763.56 ppl1= 7441.35
+
+deikhii parama paa vana tava aa shrama
+1 sentences, 7 words, 0 OOVs
+0 zeroprobs, logprob= -28.8152 ppl= 3998.54 ppl1= 13075.5
+
+deikhii parama paavana tava aa shrama
+1 sentences, 6 words, 0 OOVs
+0 zeroprobs, logprob= -19.245 ppl= 561.414 ppl1= 1612.49
+
+deikhii parama paa va na tava aashrama
+1 sentences, 7 words, 0 OOVs
+0 zeroprobs, logprob= -24.3762 ppl= 1114.37 ppl1= 3036.11
+
+deikhii parama paa vana tava aashrama
+1 sentences, 6 words, 0 OOVs
+0 zeroprobs, logprob= -22.2182 ppl= 1492.9 ppl1= 5047.04
+
+deikhii parama paavana tava aashrama
+1 sentences, 5 words, 0 OOVs
+0 zeroprobs, logprob= -12.648 ppl= 128.233 ppl1= 338.531
+
+file ./PossibleSentences/output504: 6 sentences, 39 words, 0 OOVs
+0 zeroprobs, logprob= -138.276 ppl= 1182.49 ppl1= 3511.84

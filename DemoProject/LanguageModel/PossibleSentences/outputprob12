@@ -1,0 +1,18 @@
+jaun: tat:a pat:eila aapa kei hoo lii sei sambandhita lei kei liei dhanyavaada
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -35.1263 ppl= 322.864 ppl1= 503.525
+
+jaun: tat:a pat:eila aapakei hoo lii sei sambandhita lei kei liei dhanyavaada
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -30.3493 ppl= 216.054 ppl1= 338.149
+
+jaun: tat:a pat:eila aapa kei hoolii sei sambandhita lei kei liei dhanyavaada
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -30.1679 ppl= 209.222 ppl1= 326.582
+
+jaun: tat:a pat:eila aapakei hoolii sei sambandhita lei kei liei dhanyavaada
+1 sentences, 11 words, 0 OOVs
+0 zeroprobs, logprob= -24.7532 ppl= 115.549 ppl1= 177.947
+
+file ./PossibleSentences/output12: 4 sentences, 48 words, 0 OOVs
+0 zeroprobs, logprob= -120.397 ppl= 206.691 ppl1= 322.303

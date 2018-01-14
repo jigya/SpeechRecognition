@@ -1,0 +1,18 @@
+aapa kei dvaaraa banaa yei gei saa jei achchhei hain:
+1 sentences, 10 words, 0 OOVs
+0 zeroprobs, logprob= -30.056 ppl= 539.961 ppl1= 1012.97
+
+aapakei dvaaraa banaa yei gei saa jei achchhei hain:
+1 sentences, 9 words, 0 OOVs
+0 zeroprobs, logprob= -25.9387 ppl= 392.532 ppl1= 762.225
+
+aapa kei dvaaraa banaayei gei saa jei achchhei hain:
+1 sentences, 9 words, 0 OOVs
+0 zeroprobs, logprob= -24.7792 ppl= 300.551 ppl1= 566.556
+
+aapakei dvaaraa banaayei gei saa jei achchhei hain:
+1 sentences, 8 words, 0 OOVs
+0 zeroprobs, logprob= -20.6619 ppl= 197.593 ppl1= 382.599
+
+file ./PossibleSentences/output839: 4 sentences, 36 words, 0 OOVs
+0 zeroprobs, logprob= -101.436 ppl= 343.476 ppl1= 657.148

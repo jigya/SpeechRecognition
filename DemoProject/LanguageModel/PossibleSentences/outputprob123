@@ -1,0 +1,10 @@
+asa nei kaa artha hootaa hai lagaa va
+1 sentences, 8 words, 0 OOVs
+0 zeroprobs, logprob= -16.287 ppl= 64.5151 ppl1= 108.61
+
+asa nei kaa artha hootaa hai lagaava
+1 sentences, 7 words, 0 OOVs
+0 zeroprobs, logprob= -12.1829 ppl= 33.3324 ppl1= 55.0071
+
+file ./PossibleSentences/output123: 2 sentences, 15 words, 0 OOVs
+0 zeroprobs, logprob= -28.4699 ppl= 47.2823 ppl1= 79.0664

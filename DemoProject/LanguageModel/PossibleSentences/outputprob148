@@ -1,0 +1,14 @@
+man:gala kaa artha hootaa hai shubha oon: paa va na kushala ityaadi
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -27.1826 ppl= 123.301 ppl1= 184.168
+
+man:gala kaa artha hootaa hai shubha oon: paa vana kushala ityaadi
+1 sentences, 11 words, 0 OOVs
+0 zeroprobs, logprob= -25.0246 ppl= 121.725 ppl1= 188.348
+
+man:gala kaa artha hootaa hai shubha oon: paavana kushala ityaadi
+1 sentences, 10 words, 0 OOVs
+0 zeroprobs, logprob= -17.9289 ppl= 42.6484 ppl1= 62.0716
+
+file ./PossibleSentences/output148: 3 sentences, 33 words, 0 OOVs
+0 zeroprobs, logprob= -70.1361 ppl= 88.7615 ppl1= 133.455

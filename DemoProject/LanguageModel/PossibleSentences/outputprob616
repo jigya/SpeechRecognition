@@ -1,0 +1,10 @@
+sumiri raamu kei guna gana naa naa
+1 sentences, 7 words, 0 OOVs
+0 zeroprobs, logprob= -23.0285 ppl= 756.072 ppl1= 1948.89
+
+sumiri raamu kei guna gana naanaa
+1 sentences, 6 words, 0 OOVs
+0 zeroprobs, logprob= -15.4084 ppl= 158.928 ppl1= 369.885
+
+file ./PossibleSentences/output616: 2 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -38.4369 ppl= 365.141 ppl1= 905.076

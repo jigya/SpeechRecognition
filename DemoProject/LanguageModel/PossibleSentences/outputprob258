@@ -1,0 +1,10 @@
+isa raajya kaa leikha deikha nei kei liei yahaa jaayein: jammuu aura kashmiira
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -26.3673 ppl= 76.4507 ppl1= 106.723
+
+isa raajya kaa leikha deikhanei kei liei yahaa jaayein: jammuu aura kashmiira
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -21.749 ppl= 47.0975 ppl1= 64.9254
+
+file ./PossibleSentences/output258: 2 sentences, 25 words, 0 OOVs
+0 zeroprobs, logprob= -48.1163 ppl= 60.5461 ppl1= 84.0723

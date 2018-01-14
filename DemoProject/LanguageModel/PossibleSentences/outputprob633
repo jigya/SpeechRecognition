@@ -1,0 +1,10 @@
+joo shaayara aapa nei deikhaa naa hoo
+1 sentences, 7 words, 0 OOVs
+0 zeroprobs, logprob= -18.2832 ppl= 192.931 ppl1= 409.155
+
+joo shaayara aapanei deikhaa naa hoo
+1 sentences, 6 words, 0 OOVs
+0 zeroprobs, logprob= -14.0073 ppl= 100.242 ppl1= 216.052
+
+file ./PossibleSentences/output633: 2 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -32.2906 ppl= 142.136 ppl1= 304.712

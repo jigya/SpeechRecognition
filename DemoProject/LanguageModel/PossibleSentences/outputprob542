@@ -1,0 +1,10 @@
+isei jhaarakhan:d:a kaa praveishadvaara kei naa haan: sei bhii jaa naa jaataa hai
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -31.5532 ppl= 179.392 ppl1= 267.406
+
+isei jhaarakhan:d:a kaa praveishadvaara kei naa haan: sei bhii jaanaa jaataa hai
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -23.1645 ppl= 60.5184 ppl1= 85.1879
+
+file ./PossibleSentences/output542: 2 sentences, 25 words, 0 OOVs
+0 zeroprobs, logprob= -54.7178 ppl= 106.312 ppl1= 154.423

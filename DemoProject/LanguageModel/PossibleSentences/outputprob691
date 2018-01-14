@@ -1,0 +1,18 @@
+isa leikhoo chhoot:aa aura samajha nei mei ata aa saa na hoo aisaa rakhein:
+1 sentences, 14 words, 0 OOVs
+0 zeroprobs, logprob= -42.1267 ppl= 643.344 ppl1= 1021.05
+
+isa leikhoo chhoot:aa aura samajhanei mei ata aa saa na hoo aisaa rakhein:
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -37.0348 ppl= 441.919 ppl1= 706.043
+
+isa leikhoo chhoot:aa aura samajha nei mei ata aasaana hoo aisaa rakhein:
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -34.61 ppl= 459.527 ppl1= 765.897
+
+isa leikhoo chhoot:aa aura samajhanei mei ata aasaana hoo aisaa rakhein:
+1 sentences, 11 words, 0 OOVs
+0 zeroprobs, logprob= -29.5182 ppl= 288.303 ppl1= 482.472
+
+file ./PossibleSentences/output691: 4 sentences, 50 words, 0 OOVs
+0 zeroprobs, logprob= -143.29 ppl= 450.311 ppl1= 734.165

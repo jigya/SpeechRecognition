@@ -1,0 +1,14 @@
+isa mai doo bhaaga hei puraa na niyama taura na yaa niyama
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -38.6801 ppl= 944.913 ppl1= 1672.4
+
+isa mai doo bhaaga hei puraa na niyama tau rana yaa niyama
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -39.8979 ppl= 1172.39 ppl1= 2112.64
+
+isa mai doo bhaaga hei puraa na niyama taura nayaa niyama
+1 sentences, 11 words, 0 OOVs
+0 zeroprobs, logprob= -34.0454 ppl= 687.254 ppl1= 1244.62
+
+file ./PossibleSentences/output828: 3 sentences, 35 words, 0 OOVs
+0 zeroprobs, logprob= -112.623 ppl= 919.971 ppl1= 1651.25

@@ -1,0 +1,10 @@
+san:ga naari bahu ki ei banaavaa
+1 sentences, 6 words, 1 OOVs
+0 zeroprobs, logprob= -13.6646 ppl= 189.426 ppl1= 540.664
+
+san:ga naari bahu kiei banaavaa
+1 sentences, 5 words, 1 OOVs
+0 zeroprobs, logprob= -10.7604 ppl= 141.932 ppl1= 489.892
+
+file ./PossibleSentences/output341: 2 sentences, 11 words, 2 OOVs
+0 zeroprobs, logprob= -24.425 ppl= 166.134 ppl1= 517.48

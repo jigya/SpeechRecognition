@@ -1,0 +1,14 @@
+kaha oon: puni san:bhu samujhi pana aapa na
+1 sentences, 8 words, 0 OOVs
+0 zeroprobs, logprob= -20.6514 ppl= 197.06 ppl1= 381.437
+
+kaha oon: puni san:bhu samujhi pana aa pana
+1 sentences, 8 words, 0 OOVs
+0 zeroprobs, logprob= -22.8979 ppl= 350.119 ppl1= 728.187
+
+kaha oon: puni san:bhu samujhi pana aapana
+1 sentences, 7 words, 0 OOVs
+0 zeroprobs, logprob= -15.4399 ppl= 85.1102 ppl1= 160.581
+
+file ./PossibleSentences/output851: 3 sentences, 23 words, 0 OOVs
+0 zeroprobs, logprob= -58.9892 ppl= 185.701 ppl1= 367.068

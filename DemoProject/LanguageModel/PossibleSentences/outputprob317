@@ -1,0 +1,10 @@
+raajiiva aapa kaa kaama kaaphii ei achchhaa hai
+1 sentences, 8 words, 0 OOVs
+0 zeroprobs, logprob= -20.5423 ppl= 191.635 ppl1= 369.645
+
+raajiiva aapakaa kaama kaaphii ei achchhaa hai
+1 sentences, 7 words, 0 OOVs
+0 zeroprobs, logprob= -15.7068 ppl= 91.9081 ppl1= 175.321
+
+file ./PossibleSentences/output317: 2 sentences, 15 words, 0 OOVs
+0 zeroprobs, logprob= -36.2491 ppl= 135.613 ppl1= 260.98

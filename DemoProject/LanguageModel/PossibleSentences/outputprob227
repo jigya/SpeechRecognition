@@ -1,0 +1,10 @@
+isa kshheitra kii siimaa kein: saatha saatha vyaasa
+1 sentences, 8 words, 0 OOVs
+0 zeroprobs, logprob= -22.7045 ppl= 333.212 ppl1= 688.749
+
+isa kshheitra kii siimaa kein: saathasaatha vyaasa
+1 sentences, 7 words, 0 OOVs
+0 zeroprobs, logprob= -17.6195 ppl= 159.383 ppl1= 328.909
+
+file ./PossibleSentences/output227: 2 sentences, 15 words, 0 OOVs
+0 zeroprobs, logprob= -40.324 ppl= 235.505 ppl1= 487.829

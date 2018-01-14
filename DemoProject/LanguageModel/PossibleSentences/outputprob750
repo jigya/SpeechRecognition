@@ -1,0 +1,10 @@
+raama sunaa dukhu kaa na na kaauu
+1 sentences, 7 words, 0 OOVs
+0 zeroprobs, logprob= -13.364 ppl= 46.8276 ppl1= 81.1232
+
+raama sunaa dukhu kaana na kaauu
+1 sentences, 6 words, 0 OOVs
+0 zeroprobs, logprob= -7.41611 ppl= 11.4669 ppl1= 17.2194
+
+file ./PossibleSentences/output750: 2 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -20.7801 ppl= 24.2852 ppl1= 39.6708

@@ -1,0 +1,10 @@
+phira chaahei vaha kahiin: kaa san:giita hoo ki sii kaa bhii san:giita hoo
+1 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -25.6939 ppl= 68.4352 ppl1= 94.7229
+
+phira chaahei vaha kahiin: kaa san:giita hoo kisii kaa bhii san:giita hoo
+1 sentences, 12 words, 0 OOVs
+0 zeroprobs, logprob= -21.1118 ppl= 42.0709 ppl1= 57.4531
+
+file ./PossibleSentences/output848: 2 sentences, 25 words, 0 OOVs
+0 zeroprobs, logprob= -46.8057 ppl= 54.1432 ppl1= 74.5121

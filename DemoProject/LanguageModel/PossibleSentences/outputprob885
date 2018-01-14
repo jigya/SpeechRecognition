@@ -1,0 +1,10 @@
+bhrama aa vishhnd~u rudra sura jei tei
+1 sentences, 7 words, 0 OOVs
+0 zeroprobs, logprob= -22.2124 ppl= 597.795 ppl1= 1490.05
+
+bhrama aa vishhnd~u rudra sura jeitei
+1 sentences, 6 words, 0 OOVs
+0 zeroprobs, logprob= -15.0554 ppl= 141.505 ppl1= 323.023
+
+file ./PossibleSentences/output885: 2 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -37.2678 ppl= 305.156 ppl1= 735.793

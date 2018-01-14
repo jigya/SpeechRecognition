@@ -1,0 +1,10 @@
+chhattiisagad:h tathaa ud:iisaa an:chala kii sata sei bad:ii na dii hai
+1 sentences, 11 words, 0 OOVs
+0 zeroprobs, logprob= -25.6853 ppl= 138.178 ppl1= 216.284
+
+chhattiisagad:h tathaa ud:iisaa an:chala kii sata sei bad:ii nadii hai
+1 sentences, 10 words, 0 OOVs
+0 zeroprobs, logprob= -20.4184 ppl= 71.8148 ppl1= 110.112
+
+file ./PossibleSentences/output644: 2 sentences, 21 words, 0 OOVs
+0 zeroprobs, logprob= -46.1036 ppl= 101.043 ppl1= 156.823

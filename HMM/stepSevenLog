@@ -1,0 +1,267 @@
+HHEd -A -D -T 1 -H hmm12/macros -H hmm12/hmmdefs -M hmm13 tree.hed triphones1 
+
+No HTK Configuration Parameters Set
+
+HHEd
+ 12474/12474 Models Loaded [5 states max, 1 mixes max]
+RO 100.00 ''
+ Setting outlier threshold for clustering
+ RO->LS stats
+  and loading state occupation stats
+--------------------------------------------------------------------------------
+hmm13 made!!
+--------------------------------------------------------------------------------
+HERest -A -D -T 1 -C configHtk -I wintri.mlf -s stats -t 250.0 150.0 3000.0 -S fileNames0.txt -H hmm13/macros -H hmm13/hmmdefs -M dir2 -p 1 tiedlist 
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+#                 NUMCEPS                       12
+#                 CEPLIFTER                     22
+#                 NUMCHANS                      26
+#                 PREEMCOEF               0.970000
+#                 USEHAMMING                  TRUE
+#                 WINDOWSIZE         250000.000000
+#                 SAVEWITHCRC                 TRUE
+#                 SAVECOMPRESSED              TRUE
+#                 TARGETRATE         100000.000000
+#                 TARGETKIND          MFCC_0_D_N_Z
+
+HERest -A -D -T 1 -C configHtk -I wintri.mlf -s stats -t 250.0 150.0 3000.0 -S fileNames1.txt -H hmm13/macros -H hmm13/hmmdefs -M dir2 -p 2 tiedlist 
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+#                 NUMCEPS                       12
+#                 CEPLIFTER                     22
+#                 NUMCHANS                      26
+#                 PREEMCOEF               0.970000
+#                 USEHAMMING                  TRUE
+#                 WINDOWSIZE         250000.000000
+#                 SAVEWITHCRC                 TRUE
+#                 SAVECOMPRESSED              TRUE
+#                 TARGETRATE         100000.000000
+#                 TARGETKIND          MFCC_0_D_N_Z
+
+HERest -A -D -T 1 -C configHtk -I wintri.mlf -s stats -t 250.0 150.0 3000.0 -S fileNames2.txt -H hmm13/macros -H hmm13/hmmdefs -M dir2 -p 3 tiedlist 
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+#                 NUMCEPS                       12
+#                 CEPLIFTER                     22
+#                 NUMCHANS                      26
+#                 PREEMCOEF               0.970000
+#                 USEHAMMING                  TRUE
+#                 WINDOWSIZE         250000.000000
+#                 SAVEWITHCRC                 TRUE
+#                 SAVECOMPRESSED              TRUE
+#                 TARGETRATE         100000.000000
+#                 TARGETKIND          MFCC_0_D_N_Z
+
+HERest -A -D -T 1 -C configHtk -I wintri.mlf -s stats -t 250.0 150.0 3000.0 -S fileNames3.txt -H hmm13/macros -H hmm13/hmmdefs -M dir2 -p 4 tiedlist 
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+#                 NUMCEPS                       12
+#                 CEPLIFTER                     22
+#                 NUMCHANS                      26
+#                 PREEMCOEF               0.970000
+#                 USEHAMMING                  TRUE
+#                 WINDOWSIZE         250000.000000
+#                 SAVEWITHCRC                 TRUE
+#                 SAVECOMPRESSED              TRUE
+#                 TARGETRATE         100000.000000
+#                 TARGETKIND          MFCC_0_D_N_Z
+
+HERest -A -D -T 1 -C configHtk -I wintri.mlf -s stats -t 250.0 150.0 3000.0 -S fileNames4.txt -H hmm13/macros -H hmm13/hmmdefs -M dir2 -p 5 tiedlist 
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+#                 NUMCEPS                       12
+#                 CEPLIFTER                     22
+#                 NUMCHANS                      26
+#                 PREEMCOEF               0.970000
+#                 USEHAMMING                  TRUE
+#                 WINDOWSIZE         250000.000000
+#                 SAVEWITHCRC                 TRUE
+#                 SAVECOMPRESSED              TRUE
+#                 TARGETRATE         100000.000000
+#                 TARGETKIND          MFCC_0_D_N_Z
+
+HERest -A -D -T 1 -C configHtk -I wintri.mlf -s stats -t 250.0 150.0 3000.0 -S fileNames5.txt -H hmm13/macros -H hmm13/hmmdefs -M dir2 -p 6 tiedlist 
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+#                 NUMCEPS                       12
+#                 CEPLIFTER                     22
+#                 NUMCHANS                      26
+#                 PREEMCOEF               0.970000
+#                 USEHAMMING                  TRUE
+#                 WINDOWSIZE         250000.000000
+#                 SAVEWITHCRC                 TRUE
+#                 SAVECOMPRESSED              TRUE
+#                 TARGETRATE         100000.000000
+#                 TARGETKIND          MFCC_0_D_N_Z
+
+HERest -A -D -T 1 -C configHtk -I wintri.mlf -s stats -t 250.0 150.0 3000.0 -S fileNames6.txt -H hmm13/macros -H hmm13/hmmdefs -M dir2 -p 7 tiedlist 
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+#                 NUMCEPS                       12
+#                 CEPLIFTER                     22
+#                 NUMCHANS                      26
+#                 PREEMCOEF               0.970000
+#                 USEHAMMING                  TRUE
+#                 WINDOWSIZE         250000.000000
+#                 SAVEWITHCRC                 TRUE
+#                 SAVECOMPRESSED              TRUE
+#                 TARGETRATE         100000.000000
+#                 TARGETKIND          MFCC_0_D_N_Z
+
+HERest -A -D -T 1 -C configHtk -I wintri.mlf -s stats -t 250.0 150.0 3000.0 -S fileNames7.txt -H hmm13/macros -H hmm13/hmmdefs -M dir2 -p 8 tiedlist 
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+#                 NUMCEPS                       12
+#                 CEPLIFTER                     22
+#                 NUMCHANS                      26
+#                 PREEMCOEF               0.970000
+#                 USEHAMMING                  TRUE
+#                 WINDOWSIZE         250000.000000
+#                 SAVEWITHCRC                 TRUE
+#                 SAVECOMPRESSED              TRUE
+#                 TARGETRATE         100000.000000
+#                 TARGETKIND          MFCC_0_D_N_Z
+
+HERest -A -D -T 1 -p 0 -s stats -t 250.0 150.0 3000.0 -H hmm13/macros -H hmm13/hmmdefs -M hmm14 tiedlist dir2/HER1.acc dir2/HER2.acc dir2/HER3.acc dir2/HER4.acc dir2/HER5.acc dir2/HER6.acc dir2/HER7.acc dir2/HER8.acc 
+
+No HTK Configuration Parameters Set
+
+--------------------------------------------------------------------------------
+hmm14 made!!
+--------------------------------------------------------------------------------
+HERest -A -D -T 1 -C configHtk -I wintri.mlf -s stats -t 250.0 150.0 3000.0 -S fileNames0.txt -H hmm14/macros -H hmm14/hmmdefs -M dir2 -p 1 tiedlist 
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+#                 NUMCEPS                       12
+#                 CEPLIFTER                     22
+#                 NUMCHANS                      26
+#                 PREEMCOEF               0.970000
+#                 USEHAMMING                  TRUE
+#                 WINDOWSIZE         250000.000000
+#                 SAVEWITHCRC                 TRUE
+#                 SAVECOMPRESSED              TRUE
+#                 TARGETRATE         100000.000000
+#                 TARGETKIND          MFCC_0_D_N_Z
+
+HERest -A -D -T 1 -C configHtk -I wintri.mlf -s stats -t 250.0 150.0 3000.0 -S fileNames1.txt -H hmm14/macros -H hmm14/hmmdefs -M dir2 -p 2 tiedlist 
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+#                 NUMCEPS                       12
+#                 CEPLIFTER                     22
+#                 NUMCHANS                      26
+#                 PREEMCOEF               0.970000
+#                 USEHAMMING                  TRUE
+#                 WINDOWSIZE         250000.000000
+#                 SAVEWITHCRC                 TRUE
+#                 SAVECOMPRESSED              TRUE
+#                 TARGETRATE         100000.000000
+#                 TARGETKIND          MFCC_0_D_N_Z
+
+HERest -A -D -T 1 -C configHtk -I wintri.mlf -s stats -t 250.0 150.0 3000.0 -S fileNames2.txt -H hmm14/macros -H hmm14/hmmdefs -M dir2 -p 3 tiedlist 
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+#                 NUMCEPS                       12
+#                 CEPLIFTER                     22
+#                 NUMCHANS                      26
+#                 PREEMCOEF               0.970000
+#                 USEHAMMING                  TRUE
+#                 WINDOWSIZE         250000.000000
+#                 SAVEWITHCRC                 TRUE
+#                 SAVECOMPRESSED              TRUE
+#                 TARGETRATE         100000.000000
+#                 TARGETKIND          MFCC_0_D_N_Z
+
+HERest -A -D -T 1 -C configHtk -I wintri.mlf -s stats -t 250.0 150.0 3000.0 -S fileNames3.txt -H hmm14/macros -H hmm14/hmmdefs -M dir2 -p 4 tiedlist 
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+#                 NUMCEPS                       12
+#                 CEPLIFTER                     22
+#                 NUMCHANS                      26
+#                 PREEMCOEF               0.970000
+#                 USEHAMMING                  TRUE
+#                 WINDOWSIZE         250000.000000
+#                 SAVEWITHCRC                 TRUE
+#                 SAVECOMPRESSED              TRUE
+#                 TARGETRATE         100000.000000
+#                 TARGETKIND          MFCC_0_D_N_Z
+
+HERest -A -D -T 1 -C configHtk -I wintri.mlf -s stats -t 250.0 150.0 3000.0 -S fileNames4.txt -H hmm14/macros -H hmm14/hmmdefs -M dir2 -p 5 tiedlist 
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+#                 NUMCEPS                       12
+#                 CEPLIFTER                     22
+#                 NUMCHANS                      26
+#                 PREEMCOEF               0.970000
+#                 USEHAMMING                  TRUE
+#                 WINDOWSIZE         250000.000000
+#                 SAVEWITHCRC                 TRUE
+#                 SAVECOMPRESSED              TRUE
+#                 TARGETRATE         100000.000000
+#                 TARGETKIND          MFCC_0_D_N_Z
+
+HERest -A -D -T 1 -C configHtk -I wintri.mlf -s stats -t 250.0 150.0 3000.0 -S fileNames5.txt -H hmm14/macros -H hmm14/hmmdefs -M dir2 -p 6 tiedlist 
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+#                 NUMCEPS                       12
+#                 CEPLIFTER                     22
+#                 NUMCHANS                      26
+#                 PREEMCOEF               0.970000
+#                 USEHAMMING                  TRUE
+#                 WINDOWSIZE         250000.000000
+#                 SAVEWITHCRC                 TRUE
+#                 SAVECOMPRESSED              TRUE
+#                 TARGETRATE         100000.000000
+#                 TARGETKIND          MFCC_0_D_N_Z
+
+HERest -A -D -T 1 -C configHtk -I wintri.mlf -s stats -t 250.0 150.0 3000.0 -S fileNames6.txt -H hmm14/macros -H hmm14/hmmdefs -M dir2 -p 7 tiedlist 
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+#                 NUMCEPS                       12
+#                 CEPLIFTER                     22
+#                 NUMCHANS                      26
+#                 PREEMCOEF               0.970000
+#                 USEHAMMING                  TRUE
+#                 WINDOWSIZE         250000.000000
+#                 SAVEWITHCRC                 TRUE
+#                 SAVECOMPRESSED              TRUE
+#                 TARGETRATE         100000.000000
+#                 TARGETKIND          MFCC_0_D_N_Z
+
+HERest -A -D -T 1 -C configHtk -I wintri.mlf -s stats -t 250.0 150.0 3000.0 -S fileNames7.txt -H hmm14/macros -H hmm14/hmmdefs -M dir2 -p 8 tiedlist 
+
+HTK Configuration Parameters[10]
+  Module/Tool     Parameter                  Value
+#                 NUMCEPS                       12
+#                 CEPLIFTER                     22
+#                 NUMCHANS                      26
+#                 PREEMCOEF               0.970000
+#                 USEHAMMING                  TRUE
+#                 WINDOWSIZE         250000.000000
+#                 SAVEWITHCRC                 TRUE
+#                 SAVECOMPRESSED              TRUE
+#                 TARGETRATE         100000.000000
+#                 TARGETKIND          MFCC_0_D_N_Z
+
+HERest -A -D -T 1 -p 0 -s stats -t 250.0 150.0 3000.0 -H hmm14/macros -H hmm14/hmmdefs -M hmm15 tiedlist dir2/HER1.acc dir2/HER2.acc dir2/HER3.acc dir2/HER4.acc dir2/HER5.acc dir2/HER6.acc dir2/HER7.acc dir2/HER8.acc 
+
+No HTK Configuration Parameters Set
+
+--------------------------------------------------------------------------------
+hmm15 made!!
+--------------------------------------------------------------------------------

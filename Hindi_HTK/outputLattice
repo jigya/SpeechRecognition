@@ -1,0 +1,30 @@
+VERSION=1.0
+UTTERANCE=testMfcc/output386.mfc
+lmname=wdnet
+lmscale=5.00   wdpenalty=20.00 
+acscale=1.00  
+vocab=dict
+N=12   L=11   
+I=0    t=0.00  W=!NULL               
+I=1    t=0.56  W=sent-start          v=1  
+I=2    t=1.05  W=bhaarata            v=1  
+I=3    t=1.23  W=nei                 v=1  
+I=4    t=1.34  W=yei                 v=1  
+I=5    t=1.61  W=aisaa               v=1  
+I=6    t=1.79  W=nei                 v=1  
+I=7    t=2.02  W=hii                 v=1  
+I=8    t=2.28  W=huaa                v=1  
+I=9    t=2.54  W=hai                 v=1  
+I=10   t=2.94  W=!NULL               
+I=11   t=2.94  W=sent-end            v=1  
+J=0     S=0    E=1    a=-2564.52  l=0.000   
+J=1     S=1    E=2    a=-2848.03  l=0.000   
+J=2     S=2    E=3    a=-1073.49  l=0.000   
+J=3     S=3    E=4    a=-668.11   l=0.000   
+J=4     S=4    E=5    a=-1623.73  l=0.000   
+J=5     S=5    E=6    a=-1040.21  l=0.000   
+J=6     S=6    E=7    a=-1295.10  l=0.000   
+J=7     S=7    E=8    a=-1583.34  l=0.000   
+J=8     S=8    E=9    a=-1467.75  l=0.000   
+J=9     S=11   E=10   a=0.00      l=0.000   
+J=10    S=9    E=11   a=-1789.24  l=0.000   

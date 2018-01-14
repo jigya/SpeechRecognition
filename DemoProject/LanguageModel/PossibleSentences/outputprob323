@@ -1,0 +1,10 @@
+isa kaa prabhaava mukhyatah: nagaroon: mein: huaa hai
+1 sentences, 8 words, 0 OOVs
+0 zeroprobs, logprob= -12.8829 ppl= 27.0041 ppl1= 40.7717
+
+isakaa prabhaava mukhyatah: nagaroon: mein: huaa hai
+1 sentences, 7 words, 0 OOVs
+0 zeroprobs, logprob= -10.0082 ppl= 17.8248 ppl1= 26.8994
+
+file ./PossibleSentences/output323: 2 sentences, 15 words, 0 OOVs
+0 zeroprobs, logprob= -22.8911 ppl= 22.2092 ppl1= 33.5793

@@ -1,0 +1,10 @@
+bhaarata mei aisaa na hii huaa hai
+1 sentences, 7 words, 0 OOVs
+0 zeroprobs, logprob= -15.2781 ppl= 81.2378 ppl1= 152.258
+
+bhaarata mei aisaa nahii huaa hai
+1 sentences, 6 words, 0 OOVs
+0 zeroprobs, logprob= -11.4216 ppl= 42.8212 ppl1= 80.0943
+
+file ./PossibleSentences/output344: 2 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -26.6997 ppl= 60.253 ppl1= 113.193

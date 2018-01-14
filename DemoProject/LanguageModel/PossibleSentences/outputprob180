@@ -1,0 +1,10 @@
+isa kei avashya mei kahaa jaataa hai
+1 sentences, 7 words, 0 OOVs
+0 zeroprobs, logprob= -13.9768 ppl= 55.8599 ppl1= 99.2399
+
+isakei avashya mei kahaa jaataa hai
+1 sentences, 6 words, 0 OOVs
+0 zeroprobs, logprob= -12.9634 ppl= 71.1082 ppl1= 144.735
+
+file ./PossibleSentences/output180: 2 sentences, 13 words, 0 OOVs
+0 zeroprobs, logprob= -26.9402 ppl= 62.5196 ppl1= 118.121

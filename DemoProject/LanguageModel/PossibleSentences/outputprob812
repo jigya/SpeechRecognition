@@ -1,0 +1,10 @@
+aapa sei chhoot:aa niveidana thaa aa
+1 sentences, 6 words, 0 OOVs
+0 zeroprobs, logprob= -15.0068 ppl= 139.26 ppl1= 317.051
+
+aapasei chhoot:aa niveidana thaa aa
+1 sentences, 5 words, 0 OOVs
+0 zeroprobs, logprob= -14.5494 ppl= 266.009 ppl1= 812.597
+
+file ./PossibleSentences/output812: 2 sentences, 11 words, 0 OOVs
+0 zeroprobs, logprob= -29.5562 ppl= 187.737 ppl1= 486.321
